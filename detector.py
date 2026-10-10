@@ -66,59 +66,130 @@ def helius_rpc(method, params):
 
 
 def get_new_pump_tokens(lookback_minutes=LOOKBACK_MIN):
-    """Fetch recently created tokens from Pump.fun via Helius getSignaturesForAddress."""
-    print(f"[1] Fetching new Pump.fun tokens (last {lookback_minutes}min)...")
-    PUMP_PROGRAM = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
-    cutoff = datetime.now(timezone.utc) - timedelta(minutes=lookback_minutes)
-    cutoff_ts = int(cutoff.timestamp())
-
-    sigs = helius_rpc("getSignaturesForAddress", [
-        PUMP_PROGRAM,
-        {"limit": 200, "commitment": "confirmed"}
-    ])
-    if not sigs:
-        return []
-
-    recent = [s for s in sigs if s.get("blockTime", 0) >= cutoff_ts]
-    print(f"  Found {len(recent)} recent signatures")
+    """
+    Fetch recently launched tokens using DexScreener's new-pairs endpoint
+    (free, no key) filtered to Solana + Pump.fun. Falls back to Helius
+    token-metadata search if DexScreener returns nothing.
+    """
+    print(f"[1] Fetching new Solana tokens (last {lookback_minutes}min)...")
+    cutoff_ts = int((datetime.now(timezone.utc) - timedelta(minutes=lookback_minutes)).timestamp())
 
     tokens = []
-    for sig in recent[:50]:  # cap to avoid rate limits
-        tx = helius_rpc("getTransaction", [
-            sig["signature"],
-            {"encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}
-        ])
-        if not tx:
-            continue
-        try:
-            meta = tx.get("meta", {})
-            post_balances = meta.get("postTokenBalances", [])
-            for bal in post_balances:
-                mint = bal.get("mint")
-                if mint and len(mint) > 30:
+
+    # ── Strategy 1: DexScreener latest Solana pairs (free, reliable) ──
+    try:
+        r = requests.get(
+            "https://api.dexscreener.com/token-profiles/latest/v1",
+            timeout=15
+        )
+        if r.status_code == 200:
+            profiles = r.json() if isinstance(r.json(), list) else []
+            for p in profiles:
+                if p.get("chainId") != "solana":
+                    continue
+                addr = p.get("tokenAddress", "")
+                if addr and len(addr) > 30:
                     tokens.append({
-                        "mint": mint,
-                        "ts": sig.get("blockTime", 0),
-                        "sig": sig["signature"][:16]
+                        "mint":   addr,
+                        "name":   p.get("header", "") or "",
+                        "symbol": "",
+                        "description": p.get("description", "") or "",
+                        "ts":     int(datetime.now(timezone.utc).timestamp()),
                     })
-                    break
-        except Exception:
-            continue
-        time.sleep(0.05)
+            print(f"  DexScreener profiles: {len(tokens)} Solana tokens")
+    except Exception as e:
+        print(f"  [DexScreener profile error] {e}")
 
-    # dedupe by mint
-    seen = set()
-    unique = []
-    for t in tokens:
-        if t["mint"] not in seen:
-            seen.add(t["mint"])
-            unique.append(t)
-    print(f"  Extracted {len(unique)} unique mints")
-    return unique
+    # ── Strategy 2: DexScreener boosted tokens (catches trending new ones) ──
+    try:
+        r2 = requests.get(
+            "https://api.dexscreener.com/token-boosts/latest/v1",
+            timeout=15
+        )
+        if r2.status_code == 200:
+            boosts = r2.json() if isinstance(r2.json(), list) else []
+            existing_mints = {t["mint"] for t in tokens}
+            for b in boosts:
+                if b.get("chainId") != "solana":
+                    continue
+                addr = b.get("tokenAddress", "")
+                if addr and addr not in existing_mints:
+                    tokens.append({
+                        "mint":   addr,
+                        "name":   b.get("description", "") or "",
+                        "symbol": "",
+                        "description": b.get("description", "") or "",
+                        "ts":     int(datetime.now(timezone.utc).timestamp()),
+                    })
+                    existing_mints.add(addr)
+            print(f"  DexScreener boosts added. Total: {len(tokens)}")
+    except Exception as e:
+        print(f"  [DexScreener boost error] {e}")
+
+    # ── Strategy 3: DexScreener search for "pump" new pairs ──
+    if len(tokens) < 10:
+        try:
+            r3 = requests.get(
+                "https://api.dexscreener.com/latest/dex/search?q=pump",
+                timeout=15
+            )
+            if r3.status_code == 200:
+                pairs = r3.json().get("pairs", []) or []
+                existing_mints = {t["mint"] for t in tokens}
+                for p in pairs:
+                    if p.get("chainId") != "solana":
+                        continue
+                    # Only include pairs created recently
+                    created = p.get("pairCreatedAt", 0) or 0
+                    if isinstance(created, int) and created > 0:
+                        created_ts = created // 1000  # ms → s
+                        if created_ts < cutoff_ts:
+                            continue
+                    base = p.get("baseToken", {})
+                    addr = base.get("address", "")
+                    if addr and addr not in existing_mints and len(addr) > 30:
+                        tokens.append({
+                            "mint":   addr,
+                            "name":   base.get("name", "") or "",
+                            "symbol": base.get("symbol", "") or "",
+                            "description": "",
+                            "ts":     created // 1000 if created else int(datetime.now(timezone.utc).timestamp()),
+                            "liq_usd":  float(p.get("liquidity", {}).get("usd", 0) or 0),
+                            "vol_24h":  float(p.get("volume", {}).get("h24", 0) or 0),
+                            "buys_1h":  int(p.get("txns", {}).get("h1", {}).get("buys", 0) or 0),
+                            "sells_1h": int(p.get("txns", {}).get("h1", {}).get("sells", 0) or 0),
+                            "mcap":     float(p.get("fdv", 0) or 0),
+                            "dex_url":  p.get("url", ""),
+                        })
+                        existing_mints.add(addr)
+                print(f"  DexScreener search added. Total: {len(tokens)}")
+        except Exception as e:
+            print(f"  [DexScreener search error] {e}")
+
+    print(f"  {len(tokens)} unique tokens found")
+    return tokens
 
 
-def enrich_token(mint):
-    """Get token metadata from Helius DAS API."""
+def enrich_token(mint, existing=None):
+    """
+    Get token metadata. Uses data already fetched from DexScreener if available,
+    otherwise queries DexScreener pairs endpoint. Avoids Helius RPC for individual txns.
+    """
+    # If we already have good data from the fetch step, use it
+    if existing and (existing.get("name") or existing.get("symbol")):
+        # Still try to get DEX data if missing
+        if not existing.get("dex_url"):
+            dex = get_dex_data(mint)
+            return {**existing, **dex}
+        return existing
+
+    # Otherwise fetch from DexScreener
+    dex = get_dex_data(mint)
+    return {"name": "", "symbol": "", "description": "", **dex}
+
+
+def enrich_token_meta(mint):
+    """Get token metadata from Helius DAS API (batch-safe, used sparingly)."""
     try:
         r = requests.post(
             f"{HELIUS_API}/token-metadata?api-key={HELIUS_KEY}",
@@ -342,16 +413,16 @@ def run():
     # 1. Get new tokens from Pump.fun
     raw_tokens = get_new_pump_tokens(LOOKBACK_MIN)
 
-    # 2. Enrich with metadata
+    # 2. Enrich with metadata + DEX data
     print(f"\n[2] Enriching {len(raw_tokens)} tokens...")
     enriched = []
     for t in raw_tokens:
-        meta = enrich_token(t["mint"])
-        if not meta["name"] and not meta["symbol"]:
+        enriched_t = enrich_token(t["mint"], existing=t)
+        # Skip tokens with no name AND no symbol AND no dex data
+        if not enriched_t.get("name") and not enriched_t.get("symbol") and not enriched_t.get("dex_url"):
             continue
-        dex = get_dex_data(t["mint"])
-        enriched.append({**t, **meta, **dex})
-        time.sleep(0.1)
+        enriched.append(enriched_t)
+        time.sleep(0.05)
     print(f"  {len(enriched)} tokens with metadata")
 
     # 3. Classify into narratives
