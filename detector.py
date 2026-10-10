@@ -339,7 +339,7 @@ def detect_novel_clusters(tokens):
         words = tokenize(t.get("name", "") + " " + t.get("symbol", ""))
         for w in words:
             if w not in stop and len(w) >= 3:
-                word_to_tokens[w].append(t["mint"])
+                word_to_tokens[w].append(t.get("mint", ""))
 
     # Find words shared by 2+ tokens that aren't already in seed narratives
     known_words = set()
@@ -417,7 +417,7 @@ def run():
     print(f"\n[2] Enriching {len(raw_tokens)} tokens...")
     enriched = []
     for t in raw_tokens:
-        enriched_t = enrich_token(t["mint"], existing=t)
+        enriched_t = enrich_token(t.get("mint", ""), existing=t)
         # Skip tokens with no name AND no symbol AND no dex data
         if not enriched_t.get("name") and not enriched_t.get("symbol") and not enriched_t.get("dex_url"):
             continue
@@ -436,7 +436,7 @@ def run():
     # 4. Detect novel clusters
     novel = detect_novel_clusters(enriched)
     for word, mints in novel.items():
-        cluster_tokens = [t for t in enriched if t["mint"] in mints]
+        cluster_tokens = [t for t in enriched if t.get("mint") in mints]
         if len(cluster_tokens) >= MIN_CLUSTER:
             narrative_tokens[f"novel:{word}"].extend(cluster_tokens)
 
