@@ -1,0 +1,40 @@
+name: narrative-detector
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # every hour at :17
+  workflow_dispatch:         # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run detector
+        env:
+          HELIUS_KEY: ${{ secrets.HELIUS_KEY }}
+        run: python detector.py
+
+      - name: Commit data
+        run: |
+          git config user.name  "narrative-bot"
+          git config user.email "narrative-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "data: update narratives $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
