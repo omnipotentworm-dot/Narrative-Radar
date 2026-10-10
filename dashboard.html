@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Solana Narrative Radar</title>
+<style>
+  :root {
+    --bg:       #0a0a0f;
+    --surface:  #13131a;
+    --card:     #1a1a24;
+    --border:   #2a2a3a;
+    --accent:   #9945FF;
+    --accent2:  #14F195;
+    --warn:     #F59E0B;
+    --danger:   #EF4444;
+    --text:     #e8e8f0;
+    --muted:    #6b7280;
+    --forming:  #14F195;
+    --expanding:#F59E0B;
+    --crowded:  #EF4444;
+    --watching: #6b7280;
+    --early:    #60a5fa;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, sans-serif;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+  }
+
+  .logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem;
+  }
+
+  .logo-text { font-size: 1.1rem; font-weight: 700; letter-spacing: -.02em; }
+  .logo-sub  { font-size: .72rem; color: var(--muted); margin-top: 1px; }
+
+  .header-meta {
+    display: flex; align-items: center; gap: 1.5rem;
+  }
+
+  .pulse {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent2);
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%       { opacity: .4; transform: scale(.8); }
+  }
+
+  .stat-chip {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: .3rem .75rem;
+    font-size: .78rem;
+    color: var(--muted);
+  }
+
+  .stat-chip strong { color: var(--text); }
+
+  /* ── Layout ── */
+  main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; }
+
+  /* ── Filter bar ── */
+  .filter-bar {
+    display: flex; gap: .5rem; margin-bottom: 1.5rem; flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: .35rem .85rem;
+    border-radius: 20px;
+    font-size: .78rem;
+    cursor: pointer;
+    transition: all .15s;
+  }
+
+  .filter-btn:hover,
+  .filter-btn.active {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(153,69,255,.08);
+  }
+
+  /* ── Grid ── */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 1rem;
+  }
+
+  /* ── Narrative Card ── */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 1.25rem;
+    transition: border-color .2s, transform .15s;
+    cursor: pointer;
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+
+  .card.stage-forming  { border-left: 3px solid var(--forming); }
+  .card.stage-early    { border-left: 3px solid var(--early); }
+  .card.stage-expanding{ border-left: 3px solid var(--expanding); }
+  .card.stage-crowded  { border-left: 3px solid var(--crowded); }
+  .card.stage-watching { border-left: 3px solid var(--watching); }
+
+  .card-header {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    margin-bottom: .85rem;
+  }
+
+  .narrative-name {
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: -.01em;
+  }
+
+  .stage-badge {
+    font-size: .72rem;
+    padding: .25rem .6rem;
+    border-radius: 12px;
+    background: rgba(255,255,255,.06);
+    white-space: nowrap;
+  }
+
+  /* Score ring */
+  .score-ring {
+    position: relative;
+    width: 56px; height: 56px;
+    flex-shrink: 0;
+  }
+
+  .score-ring svg { width: 56px; height: 56px; transform: rotate(-90deg); }
+
+  .score-ring circle {
+    fill: none;
+    stroke-width: 4;
+    stroke-linecap: round;
+  }
+
+  .score-ring .track { stroke: var(--border); }
+
+  .score-ring .fill  {
+    stroke: var(--accent2);
+    transition: stroke-dasharray .5s ease;
+  }
+
+  .score-val {
+    position: absolute;
+    inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-size: .75rem;
+    font-weight: 700;
+  }
+
+  /* Stats row */
+  .stats-row {
+    display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: .85rem;
+  }
+
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: .3rem .6rem;
+    font-size: .72rem;
+    display: flex; align-items: center; gap: .3rem;
+  }
+
+  .stat-label { color: var(--muted); }
+  .stat-value { font-weight: 600; }
+
+  /* Token list */
+  .token-list { display: flex; flex-direction: column; gap: .4rem; }
+
+  .token-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: .4rem .7rem;
+    font-size: .75rem;
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color .15s;
+  }
+
+  .token-row:hover { border-color: var(--accent); }
+
+  .token-name {
+    font-weight: 600;
+    max-width: 120px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+
+  .token-ticker { color: var(--accent); font-size: .7rem; }
+
+  .token-liq {
+    color: var(--accent2);
+    font-size: .7rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .token-buys { color: var(--muted); font-size: .68rem; }
+
+  /* Social snippet */
+  .social-samples {
+    margin-top: .75rem;
+    border-top: 1px solid var(--border);
+    padding-top: .75rem;
+  }
+
+  .social-label { font-size: .68rem; color: var(--muted); margin-bottom: .4rem; }
+
+  .social-post {
+    font-size: .72rem;
+    color: var(--muted);
+    background: var(--surface);
+    border-radius: 6px;
+    padding: .35rem .6rem;
+    margin-bottom: .3rem;
+    line-height: 1.4;
+    border-left: 2px solid var(--border);
+  }
+
+  /* ── History sparkline ── */
+  .sparkline { margin-top: .75rem; }
+  .sparkline canvas { width: 100%; height: 40px; }
+
+  /* ── Empty state ── */
+  .empty {
+    grid-column: 1/-1;
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+  }
+
+  .empty-icon { font-size: 3rem; margin-bottom: 1rem; }
+
+  /* ── Footer ── */
+  footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--muted);
+    font-size: .75rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+
+  /* ── Loading ── */
+  #loading {
+    position: fixed; inset: 0;
+    background: var(--bg);
+    display: flex; align-items: center; justify-content: center;
+    flex-direction: column; gap: 1rem;
+    z-index: 999;
+  }
+
+  .spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── History panel ── */
+  #history-panel {
+    position: fixed;
+    right: 0; top: 0; bottom: 0;
+    width: 340px;
+    background: var(--surface);
+    border-left: 1px solid var(--border);
+    transform: translateX(100%);
+    transition: transform .3s ease;
+    z-index: 200;
+    overflow-y: auto;
+    padding: 1.5rem;
+  }
+
+  #history-panel.open { transform: translateX(0); }
+
+  .history-close {
+    position: absolute; top: 1rem; right: 1rem;
+    background: none; border: none;
+    color: var(--muted); font-size: 1.2rem; cursor: pointer;
+  }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    header { padding: .75rem 1rem; }
+    main   { padding: 1rem; }
+    .grid  { grid-template-columns: 1fr; }
+    #history-panel { width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <div style="color:var(--muted);font-size:.85rem">Loading narrative data…</div>
+</div>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">📡</div>
+    <div>
+      <div class="logo-text">Narrative Radar</div>
+      <div class="logo-sub">Solana meme narrative detection</div>
+    </div>
+  </div>
+  <div class="header-meta">
+    <div class="pulse" title="Live"></div>
+    <div class="stat-chip">Tokens: <strong id="hdr-tokens">—</strong></div>
+    <div class="stat-chip">Updated: <strong id="hdr-updated">—</strong></div>
+  </div>
+</header>
+
+<main>
+  <div class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" data-stage="all">All</button>
+    <button class="filter-btn" data-stage="forming">🔥 Forming</button>
+    <button class="filter-btn" data-stage="early">🟡 Early</button>
+    <button class="filter-btn" data-stage="expanding">📈 Expanding</button>
+    <button class="filter-btn" data-stage="crowded">🌊 Crowded</button>
+    <button class="filter-btn" data-stage="watching">👀 Watching</button>
+  </div>
+
+  <div class="grid" id="grid">
+    <div class="empty">
+      <div class="empty-icon">📡</div>
+      <div>Waiting for data…</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Narrative Radar · Solana on-chain + X social signals · Auto-updates every 30 min
+</footer>
+
+<div id="history-panel">
+  <button class="history-close" onclick="closeHistory()">✕</button>
+  <h3 style="margin-bottom:1rem;font-size:.9rem">24h Score History</h3>
+  <div id="history-content"></div>
+</div>
+
+<script>
+// ── Data loading ─────────────────────────────────────────────────────────────
+let allNarratives = [];
+let historyData   = [];
+let activeFilter  = 'all';
+
+async function loadData() {
+  try {
+    const r = await fetch('data/narratives.json?t=' + Date.now());
+    if (!r.ok) throw new Error('No data yet');
+    const d = await r.json();
+
+    allNarratives = d.narratives || [];
+    historyData   = d.history   || [];
+
+    document.getElementById('hdr-tokens').textContent = d.tokens_scanned || 0;
+    document.getElementById('hdr-updated').textContent = timeAgo(d.generated_ts);
+
+    render();
+    document.getElementById('loading').style.display = 'none';
+  } catch(e) {
+    document.getElementById('loading').innerHTML =
+      `<div style="color:var(--muted);text-align:center">
+        <div style="font-size:2rem;margin-bottom:.5rem">📡</div>
+        <div>No data yet — waiting for first run</div>
+        <div style="font-size:.75rem;margin-top:.5rem;opacity:.6">${e.message}</div>
+      </div>`;
+  }
+}
+
+// ── Rendering ────────────────────────────────────────────────────────────────
+function stageKey(stage) {
+  if (stage.includes('Forming'))   return 'forming';
+  if (stage.includes('Early'))     return 'early';
+  if (stage.includes('Expanding')) return 'expanding';
+  if (stage.includes('Crowded'))   return 'crowded';
+  return 'watching';
+}
+
+function scoreColor(score) {
+  if (score >= 60) return 'var(--forming)';
+  if (score >= 40) return 'var(--early)';
+  if (score >= 25) return 'var(--expanding)';
+  return 'var(--muted)';
+}
+
+function fmtUsd(n) {
+  if (n >= 1e6) return '$' + (n/1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return '$' + (n/1e3).toFixed(1) + 'K';
+  return '$' + n.toFixed(0);
+}
+
+function timeAgo(ts) {
+  if (!ts) return '—';
+  const d = Math.floor((Date.now()/1000) - ts);
+  if (d < 60)   return d + 's ago';
+  if (d < 3600) return Math.floor(d/60) + 'm ago';
+  return Math.floor(d/3600) + 'h ago';
+}
+
+function scoreRing(score) {
+  const r = 22, circ = 2 * Math.PI * r;
+  const fill = (score / 100) * circ;
+  const color = scoreColor(score);
+  return `<div class="score-ring">
+    <svg viewBox="0 0 56 56">
+      <circle class="track" cx="28" cy="28" r="${r}" stroke-dasharray="${circ}"/>
+      <circle class="fill" cx="28" cy="28" r="${r}"
+        stroke="${color}"
+        stroke-dasharray="${fill} ${circ - fill}"/>
+    </svg>
+    <div class="score-val" style="color:${color}">${Math.round(score)}</div>
+  </div>`;
+}
+
+function renderCard(n) {
+  const sk = stageKey(n.stage);
+  const tokens = (n.top_tokens || []).slice(0, 4);
+
+  const tokenRows = tokens.map(t => {
+    const href = t.dex_url || `https://dexscreener.com/solana/${t.mint}`;
+    return `<a class="token-row" href="${href}" target="_blank" rel="noopener">
+      <div>
+        <div class="token-name">${escHtml(t.name || '?')}</div>
+        <div class="token-ticker">$${escHtml(t.symbol || '?')}</div>
+      </div>
+      <div style="text-align:right">
+        <div class="token-liq">${fmtUsd(t.liq_usd || 0)}</div>
+        <div class="token-buys">${t.buys_1h || 0} buys/hr</div>
+      </div>
+    </a>`;
+  }).join('');
+
+  const socialHtml = (n.social_samples && n.social_samples.length > 0)
+    ? `<div class="social-samples">
+        <div class="social-label">🐦 Recent X posts</div>
+        ${n.social_samples.map(s =>
+          `<div class="social-post">${escHtml(s)}</div>`
+        ).join('')}
+      </div>`
+    : '';
+
+  return `<div class="card stage-${sk}" onclick="showHistory('${n.narrative}')">
+    <div class="card-header">
+      <div>
+        <div class="narrative-name">${escHtml(n.narrative.replace('novel:', '⚡ '))}</div>
+        <div class="stage-badge">${escHtml(n.stage)}</div>
+      </div>
+      ${scoreRing(n.score)}
+    </div>
+
+    <div class="stats-row">
+      <div class="stat">
+        <span class="stat-label">tokens</span>
+        <span class="stat-value">${n.token_count}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">liq</span>
+        <span class="stat-value">${fmtUsd(n.total_liq_usd || 0)}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">buys/hr</span>
+        <span class="stat-value">${n.total_buys_1h || 0}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">X posts</span>
+        <span class="stat-value">${n.social_posts || 0}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">authors</span>
+        <span class="stat-value">${n.social_authors || 0}</span>
+      </div>
+      ${n.crowding > 0.2 ? `<div class="stat" style="border-color:var(--danger)">
+        <span class="stat-label" style="color:var(--danger)">crowded</span>
+        <span class="stat-value" style="color:var(--danger)">${Math.round(n.crowding*100)}%</span>
+      </div>` : ''}
+    </div>
+
+    <div class="token-list">${tokenRows}</div>
+    ${socialHtml}
+  </div>`;
+}
+
+function render() {
+  const filtered = activeFilter === 'all'
+    ? allNarratives
+    : allNarratives.filter(n => stageKey(n.stage) === activeFilter);
+
+  const grid = document.getElementById('grid');
+
+  if (filtered.length === 0) {
+    grid.innerHTML = `<div class="empty">
+      <div class="empty-icon">🔍</div>
+      <div>No ${activeFilter === 'all' ? '' : activeFilter + ' '}narratives detected yet</div>
+      <div style="font-size:.75rem;margin-top:.5rem;color:var(--muted)">Check back after the next run</div>
+    </div>`;
+    return;
+  }
+
+  grid.innerHTML = filtered.map(renderCard).join('');
+}
+
+// ── Filters ───────────────────────────────────────────────────────────────────
+document.getElementById('filter-bar').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeFilter = btn.dataset.stage;
+  render();
+});
+
+// ── History panel ─────────────────────────────────────────────────────────────
+function showHistory(name) {
+  const panel = document.getElementById('history-panel');
+  const content = document.getElementById('history-content');
+
+  const snapshots = historyData
+    .map(snap => {
+      const n = (snap.narratives || []).find(x => x.narrative === name);
+      return n ? { ts: snap.ts, score: n.score, stage: n.stage } : null;
+    })
+    .filter(Boolean);
+
+  if (snapshots.length === 0) {
+    content.innerHTML = `<div style="color:var(--muted);font-size:.8rem">No history yet for <strong>${escHtml(name)}</strong></div>`;
+  } else {
+    const max = Math.max(...snapshots.map(s => s.score));
+    content.innerHTML = `<div style="color:var(--muted);font-size:.75rem;margin-bottom:.75rem">${escHtml(name)}</div>` +
+      snapshots.slice(-24).reverse().map(s => `
+        <div style="display:flex;align-items:center;gap:.5rem;margin-bottom:.4rem;font-size:.75rem">
+          <div style="color:var(--muted);width:60px">${timeAgo(s.ts)}</div>
+          <div style="flex:1;background:var(--card);border-radius:4px;height:6px;overflow:hidden">
+            <div style="height:100%;width:${(s.score/max*100).toFixed(0)}%;background:var(--accent);border-radius:4px"></div>
+          </div>
+          <div style="width:28px;text-align:right;color:${scoreColor(s.score)};font-weight:600">${Math.round(s.score)}</div>
+        </div>
+      `).join('');
+  }
+
+  panel.classList.add('open');
+}
+
+function closeHistory() {
+  document.getElementById('history-panel').classList.remove('open');
+}
+
+// ── Utils ─────────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+loadData();
+// Auto-refresh every 5 minutes
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
