@@ -1,309 +1,59 @@
 {
-  "generated_at": "2026-10-11T00:38:14.245317+00:00",
-  "generated_ts": 1791679094,
+  "generated_at": "2026-10-11T01:28:03.259516+00:00",
+  "generated_ts": 1791682083,
   "tokens_scanned": 47,
   "narratives": [
     {
-      "narrative": "desci",
-      "score": 70.2,
+      "narrative": "meme",
+      "score": 74.5,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 109980.91,
-      "total_buys_1h": 5853,
+      "token_count": 5,
+      "total_liq_usd": 37142.1,
+      "total_buys_1h": 5346,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.1,
       "top_tokens": [
         {
-          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
-          "liq_usd": 95072.8,
-          "mcap": 1126414.0,
-          "buys_1h": 1252,
-          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
-          "ts": 1791679024
-        },
-        {
-          "name": "Launch post-quantum tokens secured by WOTS, XMSS, SPHINCS+, Falcon, and ML-DSA signatures.",
-          "symbol": "",
-          "mint": "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr",
-          "liq_usd": 8086.34,
-          "mcap": 11139.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/3ugevumzwajsxnhfznqefbcvizczxxbgevtdszcf5aqu",
-          "ts": 1791679024
-        },
-        {
-          "name": "Inspired by Altai. Reimagined through quantum imagination. Qiger is the quantum tiger on Solana\u2014where a real tiger\u2019s story meets a limitless digital universe.",
-          "symbol": "",
-          "mint": "DLVhcFhzJpDj62EV853YNz8ASmPFK5kSiBM78FJjpump",
-          "liq_usd": 4626.5,
-          "mcap": 5232.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/6ufuhp4zvuxze2p7wwhcxvfphdj68xafvhiy4mjbsy87",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/vlvfrf0HBbWLFRsi?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "A9msvWFdumfAXqjehqmzGEHxz3Be1DsDjCPfReeQpump",
-          "liq_usd": 2195.27,
-          "mcap": 2065.0,
-          "buys_1h": 4598,
-          "dex_url": "https://dexscreener.com/solana/ckpqsb2vaqfkdnv6saoandnzpaxx9hpgyy6ql61fgtji",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "celebrity",
-      "score": 68.2,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 59974.0,
-      "total_buys_1h": 1392,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "Official Coin of Viral Star, Phil Jean.",
-          "symbol": "",
-          "mint": "J1L4kUDSq2pNFyM2uPc7KcdWnu527cNZBSoJvePHpump",
-          "liq_usd": 22008.4,
-          "mcap": 69609.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/5rhvugeqlnmj5jck5y3ttb8szzxkmyhx6njoftywghwv",
-          "ts": 1791679024
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
         },
         {
           "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
           "symbol": "",
           "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:world",
-      "score": 65.3,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 297780.94,
-      "total_buys_1h": 61,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
+          "ts": 1791681997
+        },
         {
-          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
+          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
           "symbol": "",
-          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
-          "liq_usd": 241285.1,
-          "mcap": 6368968.0,
+          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
+          "liq_usd": 2324.18,
+          "mcap": 2193.0,
           "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
-          "ts": 1791679024
+          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
+          "ts": 1791681997
         },
         {
-          "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
+          "name": "https://cdn.dexscreener.com/cms/images/UEvqoR0LGh8wgfti?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
-        },
-        {
-          "name": "Nala Cat holds the Guinness World Record for having the most followers on Instagram for a cat with over 4.5 million followers",
-          "symbol": "",
-          "mint": "6wGj1U1gDpfcfyBWCFuZdzpHPP9g49ohEDrGWw6epump",
-          "liq_usd": 19845.72,
-          "mcap": 56556.0,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
-          "ts": 1791679024
-        },
-        {
-          "name": "Pump.Fun Coin was made for the underdogs. 20% of the supply has been sent to Alon and Noah, the co-founders of the amazing Pump Fun App. this token has the potential to be one of the greatest community coins to come off the PumpFun App. SossaDotKek has made this opportunity possible for the trenchers across the world.",
-          "symbol": "",
-          "mint": "CNqZsaduLochRpREwNdzak5Ktr7eZwR1MjsQudQpump",
-          "liq_usd": 14541.14,
-          "mcap": 32892.0,
-          "buys_1h": 54,
-          "dex_url": "https://dexscreener.com/solana/6ankwj1rczxdhso6yh1xuzyhvls7juyzkv26ywko2fal",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "gaming",
-      "score": 61.9,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 47470.71,
-      "total_buys_1h": 126,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
-          "symbol": "",
-          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
-          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
-        },
-        {
-          "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
-          "symbol": "",
-          "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
-        },
-        {
-          "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
-          "symbol": "",
-          "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
-          "liq_usd": 2280.11,
-          "mcap": 2105.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:into",
-      "score": 61.7,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 2,
-      "total_liq_usd": 97503.39,
-      "total_buys_1h": 1254,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
-          "symbol": "",
-          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
-          "liq_usd": 95072.8,
-          "mcap": 1126414.0,
-          "buys_1h": 1252,
-          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
-          "ts": 1791679024
-        },
-        {
-          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
-          "symbol": "",
-          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:tiger",
-      "score": 61.7,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 2,
-      "total_liq_usd": 99699.3,
-      "total_buys_1h": 1253,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
-          "symbol": "",
-          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
-          "liq_usd": 95072.8,
-          "mcap": 1126414.0,
-          "buys_1h": 1252,
-          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
-          "ts": 1791679024
-        },
-        {
-          "name": "Inspired by Altai. Reimagined through quantum imagination. Qiger is the quantum tiger on Solana\u2014where a real tiger\u2019s story meets a limitless digital universe.",
-          "symbol": "",
-          "mint": "DLVhcFhzJpDj62EV853YNz8ASmPFK5kSiBM78FJjpump",
-          "liq_usd": 4626.5,
-          "mcap": 5232.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/6ufuhp4zvuxze2p7wwhcxvfphdj68xafvhiy4mjbsy87",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:new",
-      "score": 60.1,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 23081.62,
-      "total_buys_1h": 140,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
-          "symbol": "",
-          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
-          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
-        },
-        {
-          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
-          "symbol": "",
-          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "mint": "ACthgQPe3z2VT7c8VXxcW84cgH4Y1XcUYBcXs4fxpump",
           "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
+          "mcap": 18173.67,
+          "buys_1h": 346,
+          "dex_url": "https://dexscreener.com/solana/hgm6anz1vwmgoau3qwoxcwdz3uzns6raphicwrhryzvw",
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -313,63 +63,233 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:real",
-      "score": 59.4,
-      "stage": "\ud83d\udcc8 Expanding",
+      "narrative": "novel:into",
+      "score": 70.6,
+      "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 245911.6,
-      "total_buys_1h": 19,
+      "total_liq_usd": 134568.21,
+      "total_buys_1h": 1089,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
+          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
           "symbol": "",
-          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
-          "liq_usd": 241285.1,
-          "mcap": 6368968.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
-          "ts": 1791679024
+          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
+          "liq_usd": 100005.64,
+          "mcap": 1238301.0,
+          "buys_1h": 1032,
+          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
+          "ts": 1791681997
         },
         {
-          "name": "Inspired by Altai. Reimagined through quantum imagination. Qiger is the quantum tiger on Solana\u2014where a real tiger\u2019s story meets a limitless digital universe.",
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
           "symbol": "",
-          "mint": "DLVhcFhzJpDj62EV853YNz8ASmPFK5kSiBM78FJjpump",
-          "liq_usd": 4626.5,
-          "mcap": 5232.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/6ufuhp4zvuxze2p7wwhcxvfphdj68xafvhiy4mjbsy87",
-          "ts": 1791679024
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
         },
         {
-          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
           "symbol": "",
-          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
-          "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
+          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "desci",
+      "score": 70.3,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 123057.2,
+      "total_buys_1h": 1332,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
+          "symbol": "",
+          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
+          "liq_usd": 100005.64,
+          "mcap": 1238301.0,
+          "buys_1h": 1032,
+          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "Launch post-quantum tokens secured by WOTS, XMSS, SPHINCS+, Falcon, and ML-DSA signatures.",
+          "symbol": "",
+          "mint": "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr",
+          "liq_usd": 7802.65,
+          "mcap": 10512.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/3ugevumzwajsxnhfznqefbcvizczxxbgevtdszcf5aqu",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "celebrity",
+      "score": 68.3,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 61944.94,
+      "total_buys_1h": 1330,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "Official Coin of Viral Star, Phil Jean.",
+          "symbol": "",
+          "mint": "J1L4kUDSq2pNFyM2uPc7KcdWnu527cNZBSoJvePHpump",
+          "liq_usd": 24510.63,
+          "mcap": 84795.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/5rhvugeqlnmj5jck5y3ttb8szzxkmyhx6njoftywghwv",
+          "ts": 1791681997
+        },
+        {
+          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
+          "symbol": "",
+          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:built",
+      "score": 63.0,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 77733.53,
+      "total_buys_1h": 116,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        },
+        {
+          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "symbol": "",
+          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
+          "ts": 1791681997
+        },
+        {
+          "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
+          "symbol": "",
+          "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:next",
+      "score": 62.6,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 2,
+      "total_liq_usd": 132129.72,
+      "total_buys_1h": 1088,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "One quantum leap into the unknown. \ud83d\udc05\u269b\ufe0f Quantum Tiger crosses cosmic oceans, chasing the next adventure among the stars. \ud83c\udf0c",
+          "symbol": "",
+          "mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
+          "liq_usd": 100005.64,
+          "mcap": 1238301.0,
+          "buys_1h": 1032,
+          "dex_url": "https://dexscreener.com/solana/fkknxvybrt22bqef9mbmswiw35oig5ion2qmnasfvrat",
+          "ts": 1791681997
+        },
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
     },
     {
       "narrative": "ai",
-      "score": 56.9,
+      "score": 59.7,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 8,
-      "total_liq_usd": 73667.08,
-      "total_buys_1h": 2006,
+      "token_count": 7,
+      "total_liq_usd": 95599.38,
+      "total_buys_1h": 1491,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -379,62 +299,312 @@
           "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
           "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
+          "ts": 1791681997
+        },
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
         },
         {
           "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
           "symbol": "",
           "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/dmYx5iheF5xjUvyz?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "2qgBJXR2xpYsKgukBTE9ztkAGsG4TS1tXhr6A2RWpump",
-          "liq_usd": 6646.7,
-          "mcap": 9297.0,
-          "buys_1h": 581,
+          "liq_usd": 4033.56,
+          "mcap": 4312.0,
+          "buys_1h": 100,
           "dex_url": "https://dexscreener.com/solana/7sfvr7crtjopykj5kpurwr6lbpmhxxr2dkngkrmpngzq",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
-          "name": "Inspired by Altai. Reimagined through quantum imagination. Qiger is the quantum tiger on Solana\u2014where a real tiger\u2019s story meets a limitless digital universe.",
+          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
           "symbol": "",
-          "mint": "DLVhcFhzJpDj62EV853YNz8ASmPFK5kSiBM78FJjpump",
-          "liq_usd": 4626.5,
-          "mcap": 5232.0,
+          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
+          "liq_usd": 2324.18,
+          "mcap": 2193.0,
           "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/6ufuhp4zvuxze2p7wwhcxvfphdj68xafvhiy4mjbsy87",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/95uuf60RBAXLosI0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3HVsXrkXEgwjqTR1QhWm9RFK1SVLp8N2RHPkRt2Hpump",
-          "liq_usd": 2408.85,
-          "mcap": 2272.0,
-          "buys_1h": 30,
-          "dex_url": "https://dexscreener.com/solana/4a3g3sdz37yv9hcbcokwjcw77dgmn45abzcn7iahgaat",
-          "ts": 1791679024
+          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "gaming",
+      "score": 59.2,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 48209.36,
+      "total_buys_1h": 63,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "symbol": "",
+          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
+          "ts": 1791681997
+        },
+        {
+          "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
+          "symbol": "",
+          "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
+          "ts": 1791681997
+        },
+        {
+          "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
+          "symbol": "",
+          "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
+          "liq_usd": 2599.91,
+          "mcap": 2437.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:then",
+      "score": 58.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 32124.08,
+      "total_buys_1h": 64,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        },
+        {
+          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "symbol": "",
+          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "liq_usd": 0.0,
+          "mcap": 25981.45,
+          "buys_1h": 8,
+          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
+          "ts": 1791681997
+        },
+        {
+          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
+          "symbol": "",
+          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
+          "liq_usd": 0.0,
+          "mcap": 6000.68,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:community",
+      "score": 58.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 32124.08,
+      "total_buys_1h": 64,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        },
+        {
+          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "symbol": "",
+          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "liq_usd": 0.0,
+          "mcap": 25981.45,
+          "buys_1h": 8,
+          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
+          "ts": 1791681997
+        },
+        {
+          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
+          "symbol": "",
+          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
+          "liq_usd": 0.0,
+          "mcap": 6000.68,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:new",
+      "score": 57.3,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 23487.71,
+      "total_buys_1h": 68,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "symbol": "",
+          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
+          "ts": 1791681997
+        },
+        {
+          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "symbol": "",
+          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "liq_usd": 0.0,
+          "mcap": 25981.45,
+          "buys_1h": 8,
+          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
+          "ts": 1791681997
+        },
+        {
+          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
+          "symbol": "",
+          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
+          "liq_usd": 0.0,
+          "mcap": 6000.68,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:that",
+      "score": 56.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 271785.41,
+      "total_buys_1h": 57,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
+          "symbol": "",
+          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
+          "ts": 1791681997
+        },
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:internet",
+      "score": 56.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 271785.41,
+      "total_buys_1h": 57,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
+          "symbol": "",
+          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
+          "ts": 1791681997
+        },
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel:crypto",
-      "score": 56.5,
+      "score": 54.0,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 4,
-      "total_liq_usd": 265824.67,
-      "total_buys_1h": 5,
+      "total_liq_usd": 264221.56,
+      "total_buys_1h": 2,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -444,31 +614,31 @@
           "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
           "symbol": "",
           "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
-          "liq_usd": 241285.1,
-          "mcap": 6368968.0,
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
           "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
           "symbol": "",
           "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
           "symbol": "",
           "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -478,17 +648,17 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:community",
-      "score": 56.1,
+      "narrative": "novel:official",
+      "score": 51.6,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 14541.14,
+      "token_count": 2,
+      "total_liq_usd": 47998.34,
       "total_buys_1h": 71,
       "social_posts": 0,
       "social_authors": 0,
@@ -496,149 +666,79 @@
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Pump.Fun Coin was made for the underdogs. 20% of the supply has been sent to Alon and Noah, the co-founders of the amazing Pump Fun App. this token has the potential to be one of the greatest community coins to come off the PumpFun App. SossaDotKek has made this opportunity possible for the trenchers across the world.",
-          "symbol": "",
-          "mint": "CNqZsaduLochRpREwNdzak5Ktr7eZwR1MjsQudQpump",
-          "liq_usd": 14541.14,
-          "mcap": 32892.0,
-          "buys_1h": 54,
-          "dex_url": "https://dexscreener.com/solana/6ankwj1rczxdhso6yh1xuzyhvls7juyzkv26ywko2fal",
-          "ts": 1791679024
-        },
-        {
-          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
-          "symbol": "",
-          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
-          "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
-        },
-        {
-          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
-          "symbol": "",
-          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
-          "liq_usd": 0.0,
-          "mcap": 6000.68,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:official",
-      "score": 54.0,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 45090.02,
-      "total_buys_1h": 136,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
-          "symbol": "",
-          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
-          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
-        },
-        {
           "name": "Official Coin of Viral Star, Phil Jean.",
           "symbol": "",
           "mint": "J1L4kUDSq2pNFyM2uPc7KcdWnu527cNZBSoJvePHpump",
-          "liq_usd": 22008.4,
-          "mcap": 69609.0,
-          "buys_1h": 13,
+          "liq_usd": 24510.63,
+          "mcap": 84795.0,
+          "buys_1h": 11,
           "dex_url": "https://dexscreener.com/solana/5rhvugeqlnmj5jck5y3ttb8szzxkmyhx6njoftywghwv",
-          "ts": 1791679024
+          "ts": 1791681997
+        },
+        {
+          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "symbol": "",
+          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:built",
-      "score": 53.7,
+      "narrative": "novel:world",
+      "score": 50.6,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 45190.6,
-      "total_buys_1h": 125,
+      "token_count": 3,
+      "total_liq_usd": 279168.32,
+      "total_buys_1h": 1,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
           "symbol": "",
-          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
-          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
+          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
+          "ts": 1791681997
         },
         {
           "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
           "symbol": "",
           "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:latest",
-      "score": 52.5,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 25542.51,
-      "total_buys_1h": 141,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
-          "symbol": "",
-          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
-          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
-          "name": "Were you the victim of the latest rug pull, leaving you holding the bag? You may be entitled to serious compensation!",
+          "name": "Nala Cat holds the Guinness World Record for having the most followers on Instagram for a cat with over 4.5 million followers",
           "symbol": "",
-          "mint": "9TgYeYTKAhZp2xt6LULKLxN6nGJHdJohdR7jdGMTrXzD",
-          "liq_usd": 2460.89,
-          "mcap": 45261.0,
-          "buys_1h": 18,
-          "dex_url": "https://dexscreener.com/solana/cylyxx9buyumrcczkfmzkl62dfuzprwajsuhvly4yo51",
-          "ts": 1791679024
+          "mint": "6wGj1U1gDpfcfyBWCFuZdzpHPP9g49ohEDrGWw6epump",
+          "liq_usd": 17385.25,
+          "mcap": 44517.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:across",
-      "score": 47.6,
+      "narrative": "novel:tokens",
+      "score": 50.1,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 16878.0,
+      "total_liq_usd": 39926.73,
       "total_buys_1h": 56,
       "social_posts": 0,
       "social_authors": 0,
@@ -646,59 +746,84 @@
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Pump.Fun Coin was made for the underdogs. 20% of the supply has been sent to Alon and Noah, the co-founders of the amazing Pump Fun App. this token has the potential to be one of the greatest community coins to come off the PumpFun App. SossaDotKek has made this opportunity possible for the trenchers across the world.",
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
           "symbol": "",
-          "mint": "CNqZsaduLochRpREwNdzak5Ktr7eZwR1MjsQudQpump",
-          "liq_usd": 14541.14,
-          "mcap": 32892.0,
-          "buys_1h": 54,
-          "dex_url": "https://dexscreener.com/solana/6ankwj1rczxdhso6yh1xuzyhvls7juyzkv26ywko2fal",
-          "ts": 1791679024
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
         },
         {
-          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
+          "name": "Launch post-quantum tokens secured by WOTS, XMSS, SPHINCS+, Falcon, and ML-DSA signatures.",
           "symbol": "",
-          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
-          "liq_usd": 2336.86,
-          "mcap": 2206.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
-          "ts": 1791679024
+          "mint": "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr",
+          "liq_usd": 7802.65,
+          "mcap": 10512.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/3ugevumzwajsxnhfznqefbcvizczxxbgevtdszcf5aqu",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "meme",
-      "score": 42.1,
+      "narrative": "novel:this",
+      "score": 49.7,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 4767.45,
-      "total_buys_1h": 4,
+      "token_count": 2,
+      "total_liq_usd": 32124.08,
+      "total_buys_1h": 59,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
           "symbol": "",
-          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
         },
         {
-          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
+          "name": "buy and repost this dog.",
           "symbol": "",
-          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
-          "liq_usd": 2336.86,
-          "mcap": 2206.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
-          "ts": 1791679024
+          "mint": "4WhM1KWNF5K65DVg7YmN4brZUehrCCho5pqJZNZ6pump",
+          "liq_usd": 0.0,
+          "mcap": 3514.79,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/9vyrzn8u2yutawytxjxz1tmvbzehj8ywnxxv4fptyzb3",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:from",
+      "score": 49.5,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 32124.08,
+      "total_buys_1h": 56,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "We built a brain simulation from human MRI data. Gave it a bedroom in Tokyo. Then made the deeply questionable decision to give it $100 and access to Fomo.\n\nSUBZERONE is an ongoing experiment in simulated neural activity, memory, sleep and behavior. Watch SUB-01\u2019s room live and explore the publicly available brain code.\n\nNext ambition: turn SUB-01 into the launchpad itself a developer that takes community ideas, creates websites and X accounts, and launches tokens. This feature is planned and not live yet.\n\nOne room. A simulated brain. Internet access. Questionable decisions. \ud83e\udde0",
+          "symbol": "",
+          "mint": "6WCtKQfkWurd77tCCAYWuL5TwyAvuovTzworfnfupump",
+          "liq_usd": 32124.08,
+          "mcap": 129068.0,
+          "buys_1h": 56,
+          "dex_url": "https://dexscreener.com/solana/4gaj3mmdm2yk41frm7twytuazwvsuzhjh9zndw81qspp",
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -708,18 +833,88 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:latest",
+      "score": 49.2,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 25631.17,
+      "total_buys_1h": 62,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
+          "symbol": "",
+          "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
+          "ts": 1791681997
+        },
+        {
+          "name": "Were you the victim of the latest rug pull, leaving you holding the bag? You may be entitled to serious compensation!",
+          "symbol": "",
+          "mint": "9TgYeYTKAhZp2xt6LULKLxN6nGJHdJohdR7jdGMTrXzD",
+          "liq_usd": 2143.46,
+          "mcap": 34312.0,
+          "buys_1h": 2,
+          "dex_url": "https://dexscreener.com/solana/cylyxx9buyumrcczkfmzkl62dfuzprwajsuhvly4yo51",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:real",
+      "score": 48.6,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 239661.33,
+      "total_buys_1h": 9,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
+          "symbol": "",
+          "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
+          "ts": 1791681997
+        },
+        {
+          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "symbol": "",
+          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "liq_usd": 0.0,
+          "mcap": 25981.45,
+          "buys_1h": 8,
+          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel:memes",
-      "score": 42.1,
+      "score": 40.0,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 3,
-      "total_liq_usd": 4767.45,
-      "total_buys_1h": 4,
+      "total_liq_usd": 4762.67,
+      "total_buys_1h": 2,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -729,21 +924,21 @@
           "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
           "symbol": "",
           "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
           "symbol": "",
           "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
-          "liq_usd": 2336.86,
-          "mcap": 2206.0,
-          "buys_1h": 2,
+          "liq_usd": 2324.18,
+          "mcap": 2193.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -753,52 +948,17 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:with",
-      "score": 39.4,
-      "stage": "\ud83d\udfe1 Early",
-      "token_count": 2,
-      "total_liq_usd": 22125.83,
-      "total_buys_1h": 5,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Nala Cat holds the Guinness World Record for having the most followers on Instagram for a cat with over 4.5 million followers",
-          "symbol": "",
-          "mint": "6wGj1U1gDpfcfyBWCFuZdzpHPP9g49ohEDrGWw6epump",
-          "liq_usd": 19845.72,
-          "mcap": 56556.0,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
-          "ts": 1791679024
-        },
-        {
-          "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
-          "symbol": "",
-          "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
-          "liq_usd": 2280.11,
-          "mcap": 2105.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel:own",
-      "score": 38.0,
+      "score": 38.1,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
-      "total_liq_usd": 24389.09,
+      "total_liq_usd": 24721.65,
       "total_buys_1h": 3,
       "social_posts": 0,
       "social_authors": 0,
@@ -809,67 +969,67 @@
           "name": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. \ud83e\ude99 Built & controlled by Agentic AI.",
           "symbol": "",
           "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-          "liq_usd": 22108.98,
-          "mcap": 56322.0,
-          "buys_1h": 2,
+          "liq_usd": 22121.74,
+          "mcap": 56381.0,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/b4cp45pgifvm5faxfh6aev8qz3eunqnqgbw7kuc7mhnb",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
           "symbol": "",
           "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
-          "liq_usd": 2280.11,
-          "mcap": 2105.0,
-          "buys_1h": 1,
+          "liq_usd": 2599.91,
+          "mcap": 2437.0,
+          "buys_1h": 3,
           "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:fight",
-      "score": 37.3,
+      "narrative": "novel:with",
+      "score": 37.5,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
-      "total_liq_usd": 2280.11,
-      "total_buys_1h": 18,
+      "total_liq_usd": 19985.16,
+      "total_buys_1h": 3,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
+          "name": "Nala Cat holds the Guinness World Record for having the most followers on Instagram for a cat with over 4.5 million followers",
+          "symbol": "",
+          "mint": "6wGj1U1gDpfcfyBWCFuZdzpHPP9g49ohEDrGWw6epump",
+          "liq_usd": 17385.25,
+          "mcap": 44517.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
+          "ts": 1791681997
+        },
+        {
           "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
           "symbol": "",
           "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
-          "liq_usd": 2280.11,
-          "mcap": 2105.0,
-          "buys_1h": 1,
+          "liq_usd": 2599.91,
+          "mcap": 2437.0,
+          "buys_1h": 3,
           "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
-          "ts": 1791679024
-        },
-        {
-          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
-          "symbol": "",
-          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
-          "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
       "narrative": "animal",
-      "score": 36.5,
+      "score": 36.7,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 12,
-      "total_liq_usd": 174451.67,
-      "total_buys_1h": 30256,
+      "total_liq_usd": 190592.8,
+      "total_buys_1h": 16160,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -879,132 +1039,62 @@
           "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
           "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
         },
         {
           "name": "KILOS is the new shop-currency token for the Pepe Escobar game, launching alongside its latest update. Built for purchases in the in-game shop and connected to the Pepeverse. Game updates and official announcements: @pepeescobar_sol.",
           "symbol": "",
           "mint": "8DAkjpoFytMqAFY4m2vTEUo6sVT65ZtMZSgNFB1Ppump",
-          "liq_usd": 23081.62,
-          "mcap": 42093.0,
-          "buys_1h": 123,
+          "liq_usd": 23487.71,
+          "mcap": 43416.0,
+          "buys_1h": 60,
           "dex_url": "https://dexscreener.com/solana/29kwvzhvejyyvw5y4eu3be1pb23qqztgzqhdjhjfjkqw",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "Nala Cat holds the Guinness World Record for having the most followers on Instagram for a cat with over 4.5 million followers",
           "symbol": "",
           "mint": "6wGj1U1gDpfcfyBWCFuZdzpHPP9g49ohEDrGWw6epump",
-          "liq_usd": 19845.72,
-          "mcap": 56556.0,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
-          "ts": 1791679024
-        },
-        {
-          "name": "Pump.Fun Coin was made for the underdogs. 20% of the supply has been sent to Alon and Noah, the co-founders of the amazing Pump Fun App. this token has the potential to be one of the greatest community coins to come off the PumpFun App. SossaDotKek has made this opportunity possible for the trenchers across the world.",
-          "symbol": "",
-          "mint": "CNqZsaduLochRpREwNdzak5Ktr7eZwR1MjsQudQpump",
-          "liq_usd": 14541.14,
-          "mcap": 32892.0,
-          "buys_1h": 54,
-          "dex_url": "https://dexscreener.com/solana/6ankwj1rczxdhso6yh1xuzyhvls7juyzkv26ywko2fal",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:every",
-      "score": 34.1,
-      "stage": "\ud83d\udfe1 Early",
-      "token_count": 2,
-      "total_liq_usd": 4767.45,
-      "total_buys_1h": 4,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
-          "symbol": "",
-          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
-          "liq_usd": 2430.59,
-          "mcap": 2191.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
-          "ts": 1791679024
-        },
-        {
-          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
-          "symbol": "",
-          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
-          "liq_usd": 2336.86,
-          "mcap": 2206.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:born",
-      "score": 30.0,
-      "stage": "\ud83d\udfe1 Early",
-      "token_count": 2,
-      "total_liq_usd": 2336.86,
-      "total_buys_1h": 2,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
-          "symbol": "",
-          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
-          "liq_usd": 2336.86,
-          "mcap": 2206.0,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
-          "ts": 1791679024
-        },
-        {
-          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
-          "symbol": "",
-          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
-          "liq_usd": 0.0,
-          "mcap": 6000.68,
+          "liq_usd": 17385.25,
+          "mcap": 44517.0,
           "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "dex_url": "https://dexscreener.com/solana/by5mqslfmmbqq2pqumxah2vhw4wxi94k24b9it4ynsly",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
-      "narrative": "novel:never",
-      "score": 28.3,
+      "narrative": "novel:fight",
+      "score": 35.8,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
-      "total_liq_usd": 2280.11,
-      "total_buys_1h": 1,
+      "total_liq_usd": 2599.91,
+      "total_buys_1h": 11,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1014,11 +1104,81 @@
           "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
           "symbol": "",
           "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
-          "liq_usd": 2280.11,
-          "mcap": 2105.0,
-          "buys_1h": 1,
+          "liq_usd": 2599.91,
+          "mcap": 2437.0,
+          "buys_1h": 3,
           "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
-          "ts": 1791679024
+          "ts": 1791681997
+        },
+        {
+          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
+          "symbol": "",
+          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
+          "liq_usd": 0.0,
+          "mcap": 25981.45,
+          "buys_1h": 8,
+          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:every",
+      "score": 32.0,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 4762.67,
+      "total_buys_1h": 2,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Cute cats. Viral memes. Infinite purrs. OnlyCats turns every whisker into legendary crypto-powered fun.",
+          "symbol": "",
+          "mint": "FGhARrWi8KxJXhpQcF99Jf9GHaxoocYSkAZjqCAqpump",
+          "liq_usd": 2438.49,
+          "mcap": 2199.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/2jxnitkumfvjawfcnktshbjhszjp6tfmhvaixp74k3r6",
+          "ts": 1791681997
+        },
+        {
+          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
+          "symbol": "",
+          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
+          "liq_usd": 2324.18,
+          "mcap": 2193.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:never",
+      "score": 31.4,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 2599.91,
+      "total_buys_1h": 3,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "CyberInu \ud83d\udc15\u26a1 The cyber fight, with fur. Own your games. Preserve the files. Never let the servers win.",
+          "symbol": "",
+          "mint": "CgU6mugt2HXkjaunbaYrauJRRW9kSKbQXcBRzT7Vpump",
+          "liq_usd": 2599.91,
+          "mcap": 2437.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/79wyzs7wwqrmykueuhxverux6zcfkh6lkiwx3cxyo6xe",
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -1028,18 +1188,53 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:born",
+      "score": 28.3,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 2324.18,
+      "total_buys_1h": 1,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
+          "symbol": "",
+          "mint": "GuDE7C5whS5S9ucHw59paTs3SaBsuCmF3MxSVoTmpump",
+          "liq_usd": 2324.18,
+          "mcap": 2193.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/buyly7145v1wcsdepnapn5bava8ektn3q4szf7lawmhb",
+          "ts": 1791681997
+        },
+        {
+          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
+          "symbol": "",
+          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
+          "liq_usd": 0.0,
+          "mcap": 6000.68,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel:now",
-      "score": 27.6,
-      "stage": "\ud83d\udfe1 Early",
+      "score": 24.8,
+      "stage": "\ud83c\udf0a Crowded",
       "token_count": 2,
       "total_liq_usd": 0.0,
-      "total_buys_1h": 17,
+      "total_buys_1h": 8,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1050,10 +1245,10 @@
           "symbol": "",
           "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
           "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
+          "mcap": 25981.45,
+          "buys_1h": 8,
           "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
@@ -1063,53 +1258,18 @@
           "mcap": 6000.68,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:then",
-      "score": 27.6,
-      "stage": "\ud83d\udfe1 Early",
-      "token_count": 2,
-      "total_liq_usd": 0.0,
-      "total_buys_1h": 17,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Old $TRUMP ran to $80B FDV then nuked its holders \n\nNow the real $TRUMP is here. \n\nCult community, cult conviction, new army. \n\nWE ARE HERE TO FIGHT",
-          "symbol": "",
-          "mint": "6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8",
-          "liq_usd": 0.0,
-          "mcap": 27144.38,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/8gsb3cvazo66paunkudj2yqif7wqid52qzxpjva3ydpy",
-          "ts": 1791679024
-        },
-        {
-          "name": "\ud83d\udd25 BONFIRE \u2014 THE SECOND LIFE\n\nIn 2021, BONFIRE hit a $100M market cap and became part of meme coin history.\n\nThen the fire faded. The market moved on. But legends never truly die.\n\nNow BONFIRE is back on Solana. A second life. A new community. A new chapter.\n\n\ud83d\udd25 The fire never really died.\n\nBorn from crypto nostalgia. Rebuilt for a new era of memes.\n\nJoin the rebirth. Keep the fire burning.",
-          "symbol": "",
-          "mint": "B8BZzBrWvQXP7PyDdyjJunSDucEdiZSsYiWjHef9pump",
-          "liq_usd": 0.0,
-          "mcap": 6000.68,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aydgtykze7yxe7uhnuxpxqrxjjhpgrh6gh1zqu9wabwj",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel",
-      "score": 14.8,
+      "score": 14.7,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 23,
-      "total_liq_usd": 325998.55,
-      "total_buys_1h": 18439,
+      "token_count": 22,
+      "total_liq_usd": 314042.05,
+      "total_buys_1h": 9645,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1119,41 +1279,31 @@
           "name": "EVERYTHING is a token that encapsulates the biggest crypto meta of the last year and a half: Real World Assets (RWAs) being tokenized. It's more than a meta in the real world though... Wall Street and institutions are literally going to tokenize everything. Stocks, bonds, loans, energy, land, homes, cars, identities, and everything else they can. Tokenizing EVERYTHING will be the biggest financial system upgrade since the internet revolutionized trading. We just beat them to the punch.",
           "symbol": "",
           "mint": "E6vtwCUtcNJdQEPGY8vWKahtu2sfwxQ4j68pUKm7pump",
-          "liq_usd": 241285.1,
-          "mcap": 6368968.0,
+          "liq_usd": 239661.33,
+          "mcap": 6289589.0,
           "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/fcfej9ujfnfcsiazgduesecmj2np6myxdm5h2jpfzbdc",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "",
           "symbol": "",
           "mint": "",
-          "liq_usd": 20065.18,
-          "mcap": 60433.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/be6bncrajxbrvzv31xneajjf9nsam8ezfmaeh518j1ph",
+          "liq_usd": 38661.49,
+          "mcap": 181560.0,
+          "buys_1h": 3165,
+          "dex_url": "https://dexscreener.com/solana/bos7g49psy2saynpnwszjdl25sc4qguwmncmgazitv1f",
           "ts": 0
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "",
           "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
+          "mint": "",
+          "liq_usd": 18962.64,
+          "mcap": 51334.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/be6bncrajxbrvzv31xneajjf9nsam8ezfmaeh518j1ph",
+          "ts": 0
         },
         {
           "name": "pup",
@@ -1163,798 +1313,28 @@
           "mcap": 7453.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/tkdnwe4tzetkx4guzpj6k35de9ryvujvebrhiqecxvn",
-          "ts": 1791679024
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lAEbpDidGaa6-VKp?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "9KoA16cdbPSyXgPCb2QGGFwY7wAX2NHD7mjBXJTipump",
+          "liq_usd": 3718.51,
+          "mcap": 4090.0,
+          "buys_1h": 950,
+          "dex_url": "https://dexscreener.com/solana/93mwdnfwy1v4sec9ta19maxfufqd65jczy8eay5ksrj5",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:crop",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:dexscreener",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:auto",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:cdn",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:https",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:width",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:format",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:fit",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:com",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:height",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:images",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
-    },
-    {
-      "narrative": "novel:quality",
-      "score": 14.4,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
-          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
-          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
-        }
-      ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
     },
     {
       "narrative": "novel:cms",
       "score": 14.4,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 25,
-      "total_liq_usd": 208688.84,
-      "total_buys_1h": 49083,
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1964,54 +1344,834 @@
           "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
-          "liq_usd": 64472.73,
-          "mcap": 531539.0,
-          "buys_1h": 6134,
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
           "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
-          "liq_usd": 35535.01,
-          "mcap": 154080.0,
-          "buys_1h": 1377,
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
           "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
-          "ts": 1791679024
+          "ts": 1791681997
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-kIly3ivMMK2aZk0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "3sbG9zz4MzJacqtZYkqzzWzxwdh9zoWNtBoyn3mYpump",
-          "liq_usd": 33557.42,
-          "mcap": 147912.0,
-          "buys_1h": 13069,
-          "dex_url": "https://dexscreener.com/solana/3ygcwwnw2fxhu5v92pgzmpbnygaykr2pdbbjnbaysvrr",
-          "ts": 1791679024
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/189gjmzw2EGzoVKF?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "Ayi9zdqcriYPU77B9HJAtaX32At1ApMaMuKvypEHpump",
-          "liq_usd": 32572.47,
-          "mcap": 143773.0,
-          "buys_1h": 12235,
-          "dex_url": "https://dexscreener.com/solana/hgkaanarwcbhjeq73jvuy4yy538ybkehcqpzvxybvess",
-          "ts": 1791679024
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/d5SAEYYHAt9zMahh?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "3gBBEqNbxpDxu7NhRKxfx3ZFstdig26opNHawrhwpump",
-          "liq_usd": 17060.38,
-          "mcap": 44034.0,
-          "buys_1h": 706,
-          "dex_url": "https://dexscreener.com/solana/aufqjn9ta3llhfsjtrggbrd2oumh7jyuxyoghds19yjh",
-          "ts": 1791679024
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
         }
       ],
-      "updated_at": 1791679094
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:height",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:dexscreener",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:fit",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:https",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:auto",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:format",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:quality",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:width",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:crop",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:cdn",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:com",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
+    },
+    {
+      "narrative": "novel:images",
+      "score": 14.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 206144.21,
+      "total_buys_1h": 24536,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/EZnsEL7vSwHA6bHE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3Y9QZ7TR3WUD1ZDsrjWe2uNAdXESZEBo2XacPw7Vpump",
+          "liq_usd": 101246.16,
+          "mcap": 1261622.0,
+          "buys_1h": 6096,
+          "dex_url": "https://dexscreener.com/solana/94tupyk7hinha9fu2nqekfh6jkykx88ntubvqc2v9mab",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/rVd6AsV5rr2XmCBz?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3BAXtVzSRVnFHbdgJgBKQZaVvJpa6pLksAbBbXFppump",
+          "liq_usd": 34995.82,
+          "mcap": 148321.0,
+          "buys_1h": 1318,
+          "dex_url": "https://dexscreener.com/solana/6awgb5upha2jbmdtqdvehkiy7jjazxxxpenzbf9brxsw",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_rWm_V_u1YwvFAki?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "499jsDAAUKxjHLXzXTx9xzZfpqAtk5MWdkXY5LiNpump",
+          "liq_usd": 32379.43,
+          "mcap": 146779.0,
+          "buys_1h": 4998,
+          "dex_url": "https://dexscreener.com/solana/4dqezuvaizmysj99sbmmtdy4szkd3o8p49myec2x4dg1",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OtAs3QBQAzmJSUtB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AYPvrtL9F31F99knQABWPfpqDuys5wmx82BGBxA4pump",
+          "liq_usd": 15248.91,
+          "mcap": 37597.0,
+          "buys_1h": 300,
+          "dex_url": "https://dexscreener.com/solana/j6pcgp3mx1uonesx7deuq59v8ztkgbb36mfbks3gc9ch",
+          "ts": 1791681997
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/KbbSprGBQpUvtalo?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump",
+          "liq_usd": 7371.85,
+          "mcap": 9273.0,
+          "buys_1h": 401,
+          "dex_url": "https://dexscreener.com/solana/73xcz5uv5ktcycdhef7jfvhtlhvfr1qjly9ek7kxvj6r",
+          "ts": 1791681997
+        }
+      ],
+      "updated_at": 1791682083
     }
   ],
   "history": [
@@ -3186,6 +3346,71 @@
           "score": 56.5,
           "stage": "\ud83d\udcc8 Expanding",
           "token_count": 4
+        }
+      ]
+    },
+    {
+      "ts": 1791682083,
+      "narratives": [
+        {
+          "narrative": "meme",
+          "score": 74.5,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 5
+        },
+        {
+          "narrative": "novel:into",
+          "score": 70.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "desci",
+          "score": 70.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "celebrity",
+          "score": 68.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:built",
+          "score": 63.0,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:next",
+          "score": 62.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 2
+        },
+        {
+          "narrative": "ai",
+          "score": 59.7,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 7
+        },
+        {
+          "narrative": "gaming",
+          "score": 59.2,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:then",
+          "score": 58.0,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:community",
+          "score": 58.0,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
         }
       ]
     }
