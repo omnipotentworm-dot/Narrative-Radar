@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T13:43:15.182569+00:00",
-  "generated_ts": 1791812595,
-  "tokens_scanned": 43,
+  "generated_at": "2026-10-12T14:35:59.339713+00:00",
+  "generated_ts": 1791815759,
+  "tokens_scanned": 37,
   "narratives": [
     {
       "narrative": "gaming",
-      "score": 76.9,
+      "score": 77.1,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 5,
-      "total_liq_usd": 127896.47,
-      "total_buys_1h": 400,
+      "total_liq_usd": 135245.76,
+      "total_buys_1h": 404,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -19,62 +19,117 @@
           "name": "Gaming for people | Create and Remix any game without coding",
           "symbol": "",
           "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
-          "liq_usd": 75503.71,
-          "mcap": 462786.0,
-          "buys_1h": 15,
+          "liq_usd": 72355.24,
+          "mcap": 426199.0,
+          "buys_1h": 6,
           "dex_url": "https://dexscreener.com/solana/4uuzpgttnksnd8cwad3wxsxpcppxckvoywykhldfmon1",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "PlaygroundPad turns your ideas into instantly playable games \u2014 one playground, infinite worlds - powered by google.",
           "symbol": "",
           "mint": "cnNgFYRS26pKHstKvfzQXEDQuvuMfUNzTB2AMZypump",
-          "liq_usd": 23135.99,
-          "mcap": 70968.0,
-          "buys_1h": 30,
+          "liq_usd": 28462.4,
+          "mcap": 103524.0,
+          "buys_1h": 36,
           "dex_url": "https://dexscreener.com/solana/7xp4badsrvfcbd9t4zzkeya3ccnfokimweobrrhw8arg",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
           "symbol": "",
           "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
           "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
+          "name": "\ud83e\ude99 $FLIP \u2014 the provably-fair coin flip game on Solana. Heads you double, tails you flip again. Real SOL, instant payouts, daily rewards, and every flip is a verifiable RNG result. Playable now. \ud83d\ude80",
           "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
+          "mint": "C2hexLmLqq8mdK9ty22cYYBZ5Vc5kPQRfZXXhBDepump",
+          "liq_usd": 15554.48,
+          "mcap": 30547.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/5fqyzey7xkp3i3ifrlnvd3wm4buunjmxykas6fwjlx8q",
+          "ts": 1791815696
         },
         {
           "name": "Hold $DMT. Hold the Realm.\nNFT alone pays. Both pay more.\n1,111 beings. One Source. Hash before mint.",
           "symbol": "",
           "mint": "Bn7ga2URqhCaT23HfLRZNHhVBpxxhycVdUSQAVpYpump",
           "liq_usd": 0.0,
-          "mcap": 17029.93,
-          "buys_1h": 1,
+          "mcap": 16535.84,
+          "buys_1h": 2,
           "dex_url": "https://dexscreener.com/solana/cdjtjdu7r2dbnxfj1mtnxphxwqkegjtgdkblj7twtlyb",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "meme",
+      "score": 68.1,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 4,
+      "total_liq_usd": 49710.0,
+      "total_buys_1h": 7553,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.1,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        },
+        {
+          "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
+          "symbol": "",
+          "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
+          "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
+          "ts": 1791815696
+        },
+        {
+          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
+          "symbol": "",
+          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
+          "liq_usd": 2699.31,
+          "mcap": 2428.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
+          "liq_usd": 1995.38,
+          "mcap": 1960.0,
+          "buys_1h": 7180,
+          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
     },
     {
       "narrative": "novel:your",
-      "score": 76.2,
+      "score": 67.9,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 5,
-      "total_liq_usd": 69201.71,
-      "total_buys_1h": 711,
+      "token_count": 4,
+      "total_liq_usd": 66181.45,
+      "total_buys_1h": 401,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -84,372 +139,52 @@
           "name": "PlaygroundPad turns your ideas into instantly playable games \u2014 one playground, infinite worlds - powered by google.",
           "symbol": "",
           "mint": "cnNgFYRS26pKHstKvfzQXEDQuvuMfUNzTB2AMZypump",
-          "liq_usd": 23135.99,
-          "mcap": 70968.0,
-          "buys_1h": 30,
+          "liq_usd": 28462.4,
+          "mcap": 103524.0,
+          "buys_1h": 36,
           "dex_url": "https://dexscreener.com/solana/7xp4badsrvfcbd9t4zzkeya3ccnfokimweobrrhw8arg",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
           "symbol": "",
           "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
           "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
           "symbol": "",
           "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
-          "symbol": "",
-          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
-          "liq_usd": 2728.52,
-          "mcap": 2459.0,
-          "buys_1h": 314,
-          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "meme",
-      "score": 75.9,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 6,
-      "total_liq_usd": 170503.03,
-      "total_buys_1h": 9175,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
-          "symbol": "",
-          "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
-          "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "celebrity",
-      "score": 69.7,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 100355.98,
-      "total_buys_1h": 6078,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
+          "liq_usd": 16146.1,
+          "mcap": 30253.0,
           "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "animal",
-      "score": 65.8,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 21774.41,
-      "total_buys_1h": 715,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
-          "symbol": "",
-          "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
-          "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
-        },
-        {
-          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
-          "symbol": "",
-          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
-          "liq_usd": 2728.52,
-          "mcap": 2459.0,
-          "buys_1h": 314,
-          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
-          "ts": 1791812502
-        },
-        {
-          "name": "SPLASH is a multi-token trading platform on Solana. Buy up to five tokens in one simple flow with flexible SOL allocation. One Buy. Multiple Tokens.",
-          "symbol": "",
-          "mint": "6kFL98rLHN2q2QAn8wjv5dTxigXTadYMwczaNAYApump",
-          "liq_usd": 0.0,
-          "mcap": 9582.05,
-          "buys_1h": 30,
-          "dex_url": "https://dexscreener.com/solana/3citcntxmwafgfqrohkjgjimzb48q84y7mxmo8kpp2fs",
-          "ts": 1791812502
-        },
-        {
-          "name": "The cat that grabbed the baton and ran straight into Solana.",
-          "symbol": "",
-          "mint": "Dqf2t2FyomGyv9XGPw33vMfomxdaXbxt75DDXmAn833T",
-          "liq_usd": 0.0,
-          "mcap": 16304.07,
-          "buys_1h": 33,
-          "dex_url": "https://dexscreener.com/solana/8gzm1ljmaxeyjucmax8rjku1f3tvz21fdje99vmtvkij",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:together",
-      "score": 64.9,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 25267.66,
-      "total_buys_1h": 356,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        },
-        {
-          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
-          "symbol": "",
-          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
-          "liq_usd": 2728.52,
-          "mcap": 2459.0,
-          "buys_1h": 314,
-          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
-          "ts": 1791812502
-        },
-        {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
-          "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
-          "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:holders",
-      "score": 62.3,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 33981.69,
-      "total_buys_1h": 182,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
-          "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
-        },
-        {
-          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
-          "symbol": "",
-          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
           "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
+          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
           "symbol": "",
-          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
-          "liq_usd": 0.0,
-          "mcap": 7957.97,
-          "buys_1h": 141,
-          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
-          "ts": 1791812502
+          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
+          "liq_usd": 2699.31,
+          "mcap": 2428.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:people",
-      "score": 61.1,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 93391.43,
-      "total_buys_1h": 62,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Gaming for people | Create and Remix any game without coding",
-          "symbol": "",
-          "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
-          "liq_usd": 75503.71,
-          "mcap": 462786.0,
-          "buys_1h": 15,
-          "dex_url": "https://dexscreener.com/solana/4uuzpgttnksnd8cwad3wxsxpcppxckvoywykhldfmon1",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
       "narrative": "novel:that",
-      "score": 60.7,
+      "score": 61.6,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 4,
-      "total_liq_usd": 31968.15,
-      "total_buys_1h": 93,
+      "total_liq_usd": 24012.06,
+      "total_buys_1h": 147,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -459,176 +194,66 @@
           "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
           "symbol": "",
           "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
+          "liq_usd": 16146.1,
+          "mcap": 30253.0,
+          "buys_1h": 11,
           "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
           "symbol": "",
           "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
           "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
+          "ts": 1791815696
+        },
+        {
+          "name": "@sendaifun followed by Toly, Solana & Ansem have a secret cat in their 'Solana Agent Kit'\nThey're partnerred with @solana and the @SolanaFndn on huge Agent projects like the Solana AI Hackaton\n\nGoing to the Solana Agent Kit repo that was mentioned in 2024, you can find $sCAT Spectral Cat",
+          "symbol": "",
+          "mint": "7LhNb32f5Qhx9WkA7fEFkJuWvVaA5LdjviywQWS6pump",
+          "liq_usd": 0.0,
+          "mcap": 16379.09,
+          "buys_1h": 114,
+          "dex_url": "https://dexscreener.com/solana/2yubkr1balvnyxeexm8hbqtgc1t2ea8ffijcxbzsftmu",
+          "ts": 1791815696
         },
         {
           "name": "The cat that grabbed the baton and ran straight into Solana.",
           "symbol": "",
           "mint": "Dqf2t2FyomGyv9XGPw33vMfomxdaXbxt75DDXmAn833T",
           "liq_usd": 0.0,
-          "mcap": 16304.07,
-          "buys_1h": 33,
+          "mcap": 3625.84,
+          "buys_1h": 5,
           "dex_url": "https://dexscreener.com/solana/8gzm1ljmaxeyjucmax8rjku1f3tvz21fdje99vmtvkij",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:what",
-      "score": 60.5,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 17887.72,
-      "total_buys_1h": 188,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        },
-        {
-          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
-          "symbol": "",
-          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
-          "liq_usd": 0.0,
-          "mcap": 7957.97,
-          "buys_1h": 141,
-          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:community",
-      "score": 59.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 4,
-      "total_liq_usd": 32750.02,
-      "total_buys_1h": 58,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        },
-        {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
-          "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
-          "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
       "narrative": "novel:with",
-      "score": 58.9,
+      "score": 59.5,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 4,
-      "total_liq_usd": 20473.32,
-      "total_buys_1h": 77,
+      "total_liq_usd": 10451.56,
+      "total_buys_1h": 153,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.1,
       "top_tokens": [
         {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
           "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
           "symbol": "",
           "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
           "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "Learn everything with Kitty.",
@@ -638,93 +263,103 @@
           "mcap": 2524.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/eewfhinrtnvsphyedulswfdjtumcd7wrc44trqnyzni",
-          "ts": 1791812502
+          "ts": 1791815696
+        },
+        {
+          "name": "@sendaifun followed by Toly, Solana & Ansem have a secret cat in their 'Solana Agent Kit'\nThey're partnerred with @solana and the @SolanaFndn on huge Agent projects like the Solana AI Hackaton\n\nGoing to the Solana Agent Kit repo that was mentioned in 2024, you can find $sCAT Spectral Cat",
+          "symbol": "",
+          "mint": "7LhNb32f5Qhx9WkA7fEFkJuWvVaA5LdjviywQWS6pump",
+          "liq_usd": 0.0,
+          "mcap": 16379.09,
+          "buys_1h": 114,
+          "dex_url": "https://dexscreener.com/solana/2yubkr1balvnyxeexm8hbqtgc1t2ea8ffijcxbzsftmu",
+          "ts": 1791815696
         },
         {
           "name": "SPLASH is a multi-token trading platform on Solana. Buy up to five tokens in one simple flow with flexible SOL allocation. One Buy. Multiple Tokens.",
           "symbol": "",
           "mint": "6kFL98rLHN2q2QAn8wjv5dTxigXTadYMwczaNAYApump",
           "liq_usd": 0.0,
-          "mcap": 9582.05,
-          "buys_1h": 30,
+          "mcap": 4014.11,
+          "buys_1h": 22,
           "dex_url": "https://dexscreener.com/solana/3citcntxmwafgfqrohkjgjimzb48q84y7mxmo8kpp2fs",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "ai",
-      "score": 58.7,
+      "narrative": "animal",
+      "score": 58.6,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 7,
-      "total_liq_usd": 62001.04,
-      "total_buys_1h": 680,
+      "total_liq_usd": 57622.04,
+      "total_buys_1h": 588,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.25,
       "top_tokens": [
         {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
           "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
           "symbol": "",
           "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
           "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "name": "RUNNING OF THE BULLS",
           "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
+          "mint": "HHegCiT5d2i6oUnvBoxPP9dsYjJt1dKoxWw3rWegpump",
+          "liq_usd": 7179.23,
+          "mcap": 6494.0,
+          "buys_1h": 24,
+          "dex_url": "https://dexscreener.com/solana/egsd3nahcbxc8nfe8ampcaz3eyq6suzv1orxa1ncupf9",
+          "ts": 1791815696
         },
         {
-          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
+          "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
           "symbol": "",
-          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
+          "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
+          "liq_usd": 2699.31,
+          "mcap": 2428.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
+          "ts": 1791815696
         },
         {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
+          "name": "@sendaifun followed by Toly, Solana & Ansem have a secret cat in their 'Solana Agent Kit'\nThey're partnerred with @solana and the @SolanaFndn on huge Agent projects like the Solana AI Hackaton\n\nGoing to the Solana Agent Kit repo that was mentioned in 2024, you can find $sCAT Spectral Cat",
           "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zVYd1AvUVERRNg-g?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GAnAVuGmLn7N3umZC8brYuUxryQ39qNGSAYuiQwqpump",
-          "liq_usd": 3801.54,
-          "mcap": 3781.0,
-          "buys_1h": 128,
-          "dex_url": "https://dexscreener.com/solana/5ko5fsn5yux62hws7q3ssnw2wdhquvswckbj2c24qyoh",
-          "ts": 1791812502
+          "mint": "7LhNb32f5Qhx9WkA7fEFkJuWvVaA5LdjviywQWS6pump",
+          "liq_usd": 0.0,
+          "mcap": 16379.09,
+          "buys_1h": 114,
+          "dex_url": "https://dexscreener.com/solana/2yubkr1balvnyxeexm8hbqtgc1t2ea8ffijcxbzsftmu",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
       "narrative": "novel:join",
       "score": 56.9,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 33908.19,
-      "total_buys_1h": 349,
+      "total_liq_usd": 32682.85,
+      "total_buys_1h": 360,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -734,252 +369,177 @@
           "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
           "symbol": "",
           "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
           "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
           "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
           "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:hold",
-      "score": 56.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 30112.14,
-      "total_buys_1h": 45,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
-          "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "Hold $DMT. Hold the Realm.\nNFT alone pays. Both pay more.\n1,111 beings. One Source. Hash before mint.",
-          "symbol": "",
-          "mint": "Bn7ga2URqhCaT23HfLRZNHhVBpxxhycVdUSQAVpYpump",
-          "liq_usd": 0.0,
-          "mcap": 17029.93,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/cdjtjdu7r2dbnxfj1mtnxphxwqkegjtgdkblj7twtlyb",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:through",
-      "score": 55.6,
+      "narrative": "celebrity",
+      "score": 56.2,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 22629.78,
-      "total_buys_1h": 342,
+      "total_liq_usd": 15804.59,
+      "total_buys_1h": 7189,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
+          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
+          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
+          "liq_usd": 1995.38,
+          "mcap": 1960.0,
+          "buys_1h": 7180,
+          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:together",
+      "score": 54.1,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 24374.48,
+      "total_buys_1h": 29,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "symbol": "",
+          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
+          "ts": 1791815696
+        },
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
         },
         {
           "name": "Cat89 brings together cat lovers, meme makers, and curious minds through a shared spirit of adventure. Pack your bags and follow the cat",
           "symbol": "",
           "mint": "7WSRd9ixYPhvqUoNUDew2tqasuD7JoXY2FNngtqppump",
-          "liq_usd": 2728.52,
-          "mcap": 2459.0,
-          "buys_1h": 314,
+          "liq_usd": 2699.31,
+          "mcap": 2428.0,
+          "buys_1h": 3,
           "dex_url": "https://dexscreener.com/solana/3bxfsacgvp1pmwm6jb8izwssemyfa6xw9xggtcsmcrcq",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:inspired",
-      "score": 55.1,
+      "narrative": "ai",
+      "score": 53.0,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 19045.89,
-      "total_buys_1h": 338,
+      "token_count": 10,
+      "total_liq_usd": 96249.53,
+      "total_buys_1h": 1523,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.0,
+      "crowding": 0.25,
       "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
         {
           "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
           "symbol": "",
           "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
+          "liq_usd": 18873.64,
+          "mcap": 52994.0,
+          "buys_1h": 351,
           "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
+          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
           "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
-          "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:story",
-      "score": 55.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 19045.89,
-      "total_buys_1h": 338,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Seven kingdoms. Nine lives. One throne. \ud83d\udc51\ud83d\udc08\ud83d\udc09\n\nGAME OF CAT is a Solana memecoin inspired by a fantasy world of rival cat kingdoms, dragon queens, and battles for the crown.\n\nWatch the trailer. Choose your kingdom. Join the story. \ud83d\udd25",
-          "symbol": "",
-          "mint": "6KBDqTzgRPpa6xWeS5nPCxPwZHCRu1C51mV3S9r3pump",
-          "liq_usd": 19045.89,
-          "mcap": 53861.0,
-          "buys_1h": 338,
-          "dex_url": "https://dexscreener.com/solana/4l3zetw8uzydzrgb4ztppz4dnjqesaqwsqxw6j9ykzk3",
-          "ts": 1791812502
+          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
+          "liq_usd": 16146.1,
+          "mcap": 30253.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
+          "ts": 1791815696
         },
         {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
+          "name": "\ud83e\ude99 $FLIP \u2014 the provably-fair coin flip game on Solana. Heads you double, tails you flip again. Real SOL, instant payouts, daily rewards, and every flip is a verifiable RNG result. Playable now. \ud83d\ude80",
           "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
-          "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:wallet",
-      "score": 50.2,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 10210.88,
-      "total_buys_1h": 157,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
+          "mint": "C2hexLmLqq8mdK9ty22cYYBZ5Vc5kPQRfZXXhBDepump",
+          "liq_usd": 15554.48,
+          "mcap": 30547.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/5fqyzey7xkp3i3ifrlnvd3wm4buunjmxykas6fwjlx8q",
+          "ts": 1791815696
         },
         {
-          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
+          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
-          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
-          "liq_usd": 0.0,
-          "mcap": 7957.97,
-          "buys_1h": 141,
-          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
-          "ts": 1791812502
+          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:any",
-      "score": 50.1,
+      "narrative": "novel:playable",
+      "score": 49.6,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 85714.59,
-      "total_buys_1h": 31,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Gaming for people | Create and Remix any game without coding",
-          "symbol": "",
-          "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
-          "liq_usd": 75503.71,
-          "mcap": 462786.0,
-          "buys_1h": 15,
-          "dex_url": "https://dexscreener.com/solana/4uuzpgttnksnd8cwad3wxsxpcppxckvoywykhldfmon1",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:into",
-      "score": 49.0,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 23135.99,
-      "total_buys_1h": 63,
+      "total_liq_usd": 44016.88,
+      "total_buys_1h": 45,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -989,31 +549,101 @@
           "name": "PlaygroundPad turns your ideas into instantly playable games \u2014 one playground, infinite worlds - powered by google.",
           "symbol": "",
           "mint": "cnNgFYRS26pKHstKvfzQXEDQuvuMfUNzTB2AMZypump",
-          "liq_usd": 23135.99,
-          "mcap": 70968.0,
-          "buys_1h": 30,
+          "liq_usd": 28462.4,
+          "mcap": 103524.0,
+          "buys_1h": 36,
           "dex_url": "https://dexscreener.com/solana/7xp4badsrvfcbd9t4zzkeya3ccnfokimweobrrhw8arg",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "The cat that grabbed the baton and ran straight into Solana.",
+          "name": "\ud83e\ude99 $FLIP \u2014 the provably-fair coin flip game on Solana. Heads you double, tails you flip again. Real SOL, instant payouts, daily rewards, and every flip is a verifiable RNG result. Playable now. \ud83d\ude80",
           "symbol": "",
-          "mint": "Dqf2t2FyomGyv9XGPw33vMfomxdaXbxt75DDXmAn833T",
-          "liq_usd": 0.0,
-          "mcap": 16304.07,
-          "buys_1h": 33,
-          "dex_url": "https://dexscreener.com/solana/8gzm1ljmaxeyjucmax8rjku1f3tvz21fdje99vmtvkij",
-          "ts": 1791812502
+          "mint": "C2hexLmLqq8mdK9ty22cYYBZ5Vc5kPQRfZXXhBDepump",
+          "liq_usd": 15554.48,
+          "mcap": 30547.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/5fqyzey7xkp3i3ifrlnvd3wm4buunjmxykas6fwjlx8q",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:creator",
-      "score": 48.4,
+      "narrative": "novel:people",
+      "score": 48.8,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 33981.69,
+      "total_liq_usd": 80221.2,
+      "total_buys_1h": 23,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Gaming for people | Create and Remix any game without coding",
+          "symbol": "",
+          "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
+          "liq_usd": 72355.24,
+          "mcap": 426199.0,
+          "buys_1h": 6,
+          "dex_url": "https://dexscreener.com/solana/4uuzpgttnksnd8cwad3wxsxpcppxckvoywykhldfmon1",
+          "ts": 1791815696
+        },
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:holders",
+      "score": 48.2,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 16146.1,
+      "total_buys_1h": 68,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
+          "symbol": "",
+          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
+          "liq_usd": 16146.1,
+          "mcap": 30253.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
+          "ts": 1791815696
+        },
+        {
+          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
+          "symbol": "",
+          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
+          "liq_usd": 0.0,
+          "mcap": 9303.27,
+          "buys_1h": 57,
+          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:into",
+      "score": 47.9,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 28462.4,
       "total_buys_1h": 41,
       "social_posts": 0,
       "social_authors": 0,
@@ -1021,385 +651,105 @@
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
+          "name": "PlaygroundPad turns your ideas into instantly playable games \u2014 one playground, infinite worlds - powered by google.",
           "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
-        },
-        {
-          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
-          "symbol": "",
-          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:usdc",
-      "score": 48.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 30112.14,
-      "total_buys_1h": 44,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
-          "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:built",
-      "score": 47.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 21757.27,
-      "total_buys_1h": 44,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
-          "symbol": "",
-          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:let",
-      "score": 47.3,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22539.14,
-      "total_buys_1h": 42,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:already",
-      "score": 47.3,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22539.14,
-      "total_buys_1h": 42,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:keep",
-      "score": 47.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 17887.72,
-      "total_buys_1h": 47,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:will",
-      "score": 47.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 17887.72,
-      "total_buys_1h": 47,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        },
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:live",
-      "score": 46.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 24291.31,
-      "total_buys_1h": 29,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
-          "symbol": "",
-          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
-          "liq_usd": 14080.43,
-          "mcap": 23728.0,
-          "buys_1h": 13,
-          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:building",
-      "score": 45.9,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 25073.18,
-      "total_buys_1h": 27,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "symbol": "",
-          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
-        },
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:simple",
-      "score": 45.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 7676.84,
-      "total_buys_1h": 61,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
-          "symbol": "",
-          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
-          "liq_usd": 7676.84,
-          "mcap": 11419.0,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
-          "ts": 1791812502
-        },
-        {
-          "name": "SPLASH is a multi-token trading platform on Solana. Buy up to five tokens in one simple flow with flexible SOL allocation. One Buy. Multiple Tokens.",
-          "symbol": "",
-          "mint": "6kFL98rLHN2q2QAn8wjv5dTxigXTadYMwczaNAYApump",
-          "liq_usd": 0.0,
-          "mcap": 9582.05,
-          "buys_1h": 30,
-          "dex_url": "https://dexscreener.com/solana/3citcntxmwafgfqrohkjgjimzb48q84y7mxmo8kpp2fs",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:straight",
-      "score": 45.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 10210.88,
-      "total_buys_1h": 49,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
-          "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
+          "mint": "cnNgFYRS26pKHstKvfzQXEDQuvuMfUNzTB2AMZypump",
+          "liq_usd": 28462.4,
+          "mcap": 103524.0,
+          "buys_1h": 36,
+          "dex_url": "https://dexscreener.com/solana/7xp4badsrvfcbd9t4zzkeya3ccnfokimweobrrhw8arg",
+          "ts": 1791815696
         },
         {
           "name": "The cat that grabbed the baton and ran straight into Solana.",
           "symbol": "",
           "mint": "Dqf2t2FyomGyv9XGPw33vMfomxdaXbxt75DDXmAn833T",
           "liq_usd": 0.0,
-          "mcap": 16304.07,
-          "buys_1h": 33,
+          "mcap": 3625.84,
+          "buys_1h": 5,
           "dex_url": "https://dexscreener.com/solana/8gzm1ljmaxeyjucmax8rjku1f3tvz21fdje99vmtvkij",
-          "ts": 1791812502
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:more",
-      "score": 41.3,
+      "narrative": "novel:what",
+      "score": 46.4,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 14862.3,
-      "total_buys_1h": 12,
+      "total_liq_usd": 7865.96,
+      "total_buys_1h": 74,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
+        },
+        {
+          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
+          "symbol": "",
+          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
+          "liq_usd": 0.0,
+          "mcap": 9303.27,
+          "buys_1h": 57,
+          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:built",
+      "score": 45.9,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 24012.06,
+      "total_buys_1h": 28,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "PrintR : Get an AI mind that works live for your coin \u00b7 \nholders get 100% of creator fees \u00b7 built on @Solana",
+          "symbol": "",
+          "mint": "8Y6pHi3cMhxhtHuzgGAsWgAJMyw3zaQLeFFf3qvRpump",
+          "liq_usd": 16146.1,
+          "mcap": 30253.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/boil8w7cfhogfjr3vhfh34gfkdkmgm7y1yyxbwelfcx7",
+          "ts": 1791815696
+        },
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:community",
+      "score": 45.3,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 21675.17,
+      "total_buys_1h": 26,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1409,66 +759,136 @@
           "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
           "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "Hold $DMT. Hold the Realm.\nNFT alone pays. Both pay more.\n1,111 beings. One Source. Hash before mint.",
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
           "symbol": "",
-          "mint": "Bn7ga2URqhCaT23HfLRZNHhVBpxxhycVdUSQAVpYpump",
-          "liq_usd": 0.0,
-          "mcap": 17029.93,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/cdjtjdu7r2dbnxfj1mtnxphxwqkegjtgdkblj7twtlyb",
-          "ts": 1791812502
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:own",
-      "score": 41.2,
+      "narrative": "novel:let",
+      "score": 45.3,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 10210.88,
-      "total_buys_1h": 16,
+      "total_liq_usd": 21675.17,
+      "total_buys_1h": 26,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "$VTUBEPRO is the community token of VTube Pro, a free VTuber studio that runs in your browser: 3D and 2D avatars, face and body tracking from any webcam, live 3D rooms and stages, light shows, multiplayer guests, and one-click streaming to OBS.\n\nWhat we're building for the token:\n- Tips: viewers tip their favourite streamers in $VTUBEPRO, shown with its dollar value. Tips go straight from wallet to wallet; streamers can keep them or swap them for USDC, USDT or SOL in their own wallet.\n- Holder perks: people who hold $VTUBEPRO and use VTube Pro unlock exclusive cosmetics such as special backgrounds, avatars and room items.\n- The Marketplace: artists will sell avatars, environments and asset packs, with each purchase recorded on Solana as a permanent licence the artist can't take back. A free Marketplace of official VTube Pro rooms, characters and asset packs comes first.\n\nVTube Pro is and will stay free to use. You never need the token to use the app. VTube Pro will never DM you first, never ask for your seed phrase, and never ask you to send it crypto.",
+          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
-          "mint": "BzLRJmKYYvDaKW5ewyaJADiMV4eRCFV8scCEENbUpump",
-          "liq_usd": 10210.88,
-          "mcap": 16742.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/2rcvezx6fbeaqonbyjqpdvaks9ovk7qerhmh91mdxcod",
-          "ts": 1791812502
+          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
+          "ts": 1791815696
         },
         {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
           "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
-          "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel:make",
-      "score": 41.0,
+      "narrative": "novel:already",
+      "score": 45.3,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 14862.3,
+      "total_liq_usd": 21675.17,
+      "total_buys_1h": 26,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "symbol": "",
+          "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
+          "ts": 1791815696
+        },
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:simple",
+      "score": 43.9,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 7865.96,
+      "total_buys_1h": 39,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "NOKI is a token on Solana built together with its community.\nWe want to keep things simple: build useful stuff, be transparent about what we're doing and let people verify things for themselves.\n\nWe're already working on NOKI Verify, the Watchers programs and new things that will be introduced as the project grows.\nThis is just the beginning. \n\nDon\u2019t Trust. Verify.\nNothing Stays Hidden.",
+          "symbol": "",
+          "mint": "JpxR2s37aA2HTP5BK2Y6GMxB9qwdL5ndPxCxVPppump",
+          "liq_usd": 7865.96,
+          "mcap": 11904.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/2yuck5ql7wvqmihkzjqmrqtvenwkxjrozjeqjp1lcvnr",
+          "ts": 1791815696
+        },
+        {
+          "name": "SPLASH is a multi-token trading platform on Solana. Buy up to five tokens in one simple flow with flexible SOL allocation. One Buy. Multiple Tokens.",
+          "symbol": "",
+          "mint": "6kFL98rLHN2q2QAn8wjv5dTxigXTadYMwczaNAYApump",
+          "liq_usd": 0.0,
+          "mcap": 4014.11,
+          "buys_1h": 22,
+          "dex_url": "https://dexscreener.com/solana/3citcntxmwafgfqrohkjgjimzb48q84y7mxmo8kpp2fs",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:more",
+      "score": 40.7,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 13809.21,
       "total_buys_1h": 11,
       "social_posts": 0,
       "social_authors": 0,
@@ -1479,1002 +899,972 @@
           "name": "INMU KING ($INMUKING)\n\nJapan\u2019s viral AI song & dance taking over the internet.\nYAJU-MC\u2019s \u201cINMU KING\u201d MV is exploding \u2014 already millions of views and climbing the charts.\n\nWe\u2019re building a strong community to push the song even further and drive more YouTube MV views together.\nJoin the movement, share the MV, and let\u2019s make INMU KING unstoppable.\n\n\ud83d\udc51\nCA: 26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
           "symbol": "",
           "mint": "26RsPKnoUNU8ejytaKTxMLDDosS5DJZD5BQ8YYgwpump",
-          "liq_usd": 14862.3,
-          "mcap": 33987.0,
-          "buys_1h": 11,
+          "liq_usd": 13809.21,
+          "mcap": 29954.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/haqetybm4ydkdrd7uupwasym1kchahrpnqvft8nigsdh",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "Kendu Pup is the next generation of the Kendu Inu story. Inspired by his father\u2019s legacy, he\u2019s here to bring the community together and make his own mark\u2014one pawprint at a time.",
+          "name": "Hold $DMT. Hold the Realm.\nNFT alone pays. Both pay more.\n1,111 beings. One Source. Hash before mint.",
           "symbol": "",
-          "mint": "3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump",
+          "mint": "Bn7ga2URqhCaT23HfLRZNHhVBpxxhycVdUSQAVpYpump",
           "liq_usd": 0.0,
-          "mcap": 21918.73,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9vljfu3pqlbfzb7qp2z32d2crihjjt5avkpq9vheqvdh",
-          "ts": 1791812502
+          "mcap": 16535.84,
+          "buys_1h": 2,
+          "dex_url": "https://dexscreener.com/solana/cdjtjdu7r2dbnxfj1mtnxphxwqkegjtgdkblj7twtlyb",
+          "ts": 1791815696
         }
       ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     },
     {
-      "narrative": "novel",
-      "score": 15.0,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 27,
-      "total_liq_usd": 434843.3,
-      "total_buys_1h": 12233,
+      "narrative": "novel:wallet",
+      "score": 32.2,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 0.06,
+      "total_buys_1h": 57,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.7,
+      "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "GOIF \u767c\u5e16\u8ac7\u53ca\u5168\u7403\u706b\u7130\u5d1b\u8d77\u3002\u80cc\u666f\u70ba\u4e16\u754c\u91cd\u71c3\u5e0c\u671b\u3002\u5176\u6a19\u8a8c\u5c55\u793a\u4e86\u91d1\u8272\u706b\u70ac\u6620\u7167\u5730\u7403\u3002",
+          "name": "Mysterious dev holding 5 million in wallet",
           "symbol": "",
-          "mint": "9Twd5vXAPYSWwuPTVPgDmdxvVHsUQwijC4a1QvYZpump",
-          "liq_usd": 285357.78,
-          "mcap": 10513172.0,
-          "buys_1h": 1773,
-          "dex_url": "https://dexscreener.com/solana/3of2ebbd7wewjuea5dujyk7p7n3cna4c9ameu28vkkdx",
-          "ts": 1791812502
+          "mint": "qc2V9pn5dSMJjLKP9SkXuZLg9UKAfmnL6rGgo3gpump",
+          "liq_usd": 0.06,
+          "mcap": 18796.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/dj5iasqnj5mwqtpajo7ivis7v82nbe3otvdpgpc4rqfp",
+          "ts": 1791815696
         },
+        {
+          "name": "Paste a Robinhood Chain or Solana wallet to see how fast it dumps, what it jeeted and what it made. Paste a token to see how many of its top holders are serial sellers.",
+          "symbol": "",
+          "mint": "HArUcNYTd3YxTF1c7CBM2bRtNG18rrYPKubRF8mepump",
+          "liq_usd": 0.0,
+          "mcap": 9303.27,
+          "buys_1h": 57,
+          "dex_url": "https://dexscreener.com/solana/k4qavjs4cs714v1igaoamrwctk2afpmtrt7q1sxfyzq",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:com",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:https",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:height",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:cms",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:dexscreener",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:fit",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:crop",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:quality",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:auto",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:cdn",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:images",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:format",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel:width",
+      "score": 31.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 155133.45,
+      "total_buys_1h": 15632,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/akm-gtP72mChYPGJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump",
+          "liq_usd": 28869.86,
+          "mcap": 122381.0,
+          "buys_1h": 69,
+          "dex_url": "https://dexscreener.com/solana/dcpsej23vetv47fh8neccbvfnp4fetxtvw7kkeyzywrq",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
+          "liq_usd": 26141.67,
+          "mcap": 102949.0,
+          "buys_1h": 19,
+          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
+          "ts": 1791815696
+        }
+      ],
+      "updated_at": 1791815759
+    },
+    {
+      "narrative": "novel",
+      "score": 26.5,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 19,
+      "total_liq_usd": 226944.54,
+      "total_buys_1h": 9739,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
         {
           "name": "Frank Ashford.",
           "symbol": "",
           "mint": "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump",
-          "liq_usd": 70917.68,
-          "mcap": 384954.0,
-          "buys_1h": 771,
+          "liq_usd": 77927.83,
+          "mcap": 460937.0,
+          "buys_1h": 697,
           "dex_url": "https://dexscreener.com/solana/745atasswxvry5qt1xvv9exug884hdvnjfva2o82dnbi",
-          "ts": 1791812502
+          "ts": 1791815696
         },
         {
-          "name": "Hold $NOSHITS. 100% of creator rewards go to holders as a USDC salary\u2014plus payslips, payday alerts and travel booked in USDC. (Flights and holidays through the website ) No shifts. No shits.",
+          "name": "https://cdn.dexscreener.com/cms/images/OnKH6o2iW5aLZxJa?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "ASJQAyB3dgS4YTnjNCcbtRhVgPxf3U537XMyQc5kEQpA",
-          "liq_usd": 19901.26,
-          "mcap": 51716.0,
-          "buys_1h": 28,
-          "dex_url": "https://dexscreener.com/solana/hyrj8wv1cglusyw1syn3sxdlhqgogdjbwfbnf9yimmsq",
-          "ts": 1791812502
+          "mint": "GaBoXhERQ3vyV7d6zVPZafPuVcjnkVvhmPuFiVePAHWm",
+          "liq_usd": 32041.97,
+          "mcap": 123856.0,
+          "buys_1h": 1011,
+          "dex_url": "https://dexscreener.com/solana/49slkfbf6opl31lxqcvo4c5ajewotmshj2szh1yywbyg",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/QaJ9WmIg8sdpAPl0?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "Lb1hXvLmj1AC1WbpC6jBRfn5Jr5rXJmmZyH5xFGpump",
+          "liq_usd": 27236.98,
+          "mcap": 107937.0,
+          "buys_1h": 270,
+          "dex_url": "https://dexscreener.com/solana/3csjj5prvhrsqjjtpmnnhsg8vmpddtxzdkyhpwjtxiqu",
+          "ts": 1791815696
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/ZIMbShlr3mSlqKh8?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+          "liq_usd": 27198.11,
+          "mcap": 99204.0,
+          "buys_1h": 2093,
+          "dex_url": "https://dexscreener.com/solana/2u5kdozdrdgyzygrnbtdbejglyeert1fkerqmypbv85p",
+          "ts": 1791815696
         },
         {
           "name": "",
           "symbol": "",
           "mint": "",
-          "liq_usd": 17883.01,
-          "mcap": 44086.0,
-          "buys_1h": 1150,
-          "dex_url": "https://dexscreener.com/solana/3xnhc29ussqh1lk8xhktapvu76zhqimxfouj8royaw3r",
+          "liq_usd": 24932.52,
+          "mcap": 77044.0,
+          "buys_1h": 601,
+          "dex_url": "https://dexscreener.com/solana/7x1nomaszsx8f9uyartyikyhsxb1vjob7ejx7ubwbhjy",
           "ts": 0
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
         }
       ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:crop",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:width",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:height",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:cms",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:com",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:images",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:cdn",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:format",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:https",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:quality",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:auto",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:dexscreener",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
-    },
-    {
-      "narrative": "novel:fit",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 175094.98,
-      "total_buys_1h": 17102,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/YWQr17_8zwWchfBV?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "RDg9LE377mNhUVNi5Enc9e9imcWWvgro2xwLZn5pump",
-          "liq_usd": 75282.8,
-          "mcap": 769746.0,
-          "buys_1h": 6051,
-          "dex_url": "https://dexscreener.com/solana/bdqbo36lqzjyrsnm6erxlki8hhoszawswb6nazkkaza2",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aNVVDmNjPc7gkgMQ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
-          "liq_usd": 49575.58,
-          "mcap": 269804.0,
-          "buys_1h": 2412,
-          "dex_url": "https://dexscreener.com/solana/g8hrblz5qvrxdrhpjt857sfne3lmak3jctqwmtxqys3m",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/qQt15MlUmr04tZCw?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "714We6BWyGYP8Cc5DzcU7VkabsXGa6mycmNVhr3pump",
-          "liq_usd": 19963.25,
-          "mcap": 61943.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aqu7x1aufmhiekbxsh6rcs9l49ekm1wacurw6nrbgajv",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/WNBVHVGx57FdM3u5?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5y5kMCswFPAqYqf2PoY7VQeLdvWKZGXkEDAEbY8Tpump",
-          "liq_usd": 12290.75,
-          "mcap": 23640.0,
-          "buys_1h": 501,
-          "dex_url": "https://dexscreener.com/solana/6kaku1fuyqcrpjdqbbz4dqk2hbpqwkoju1l3gurgjylx",
-          "ts": 1791812502
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/jf6nbZpgmZZZWYUT?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7ovZz8RZ9PrSdV6ECuHC9DfhTQNKBAQXyHjAyCAKpump",
-          "liq_usd": 3906.99,
-          "mcap": 4221.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/3fxu2g7bjidgbbkcxc1gvovvxoshdb9tpqb1faoneu6v",
-          "ts": 1791812502
-        }
-      ],
-      "updated_at": 1791812595
+      "updated_at": 1791815759
     }
   ],
   "history": [
-    {
-      "ts": 1791642437,
-      "narratives": [
-        {
-          "narrative": "novel:with",
-          "score": 79.0,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 5
-        },
-        {
-          "narrative": "novel:your",
-          "score": 70.2,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:grow",
-          "score": 69.5,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:world",
-          "score": 68.8,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:official",
-          "score": 68.7,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "desci",
-          "score": 66.5,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:them",
-          "score": 61.3,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:trade",
-          "score": 61.3,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "gaming",
-          "score": 60.9,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 7
-        },
-        {
-          "narrative": "novel:through",
-          "score": 60.1,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        }
-      ]
-    },
     {
       "ts": 1791646056,
       "narratives": [
@@ -5527,6 +4917,71 @@
           "score": 60.5,
           "stage": "\ud83d\udd25 Forming",
           "token_count": 3
+        }
+      ]
+    },
+    {
+      "ts": 1791815759,
+      "narratives": [
+        {
+          "narrative": "gaming",
+          "score": 77.1,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 5
+        },
+        {
+          "narrative": "meme",
+          "score": 68.1,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:your",
+          "score": 67.9,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:that",
+          "score": 61.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:with",
+          "score": 59.5,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 4
+        },
+        {
+          "narrative": "animal",
+          "score": 58.6,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 7
+        },
+        {
+          "narrative": "novel:join",
+          "score": 56.9,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        },
+        {
+          "narrative": "celebrity",
+          "score": 56.2,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        },
+        {
+          "narrative": "novel:together",
+          "score": 54.1,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "ai",
+          "score": 53.0,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 10
         }
       ]
     }
