@@ -1,15 +1,80 @@
 {
-  "generated_at": "2026-10-16T07:45:21.644964+00:00",
-  "generated_ts": 1792136721,
-  "tokens_scanned": 50,
+  "generated_at": "2026-10-16T08:43:13.777419+00:00",
+  "generated_ts": 1792140193,
+  "tokens_scanned": 49,
   "narratives": [
+    {
+      "narrative": "gaming",
+      "score": 73.4,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 6,
+      "total_liq_usd": 67870.24,
+      "total_buys_1h": 10201,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.1,
+      "top_tokens": [
+        {
+          "name": "We\u2019re the cto for the official biggest meme currency.  The rumored social currency attached to the biggest wave of interest in years and the biggest game",
+          "symbol": "",
+          "mint": "2uwxxiD1PshoPrrSoNvttRD8Aa1nwxVDTFf4JK36pump",
+          "liq_usd": 45646.35,
+          "mcap": 207764.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/52buwqk5uggkmvobhjfxrk5ywzfcbtthrpxz4o13dpx3",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/4KWc7Uf_Ugz-1oyH?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
+          "liq_usd": 5935.6,
+          "mcap": 7617.0,
+          "buys_1h": 3425,
+          "dex_url": "https://dexscreener.com/solana/bmbyvnuvywd9hrmaglfeqrncxxkem5qsxu2syeeehlyz",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Ocgi9ibjDoapEe0G?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8BwEQTbuKD6DyHsr57FpF8L6RRvzr8Gm4TRMMqfbpump",
+          "liq_usd": 0.0,
+          "mcap": 21260.75,
+          "buys_1h": 2103,
+          "dex_url": "https://dexscreener.com/solana/hnle6wljxjfsr2cml3p4gnntv1grbeyw8dxz43amy3tq",
+          "ts": 1792140112
+        },
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
     {
       "narrative": "animal",
       "score": 70.9,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 4,
-      "total_liq_usd": 144251.21,
-      "total_buys_1h": 5975,
+      "total_liq_usd": 141644.67,
+      "total_buys_1h": 7976,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -19,52 +84,52 @@
           "name": "Who gave this owl the audacity to become the entire logo? One pink bird, one whole circle, absolutely no room for humility.",
           "symbol": "",
           "mint": "D61pTaTqR93axxVvu7AX5TW6c3a4vhffPPMfCnsYpump",
-          "liq_usd": 78552.42,
-          "mcap": 758122.0,
-          "buys_1h": 5885,
+          "liq_usd": 79622.79,
+          "mcap": 771401.0,
+          "buys_1h": 5869,
           "dex_url": "https://dexscreener.com/solana/ggm3wpy8mtxx7afvs1rsxbztbnz9kk1heg9mbfmyada1",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "The Mask stays On.\n\nHold MaskCat to earn Mask, hold Mask you earn ZEC.",
+          "name": "The World Famous Pikachu Dog",
           "symbol": "",
-          "mint": "GZw7LxHtQKSQ1YsGnpNH7SovnBF8X6poYgavHwrmRekp",
-          "liq_usd": 63206.74,
-          "mcap": 253393.0,
-          "buys_1h": 9,
-          "dex_url": "https://dexscreener.com/solana/g7qktr9lr3pf44kp6alkw8sexigdxbg2jajtzrtukk15",
-          "ts": 1792136634
+          "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
+          "liq_usd": 59509.41,
+          "mcap": 152164.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/akmxsy6blnkt3dqkkmrfa4u5rnl8hxcb48jgcpwftzxd",
+          "ts": 1792140112
         },
         {
           "name": "Unofficial, community-driven Dogefather movement. ANDIAMO",
           "symbol": "",
           "mint": "GmRZNKavuh2KxpdQ3QL5jmZfQpJm8zvubdCR4ddQpump",
-          "liq_usd": 2492.05,
-          "mcap": 2179.0,
+          "liq_usd": 2512.47,
+          "mcap": 2196.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/75sfch8xyera4w9kibfw1afd1h5l24xwrgak5rjkdh2u",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/cd6cuKOpqUdkOLLm?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/Ocgi9ibjDoapEe0G?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DuaSA2YynBhqyW26n48EX7qtdRWKHtnVjR8fsE5spump",
+          "mint": "8BwEQTbuKD6DyHsr57FpF8L6RRvzr8Gm4TRMMqfbpump",
           "liq_usd": 0.0,
-          "mcap": 3839.81,
-          "buys_1h": 81,
-          "dex_url": "https://dexscreener.com/solana/2ll9sdk7pgwat3tcj6y4sny7onzkncf7wmnpm1hbrqpq",
-          "ts": 1792136634
+          "mcap": 21260.75,
+          "buys_1h": 2103,
+          "dex_url": "https://dexscreener.com/solana/hnle6wljxjfsr2cml3p4gnntv1grbeyw8dxz43amy3tq",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:this",
-      "score": 70.1,
+      "score": 70.2,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 114234.38,
-      "total_buys_1h": 5904,
+      "total_liq_usd": 115470.84,
+      "total_buys_1h": 5885,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -74,97 +139,87 @@
           "name": "Who gave this owl the audacity to become the entire logo? One pink bird, one whole circle, absolutely no room for humility.",
           "symbol": "",
           "mint": "D61pTaTqR93axxVvu7AX5TW6c3a4vhffPPMfCnsYpump",
-          "liq_usd": 78552.42,
-          "mcap": 758122.0,
-          "buys_1h": 5885,
+          "liq_usd": 79622.79,
+          "mcap": 771401.0,
+          "buys_1h": 5869,
           "dex_url": "https://dexscreener.com/solana/ggm3wpy8mtxx7afvs1rsxbztbnz9kk1heg9mbfmyada1",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "This aint no state property",
           "symbol": "",
           "mint": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
-          "liq_usd": 35681.96,
-          "mcap": 162760.0,
-          "buys_1h": 15,
+          "liq_usd": 35848.05,
+          "mcap": 163383.0,
+          "buys_1h": 16,
           "dex_url": "https://dexscreener.com/solana/5wbycemmszmxy2cxlttchlgefl3y3kfvaqmasdtlfnv8",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
           "symbol": "",
           "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
           "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
+          "mcap": 21001.83,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "political",
-      "score": 68.9,
+      "narrative": "novel:world",
+      "score": 64.6,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 67816.08,
-      "total_buys_1h": 631,
+      "token_count": 3,
+      "total_liq_usd": 180537.45,
+      "total_buys_1h": 92,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.1,
+      "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+          "liq_usd": 109768.37,
+          "mcap": 1146698.0,
+          "buys_1h": 74,
+          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+          "ts": 1792140112
         },
         {
-          "name": "Trump $1 Coin / paired with USDC",
+          "name": "The World Famous Pikachu Dog",
           "symbol": "",
-          "mint": "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump",
-          "liq_usd": 30512.82,
-          "mcap": 39840.0,
-          "buys_1h": 5,
-          "dex_url": "https://dexscreener.com/solana/fpjfwz3ngfvywkpdxzqm8qaljzmy6u3ngaa8nc7sndag",
-          "ts": 1792136634
+          "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
+          "liq_usd": 59509.41,
+          "mcap": 152164.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/akmxsy6blnkt3dqkkmrfa4u5rnl8hxcb48jgcpwftzxd",
+          "ts": 1792140112
         },
         {
-          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
+          "name": "The world's first GTA V server with real cryptocurrency integration",
           "symbol": "",
-          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
-          "liq_usd": 2644.23,
-          "mcap": 2491.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/cd6cuKOpqUdkOLLm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DuaSA2YynBhqyW26n48EX7qtdRWKHtnVjR8fsE5spump",
-          "liq_usd": 0.0,
-          "mcap": 3839.81,
-          "buys_1h": 81,
-          "dex_url": "https://dexscreener.com/solana/2ll9sdk7pgwat3tcj6y4sny7onzkncf7wmnpm1hbrqpq",
-          "ts": 1792136634
+          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
+          "liq_usd": 11259.67,
+          "mcap": 22025.0,
+          "buys_1h": 14,
+          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:community",
-      "score": 65.0,
+      "score": 64.3,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 4,
-      "total_liq_usd": 22340.48,
-      "total_buys_1h": 397,
+      "total_liq_usd": 22024.77,
+      "total_buys_1h": 331,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -174,21 +229,21 @@
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 19848.43,
-          "mcap": 59358.0,
-          "buys_1h": 393,
+          "liq_usd": 19512.3,
+          "mcap": 58145.0,
+          "buys_1h": 331,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "Unofficial, community-driven Dogefather movement. ANDIAMO",
           "symbol": "",
           "mint": "GmRZNKavuh2KxpdQ3QL5jmZfQpJm8zvubdCR4ddQpump",
-          "liq_usd": 2492.05,
-          "mcap": 2179.0,
+          "liq_usd": 2512.47,
+          "mcap": 2196.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/75sfch8xyera4w9kibfw1afd1h5l24xwrgak5rjkdh2u",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow until Jan 1, 2027. No promises, just the seal in the bunker.",
@@ -198,83 +253,28 @@
           "mcap": 9293.72,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/fr9xc6fzavjxnbbl6rdtfuksw6hn4fzbeqrjedbpnjqn",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
           "symbol": "",
           "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
           "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
+          "mcap": 21001.83,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "gaming",
-      "score": 64.1,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 47812.82,
-      "total_buys_1h": 176,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "We\u2019re the cto for the official biggest meme currency.  The rumored social currency attached to the biggest wave of interest in years and the biggest game",
-          "symbol": "",
-          "mint": "2uwxxiD1PshoPrrSoNvttRD8Aa1nwxVDTFf4JK36pump",
-          "liq_usd": 47812.82,
-          "mcap": 226902.0,
-          "buys_1h": 15,
-          "dex_url": "https://dexscreener.com/solana/52buwqk5uggkmvobhjfxrk5ywzfcbtthrpxz4o13dpx3",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/tnGHtWI0IQnKsQHA?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2fk5eGwAch1wGhsK3XhRUZpopXFGyRbFUn6XL4Yxpump",
-          "liq_usd": 0.0,
-          "mcap": 41084.0,
-          "buys_1h": 155,
-          "dex_url": "https://dexscreener.com/solana/b5ekvv36eqcw6rgwduxvqnmiqqbzhqknokddrcnkykrs",
-          "ts": 1792136634
-        },
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        },
-        {
-          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
-          "symbol": "",
-          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
-          "liq_usd": 0.0,
-          "mcap": 15139.15,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:launch",
-      "score": 62.4,
+      "score": 60.7,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 43805.08,
-      "total_buys_1h": 152,
+      "total_liq_usd": 43152.65,
+      "total_buys_1h": 101,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -284,11 +284,11 @@
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 43805.08,
-          "mcap": 228436.0,
-          "buys_1h": 148,
+          "liq_usd": 43152.65,
+          "mcap": 220719.0,
+          "buys_1h": 101,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow until Jan 1, 2027. No promises, just the seal in the bunker.",
@@ -298,28 +298,28 @@
           "mcap": 9293.72,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/fr9xc6fzavjxnbbl6rdtfuksw6hn4fzbeqrjedbpnjqn",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
           "symbol": "",
           "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
           "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
+          "mcap": 21001.83,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:tesla",
-      "score": 61.1,
+      "score": 60.5,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 4,
-      "total_liq_usd": 21498.67,
-      "total_buys_1h": 138,
+      "total_liq_usd": 19721.09,
+      "total_buys_1h": 125,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -329,11 +329,11 @@
           "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
           "symbol": "",
           "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 16565.29,
-          "mcap": 34845.0,
-          "buys_1h": 66,
+          "liq_usd": 14722.07,
+          "mcap": 28123.0,
+          "buys_1h": 63,
           "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
@@ -343,288 +343,38 @@
           "mcap": 2491.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
           "symbol": "",
           "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
           "symbol": "",
           "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
           "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
+          "mcap": 8681.9,
+          "buys_1h": 61,
           "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:official",
-      "score": 60.1,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 2,
-      "total_liq_usd": 161577.88,
-      "total_buys_1h": 242,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-          "symbol": "",
-          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 113765.06,
-          "mcap": 1235818.0,
-          "buys_1h": 227,
-          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792136634
-        },
-        {
-          "name": "We\u2019re the cto for the official biggest meme currency.  The rumored social currency attached to the biggest wave of interest in years and the biggest game",
-          "symbol": "",
-          "mint": "2uwxxiD1PshoPrrSoNvttRD8Aa1nwxVDTFf4JK36pump",
-          "liq_usd": 47812.82,
-          "mcap": 226902.0,
-          "buys_1h": 15,
-          "dex_url": "https://dexscreener.com/solana/52buwqk5uggkmvobhjfxrk5ywzfcbtthrpxz4o13dpx3",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:world",
-      "score": 59.5,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 124332.05,
-      "total_buys_1h": 251,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-          "symbol": "",
-          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 113765.06,
-          "mcap": 1235818.0,
-          "buys_1h": 227,
-          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792136634
-        },
-        {
-          "name": "The world's first GTA V server with real cryptocurrency integration",
-          "symbol": "",
-          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
-          "liq_usd": 10566.99,
-          "mcap": 19817.0,
-          "buys_1h": 24,
-          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:holder",
-      "score": 58.9,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 113765.06,
-      "total_buys_1h": 231,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-          "symbol": "",
-          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 113765.06,
-          "mcap": 1235818.0,
-          "buys_1h": 227,
-          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792136634
-        },
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:built",
-      "score": 58.2,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 36413.72,
-      "total_buys_1h": 459,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
-          "symbol": "",
-          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 19848.43,
-          "mcap": 59358.0,
-          "buys_1h": 393,
-          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792136634
-        },
-        {
-          "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
-          "symbol": "",
-          "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 16565.29,
-          "mcap": 34845.0,
-          "buys_1h": 66,
-          "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:first",
-      "score": 57.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 10566.99,
-      "total_buys_1h": 127,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The world's first GTA V server with real cryptocurrency integration",
-          "symbol": "",
-          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
-          "liq_usd": 10566.99,
-          "mcap": 19817.0,
-          "buys_1h": 24,
-          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
-          "ts": 1792136634
-        },
-        {
-          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
-          "symbol": "",
-          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-          "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
-          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
-        },
-        {
-          "name": "The post-quantum wallet vault for Solana, and the first launchpad where Instagram creators get paid",
-          "symbol": "",
-          "mint": "3h4poyYGABrfoRBMzD11sF5fuLq1hvGZpNdtoeQfpump",
-          "liq_usd": 0.0,
-          "mcap": 23212.39,
-          "buys_1h": 31,
-          "dex_url": "https://dexscreener.com/solana/gzkq94gmblcaqhciwnp25u59c6xhj55rp2yryyiav5rn",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:with",
-      "score": 56.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 9,
-      "total_liq_usd": 203283.3,
-      "total_buys_1h": 477,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.25,
-      "top_tokens": [
-        {
-          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-          "symbol": "",
-          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 113765.06,
-          "mcap": 1235818.0,
-          "buys_1h": 227,
-          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792136634
-        },
-        {
-          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
-          "symbol": "",
-          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 43805.08,
-          "mcap": 228436.0,
-          "buys_1h": 148,
-          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792136634
-        },
-        {
-          "name": "Trump $1 Coin / paired with USDC",
-          "symbol": "",
-          "mint": "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump",
-          "liq_usd": 30512.82,
-          "mcap": 39840.0,
-          "buys_1h": 5,
-          "dex_url": "https://dexscreener.com/solana/fpjfwz3ngfvywkpdxzqm8qaljzmy6u3ngaa8nc7sndag",
-          "ts": 1792136634
-        },
-        {
-          "name": "The world's first GTA V server with real cryptocurrency integration",
-          "symbol": "",
-          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
-          "liq_usd": 10566.99,
-          "mcap": 19817.0,
-          "buys_1h": 24,
-          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
-          "ts": 1792136634
-        },
-        {
-          "name": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
-          "symbol": "",
-          "mint": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
-          "liq_usd": 2344.2,
-          "mcap": 2109.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9iyhxmwtdtqszskx1kc6mbkcpu6wncwkbyvbayi3oc2e",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "meme",
-      "score": 56.5,
+      "score": 59.5,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 7,
-      "total_liq_usd": 66935.44,
-      "total_buys_1h": 229,
+      "total_liq_usd": 86089.89,
+      "total_buys_1h": 8106,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -634,77 +384,67 @@
           "name": "We\u2019re the cto for the official biggest meme currency.  The rumored social currency attached to the biggest wave of interest in years and the biggest game",
           "symbol": "",
           "mint": "2uwxxiD1PshoPrrSoNvttRD8Aa1nwxVDTFf4JK36pump",
-          "liq_usd": 47812.82,
-          "mcap": 226902.0,
-          "buys_1h": 15,
+          "liq_usd": 45646.35,
+          "mcap": 207764.0,
+          "buys_1h": 11,
           "dex_url": "https://dexscreener.com/solana/52buwqk5uggkmvobhjfxrk5ywzfcbtthrpxz4o13dpx3",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/3Bgm7FCnigKO9Y7s?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "edWxH37cPRotq8NqN3TAmSE2VdLZ9bPwpMLoNEmpump",
-          "liq_usd": 2590.04,
-          "mcap": 2232.0,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/aecgmshdrggyc15ovtmvfhndhc4pptpomgewyksrwjcq",
-          "ts": 1792136634
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/4KWc7Uf_Ugz-1oyH?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
+          "liq_usd": 5935.6,
+          "mcap": 7617.0,
+          "buys_1h": 3425,
+          "dex_url": "https://dexscreener.com/solana/bmbyvnuvywd9hrmaglfeqrncxxkem5qsxu2syeeehlyz",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/l1_lGmOjHvM0LjXd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "CEuqMZ7iVEVnBKmP1aBBqC4VjRdpr5KCqnYEZjwswbux",
           "liq_usd": 0.0,
-          "mcap": 3321.32,
-          "buys_1h": 40,
+          "mcap": 3614.47,
+          "buys_1h": 2,
           "dex_url": "https://dexscreener.com/solana/8gsopcopzazixphi9uk5rsixbvhkpt2lknpj6ve1599u",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/tnGHtWI0IQnKsQHA?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "2fk5eGwAch1wGhsK3XhRUZpopXFGyRbFUn6XL4Yxpump",
-          "liq_usd": 0.0,
-          "mcap": 41084.0,
-          "buys_1h": 155,
-          "dex_url": "https://dexscreener.com/solana/b5ekvv36eqcw6rgwduxvqnmiqqbzhqknokddrcnkykrs",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:through",
-      "score": 56.2,
+      "narrative": "political",
+      "score": 58.9,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22492.66,
-      "total_buys_1h": 393,
+      "token_count": 3,
+      "total_liq_usd": 2644.23,
+      "total_buys_1h": 2021,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
-        {
-          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
-          "symbol": "",
-          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 19848.43,
-          "mcap": 59358.0,
-          "buys_1h": 393,
-          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792136634
-        },
         {
           "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
           "symbol": "",
@@ -713,18 +453,83 @@
           "mcap": 2491.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/mP9iY9tn4jb3GzkI?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "AgeZ7y4L6KhxXCVyvyrgFvmCPfaNWKbXbmd3hRRKpump",
+          "liq_usd": 0.0,
+          "mcap": 6867.69,
+          "buys_1h": 722,
+          "dex_url": "https://dexscreener.com/solana/7wcuwkjhpzh5xcbex2pw9skh82t3c5a96hgccdnvgrlc",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/OOMGoQM1g0KNG7sE?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BULfSqtuj5HQLxQTGDQ2AXZ4x7a7uXLTuK4qGoTGpump",
+          "liq_usd": 0.0,
+          "mcap": 3618.67,
+          "buys_1h": 1299,
+          "dex_url": "https://dexscreener.com/solana/kzgjef4g49kvezff5baxkj84konmlf43uauy8cpdhay",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:powered",
-      "score": 56.1,
+      "narrative": "novel:first",
+      "score": 57.7,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 11259.67,
+      "total_buys_1h": 130,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "The world's first GTA V server with real cryptocurrency integration",
+          "symbol": "",
+          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
+          "liq_usd": 11259.67,
+          "mcap": 22025.0,
+          "buys_1h": 14,
+          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
+          "ts": 1792140112
+        },
+        {
+          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
+          "symbol": "",
+          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+          "liq_usd": 0.0,
+          "mcap": 8681.9,
+          "buys_1h": 61,
+          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
+          "ts": 1792140112
+        },
+        {
+          "name": "The post-quantum wallet vault for Solana, and the first launchpad where Instagram creators get paid",
+          "symbol": "",
+          "mint": "3h4poyYGABrfoRBMzD11sF5fuLq1hvGZpNdtoeQfpump",
+          "liq_usd": 0.0,
+          "mcap": 18807.98,
+          "buys_1h": 55,
+          "dex_url": "https://dexscreener.com/solana/gzkq94gmblcaqhciwnp25u59c6xhj55rp2yryyiav5rn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:built",
+      "score": 57.4,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 22137.58,
-      "total_buys_1h": 393,
+      "total_liq_usd": 34234.37,
+      "total_buys_1h": 394,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -734,236 +539,201 @@
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 19848.43,
-          "mcap": 59358.0,
-          "buys_1h": 393,
+          "liq_usd": 19512.3,
+          "mcap": 58145.0,
+          "buys_1h": 331,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+          "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
           "symbol": "",
-          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
+          "liq_usd": 14722.07,
+          "mcap": 28123.0,
+          "buys_1h": 63,
+          "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:real",
-      "score": 55.5,
+      "narrative": "novel:with",
+      "score": 55.9,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 54372.07,
-      "total_buys_1h": 172,
+      "token_count": 8,
+      "total_liq_usd": 168879.18,
+      "total_buys_1h": 200,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.0,
+      "crowding": 0.25,
       "top_tokens": [
+        {
+          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+          "symbol": "",
+          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+          "liq_usd": 109768.37,
+          "mcap": 1146698.0,
+          "buys_1h": 74,
+          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+          "ts": 1792140112
+        },
         {
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 43805.08,
-          "mcap": 228436.0,
-          "buys_1h": 148,
+          "liq_usd": 43152.65,
+          "mcap": 220719.0,
+          "buys_1h": 101,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The world's first GTA V server with real cryptocurrency integration",
           "symbol": "",
           "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
-          "liq_usd": 10566.99,
-          "mcap": 19817.0,
-          "buys_1h": 24,
+          "liq_usd": 11259.67,
+          "mcap": 22025.0,
+          "buys_1h": 14,
           "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "celebrity",
-      "score": 54.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 43805.08,
-      "total_buys_1h": 152,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
-          "symbol": "",
-          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 43805.08,
-          "mcap": 228436.0,
-          "buys_1h": 148,
-          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792136634
+          "ts": 1792140112
         },
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:roadster",
-      "score": 53.8,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 2644.23,
-      "total_buys_1h": 141,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
-          "symbol": "",
-          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
-          "liq_usd": 2644.23,
-          "mcap": 2491.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
-          "ts": 1792136634
-        },
-        {
-          "name": "The OG Telsa Roadster paired with TSLA and SPCX",
-          "symbol": "",
-          "mint": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
-          "liq_usd": 0.0,
-          "mcap": 4985.72,
-          "buys_1h": 69,
-          "dex_url": "https://dexscreener.com/solana/h6xxvpo6xdtpjm8gupz9wyw4kitpelozcygdb2edgdue",
-          "ts": 1792136634
-        },
-        {
-          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
-          "symbol": "",
-          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-          "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
-          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:original",
-      "score": 51.3,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 2644.23,
-      "total_buys_1h": 76,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
-          "symbol": "",
-          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
-          "liq_usd": 2644.23,
-          "mcap": 2491.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
-          "ts": 1792136634
-        },
-        {
-          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
-          "symbol": "",
-          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-          "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
-          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
-        },
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:from",
-      "score": 50.9,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 2289.15,
-      "total_buys_1h": 76,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
           "symbol": "",
           "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
+          "name": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
           "symbol": "",
-          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-          "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
-          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
-        },
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "mint": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
+          "liq_usd": 2343.7,
+          "mcap": 2107.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/9iyhxmwtdtqszskx1kc6mbkcpu6wncwkbyvbayi3oc2e",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:paired",
-      "score": 50.4,
+      "narrative": "novel:official",
+      "score": 55.9,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 30512.82,
+      "total_liq_usd": 155414.72,
+      "total_buys_1h": 85,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+          "symbol": "",
+          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+          "liq_usd": 109768.37,
+          "mcap": 1146698.0,
+          "buys_1h": 74,
+          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+          "ts": 1792140112
+        },
+        {
+          "name": "We\u2019re the cto for the official biggest meme currency.  The rumored social currency attached to the biggest wave of interest in years and the biggest game",
+          "symbol": "",
+          "mint": "2uwxxiD1PshoPrrSoNvttRD8Aa1nwxVDTFf4JK36pump",
+          "liq_usd": 45646.35,
+          "mcap": 207764.0,
+          "buys_1h": 11,
+          "dex_url": "https://dexscreener.com/solana/52buwqk5uggkmvobhjfxrk5ywzfcbtthrpxz4o13dpx3",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:through",
+      "score": 55.4,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 22156.53,
+      "total_buys_1h": 331,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
+          "symbol": "",
+          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
+          "liq_usd": 19512.3,
+          "mcap": 58145.0,
+          "buys_1h": 331,
+          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
+          "ts": 1792140112
+        },
+        {
+          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
+          "symbol": "",
+          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
+          "liq_usd": 2644.23,
+          "mcap": 2491.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:powered",
+      "score": 55.4,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 21867.09,
+      "total_buys_1h": 332,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
+          "symbol": "",
+          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
+          "liq_usd": 19512.3,
+          "mcap": 58145.0,
+          "buys_1h": 331,
+          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
+          "ts": 1792140112
+        },
+        {
+          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+          "symbol": "",
+          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:holder",
+      "score": 54.3,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 109768.37,
       "total_buys_1h": 74,
       "social_posts": 0,
       "social_authors": 0,
@@ -971,35 +741,240 @@
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "Trump $1 Coin / paired with USDC",
+          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
-          "mint": "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump",
-          "liq_usd": 30512.82,
-          "mcap": 39840.0,
-          "buys_1h": 5,
-          "dex_url": "https://dexscreener.com/solana/fpjfwz3ngfvywkpdxzqm8qaljzmy6u3ngaa8nc7sndag",
-          "ts": 1792136634
+          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+          "liq_usd": 109768.37,
+          "mcap": 1146698.0,
+          "buys_1h": 74,
+          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+          "ts": 1792140112
+        },
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:real",
+      "score": 53.9,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 54412.32,
+      "total_buys_1h": 115,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
+          "symbol": "",
+          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
+          "liq_usd": 43152.65,
+          "mcap": 220719.0,
+          "buys_1h": 101,
+          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
+          "ts": 1792140112
+        },
+        {
+          "name": "The world's first GTA V server with real cryptocurrency integration",
+          "symbol": "",
+          "mint": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
+          "liq_usd": 11259.67,
+          "mcap": 22025.0,
+          "buys_1h": 14,
+          "dex_url": "https://dexscreener.com/solana/n34xqvb4cyt91xpdvvfjjxmpcjnubbpvitxkrw4bxxb",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "celebrity",
+      "score": 52.7,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 43152.65,
+      "total_buys_1h": 101,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
+          "symbol": "",
+          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
+          "liq_usd": 43152.65,
+          "mcap": 220719.0,
+          "buys_1h": 101,
+          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
+          "ts": 1792140112
+        },
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:roadster",
+      "score": 51.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 2644.23,
+      "total_buys_1h": 70,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
+          "symbol": "",
+          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
+          "liq_usd": 2644.23,
+          "mcap": 2491.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
+          "ts": 1792140112
         },
         {
           "name": "The OG Telsa Roadster paired with TSLA and SPCX",
           "symbol": "",
           "mint": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
           "liq_usd": 0.0,
-          "mcap": 4985.72,
-          "buys_1h": 69,
+          "mcap": 4967.54,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/h6xxvpo6xdtpjm8gupz9wyw4kitpelozcygdb2edgdue",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
+          "symbol": "",
+          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+          "liq_usd": 0.0,
+          "mcap": 8681.9,
+          "buys_1h": 61,
+          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:original",
+      "score": 50.4,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 2644.23,
+      "total_buys_1h": 61,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Elon Musk\u2019s original Tesla Roadster, casually cruising through space.",
+          "symbol": "",
+          "mint": "H2pkmDKUio79yzzj5cRF6fqf6Xeq6AmpTsVVGG9wpump",
+          "liq_usd": 2644.23,
+          "mcap": 2491.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/aw1npki2jc6zw17huv4gttimdecoengd6ewg62wrusfy",
+          "ts": 1792140112
+        },
+        {
+          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
+          "symbol": "",
+          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+          "liq_usd": 0.0,
+          "mcap": 8681.9,
+          "buys_1h": 61,
+          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
+          "ts": 1792140112
+        },
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:from",
+      "score": 50.2,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 2354.79,
+      "total_buys_1h": 62,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+          "symbol": "",
+          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
+          "ts": 1792140112
+        },
+        {
+          "name": "The original (first-generation) Tesla Roadster, produced from 2008\u20132012, was internally code-named DarkStar during development.",
+          "symbol": "",
+          "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+          "liq_usd": 0.0,
+          "mcap": 8681.9,
+          "buys_1h": 61,
+          "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
+          "ts": 1792140112
+        },
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:spacex",
-      "score": 48.6,
+      "score": 48.1,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 18854.44,
-      "total_buys_1h": 66,
+      "total_liq_usd": 17076.86,
+      "total_buys_1h": 64,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1009,67 +984,32 @@
           "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
           "symbol": "",
           "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 16565.29,
-          "mcap": 34845.0,
-          "buys_1h": 66,
+          "liq_usd": 14722.07,
+          "mcap": 28123.0,
+          "buys_1h": 63,
           "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
           "symbol": "",
           "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:earn",
-      "score": 45.3,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 63206.74,
-      "total_buys_1h": 11,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The Mask stays On.\n\nHold MaskCat to earn Mask, hold Mask you earn ZEC.",
-          "symbol": "",
-          "mint": "GZw7LxHtQKSQ1YsGnpNH7SovnBF8X6poYgavHwrmRekp",
-          "liq_usd": 63206.74,
-          "mcap": 253393.0,
-          "buys_1h": 9,
-          "dex_url": "https://dexscreener.com/solana/g7qktr9lr3pf44kp6alkw8sexigdxbg2jajtzrtukk15",
-          "ts": 1792136634
-        },
-        {
-          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
-          "symbol": "",
-          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
-          "liq_usd": 0.0,
-          "mcap": 15139.15,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "ai",
-      "score": 35.6,
+      "score": 37.3,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 12,
-      "total_liq_usd": 128487.61,
-      "total_buys_1h": 430,
+      "token_count": 11,
+      "total_liq_usd": 103568.29,
+      "total_buys_1h": 10382,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1079,62 +1019,97 @@
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 43805.08,
-          "mcap": 228436.0,
-          "buys_1h": 148,
+          "liq_usd": 43152.65,
+          "mcap": 220719.0,
+          "buys_1h": 101,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "This aint no state property",
           "symbol": "",
           "mint": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
-          "liq_usd": 35681.96,
-          "mcap": 162760.0,
-          "buys_1h": 15,
+          "liq_usd": 35848.05,
+          "mcap": 163383.0,
+          "buys_1h": 16,
           "dex_url": "https://dexscreener.com/solana/5wbycemmszmxy2cxlttchlgefl3y3kfvaqmasdtlfnv8",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "Trump $1 Coin / paired with USDC",
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump",
-          "liq_usd": 30512.82,
-          "mcap": 39840.0,
-          "buys_1h": 5,
-          "dex_url": "https://dexscreener.com/solana/fpjfwz3ngfvywkpdxzqm8qaljzmy6u3ngaa8nc7sndag",
-          "ts": 1792136634
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/TKRIkb0F8qv7Idgp?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/4KWc7Uf_Ugz-1oyH?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump",
-          "liq_usd": 16143.55,
-          "mcap": 37132.0,
-          "buys_1h": 59,
-          "dex_url": "https://dexscreener.com/solana/hscspbdaxu6euax4yxfr8sodxwheuwhbj4kvuxvgch1b",
-          "ts": 1792136634
+          "mint": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
+          "liq_usd": 5935.6,
+          "mcap": 7617.0,
+          "buys_1h": 3425,
+          "dex_url": "https://dexscreener.com/solana/bmbyvnuvywd9hrmaglfeqrncxxkem5qsxu2syeeehlyz",
+          "ts": 1792140112
         },
         {
           "name": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
           "symbol": "",
           "mint": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
-          "liq_usd": 2344.2,
-          "mcap": 2109.0,
-          "buys_1h": 0,
+          "liq_usd": 2343.7,
+          "mcap": 2107.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/9iyhxmwtdtqszskx1kc6mbkcpu6wncwkbyvbayi3oc2e",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:ambition",
+      "score": 32.8,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 2354.79,
+      "total_buys_1h": 5,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+          "symbol": "",
+          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
+          "ts": 1792140112
+        },
+        {
+          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
+          "symbol": "",
+          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
+          "liq_usd": 0.0,
+          "mcap": 15005.29,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:development",
-      "score": 33.4,
+      "score": 32.5,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
       "total_liq_usd": 0.0,
-      "total_buys_1h": 76,
+      "total_buys_1h": 61,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1145,30 +1120,30 @@
           "symbol": "",
           "mint": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
           "liq_usd": 0.0,
-          "mcap": 24593.23,
-          "buys_1h": 72,
+          "mcap": 8681.9,
+          "buys_1h": 61,
           "dex_url": "https://dexscreener.com/solana/gx9kjwbeqpgvwbx5shprodpjvjwheacyiohyhgb8zxit",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
           "symbol": "",
           "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
           "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
+          "mcap": 21001.83,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:ambition",
-      "score": 29.9,
+      "narrative": "novel:affiliated",
+      "score": 32.0,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
-      "total_liq_usd": 2289.15,
+      "total_liq_usd": 4698.49,
       "total_buys_1h": 2,
       "social_posts": 0,
       "social_authors": 0,
@@ -1179,32 +1154,32 @@
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
           "symbol": "",
           "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
+          "name": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
           "symbol": "",
-          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
-          "liq_usd": 0.0,
-          "mcap": 15139.15,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
-          "ts": 1792136634
+          "mint": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
+          "liq_usd": 2343.7,
+          "mcap": 2107.0,
+          "buys_1h": 1,
+          "dex_url": "https://dexscreener.com/solana/9iyhxmwtdtqszskx1kc6mbkcpu6wncwkbyvbayi3oc2e",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:driven",
-      "score": 27.7,
+      "score": 30.5,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
-      "total_liq_usd": 4781.2,
-      "total_buys_1h": 0,
+      "total_liq_usd": 4867.26,
+      "total_buys_1h": 1,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1214,132 +1189,27 @@
           "name": "Unofficial, community-driven Dogefather movement. ANDIAMO",
           "symbol": "",
           "mint": "GmRZNKavuh2KxpdQ3QL5jmZfQpJm8zvubdCR4ddQpump",
-          "liq_usd": 2492.05,
-          "mcap": 2179.0,
+          "liq_usd": 2512.47,
+          "mcap": 2196.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/75sfch8xyera4w9kibfw1afd1h5l24xwrgak5rjkdh2u",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
           "symbol": "",
           "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
+          "liq_usd": 2354.79,
+          "mcap": 2154.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:affiliated",
-      "score": 27.6,
-      "stage": "\ud83d\udfe1 Early",
-      "token_count": 2,
-      "total_liq_usd": 4633.35,
-      "total_buys_1h": 0,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
-          "symbol": "",
-          "mint": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
-          "liq_usd": 2344.2,
-          "mcap": 2109.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/9iyhxmwtdtqszskx1kc6mbkcpu6wncwkbyvbayi3oc2e",
-          "ts": 1792136634
-        },
-        {
-          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
-          "symbol": "",
-          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2289.15,
-          "mcap": 2089.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:run",
-      "score": 23.8,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 2,
-      "total_liq_usd": 0.0,
-      "total_buys_1h": 6,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        },
-        {
-          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
-          "symbol": "",
-          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
-          "liq_usd": 0.0,
-          "mcap": 15139.15,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:high",
-      "score": 23.8,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 2,
-      "total_liq_usd": 0.0,
-      "total_buys_1h": 6,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
-          "symbol": "",
-          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-          "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
-          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
-        },
-        {
-          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
-          "symbol": "",
-          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
-          "liq_usd": 0.0,
-          "mcap": 15139.15,
-          "buys_1h": 2,
-          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:just",
       "score": 22.4,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 2,
@@ -1351,6 +1221,76 @@
       "crowding": 0.0,
       "top_tokens": [
         {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        },
+        {
+          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
+          "symbol": "",
+          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
+          "liq_usd": 0.0,
+          "mcap": 15005.29,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:run",
+      "score": 22.4,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 2,
+      "total_liq_usd": 0.0,
+      "total_buys_1h": 4,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
+          "symbol": "",
+          "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+          "liq_usd": 0.0,
+          "mcap": 21001.83,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
+          "ts": 1792140112
+        },
+        {
+          "name": "WELCOME TO HEATWAVE.\n\nSundown Bay is calling.\n\nA city of fast cars, dangerous jobs, and endless ambition.\n\n\ud83c\udfce\ufe0f Collect rare rides.\n\ud83d\udc65 Build your crew.\n\ud83d\udd25 Run high-risk operations.\n\ud83c\udfd9\ufe0f Build your empire.\n\nA new Web3 idle strategy game coming to Solana.\nDRIVE. EARN. UPGRADE.",
+          "symbol": "",
+          "mint": "HKrTVBPVF9B8LEkNvZDm4PeNScnvoHv8JxNMTahVpump",
+          "liq_usd": 0.0,
+          "mcap": 15005.29,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/4zijl9s6c8igudhexcwjmevdedktm3wpqsaxjdtymx7w",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:just",
+      "score": 16.0,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 2,
+      "total_liq_usd": 0.0,
+      "total_buys_1h": 0,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
           "name": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow until Jan 1, 2027. No promises, just the seal in the bunker.",
           "symbol": "",
           "mint": "GPojeXRcXthWBMWxWC6iY5TMjY8dLf25Q2Ft4kMVRwD4",
@@ -1358,28 +1298,28 @@
           "mcap": 9293.72,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/fr9xc6fzavjxnbbl6rdtfuksw6hn4fzbeqrjedbpnjqn",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework\u2014fusing the legendary momentum of White Whale with the high-engagement Halloween seasonal trend. Positioned within the exact same high-conviction X community that successfully propelled $whalentine (a White Whale and Valentine's Day double meta) to a 700k market cap, this project benefits from a proven playbook, an established holder base, and a battle-tested development team. By systematically combining the raw viral power of the historic 200 million market cap White Whale run from late November last year with a perfectly timed holiday narrative, $whaleoween is engineered not just to mirror past success, but to surpass the milestones of both its predecessor and the original infamous whale run to claim dominance in the Q4 meme coin market.",
           "symbol": "",
           "mint": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
           "liq_usd": 0.0,
-          "mcap": 21681.72,
-          "buys_1h": 4,
+          "mcap": 21001.83,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/faem12atlb3yxh946ftx63atdgiketoswkxrzyhbb3fn",
-          "ts": 1792136634
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel",
       "score": 14.8,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 27,
-      "total_liq_usd": 317553.6,
-      "total_buys_1h": 19955,
+      "token_count": 28,
+      "total_liq_usd": 348173.55,
+      "total_buys_1h": 19417,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1389,192 +1329,62 @@
           "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
           "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 113765.06,
-          "mcap": 1235818.0,
-          "buys_1h": 227,
+          "liq_usd": 109768.37,
+          "mcap": 1146698.0,
+          "buys_1h": 74,
           "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 19848.43,
-          "mcap": 59358.0,
-          "buys_1h": 393,
+          "liq_usd": 19512.3,
+          "mcap": 58145.0,
+          "buys_1h": 331,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "",
-          "symbol": "",
-          "mint": "",
-          "liq_usd": 17458.38,
-          "mcap": 40045.0,
-          "buys_1h": 6,
-          "dex_url": "https://dexscreener.com/solana/6npvggrgtgmdypytghqj64hqykd6hnw7cvj1porhwypr",
-          "ts": 0
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:https",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:dexscreener",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:images",
-      "score": 14.2,
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1584,62 +1394,62 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:crop",
-      "score": 14.2,
+      "narrative": "novel:dexscreener",
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1649,62 +1459,62 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
-      "narrative": "novel:fit",
-      "score": 14.2,
+      "narrative": "novel:https",
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1714,257 +1524,62 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:quality",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:auto",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:width",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:format",
-      "score": 14.2,
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1974,62 +1589,257 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:width",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:quality",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:crop",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:com",
-      "score": 14.2,
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -2039,127 +1849,62 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
-    },
-    {
-      "narrative": "novel:cms",
-      "score": 14.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.7,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
-          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
-        }
-      ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:height",
-      "score": 14.2,
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -2169,62 +1914,257 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:fit",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:auto",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
+    },
+    {
+      "narrative": "novel:cms",
+      "score": 14.3,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
+          "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
+          "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
+        }
+      ],
+      "updated_at": 1792140193
     },
     {
       "narrative": "novel:cdn",
-      "score": 14.2,
+      "score": 14.3,
       "stage": "\ud83c\udf0a Crowded",
       "token_count": 24,
-      "total_liq_usd": 179816.5,
-      "total_buys_1h": 18945,
+      "total_liq_usd": 185315.53,
+      "total_buys_1h": 31057,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -2234,122 +2174,57 @@
           "name": "https://cdn.dexscreener.com/cms/images/BmHIUx1qcnVeyeVd?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-          "liq_usd": 38645.82,
-          "mcap": 191288.0,
-          "buys_1h": 7636,
+          "liq_usd": 47960.63,
+          "mcap": 263946.0,
+          "buys_1h": 8211,
           "dex_url": "https://dexscreener.com/solana/3d8vxmgha44jnfa8cv3x58uzdv5hfhvlk7q5lhcjnvdg",
-          "ts": 1792136634
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/-gy2jF-eUtIzBxsr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CqUIRRFMdmbqeJUK?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DkKywKToJSbMFzWDU79Lga9CjMhX6NWfMgkQurQZpump",
-          "liq_usd": 34659.03,
-          "mcap": 139955.0,
-          "buys_1h": 545,
-          "dex_url": "https://dexscreener.com/solana/6bk8hnufrs3wfnayz6z8fz1abty7czxwudtyyfnspw7z",
-          "ts": 1792136634
+          "mint": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+          "liq_usd": 36759.05,
+          "mcap": 183269.0,
+          "buys_1h": 333,
+          "dex_url": "https://dexscreener.com/solana/5zu7ftxqc5t7drkzcrmwyrvvsqcibnghjmrpqwzscchv",
+          "ts": 1792140112
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zej2nOpBkk9TqSIe?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/tCdV149j6w9U2Sxi?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
-          "liq_usd": 18744.76,
-          "mcap": 50619.0,
-          "buys_1h": 4706,
-          "dex_url": "https://dexscreener.com/solana/2d6joiyeyoxsy7brufywybsujjiev9vzpvrxszgmm4fq",
-          "ts": 1792136634
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/_J0-AFXJYhCLd6_l?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
-          "liq_usd": 16661.92,
-          "mcap": 40543.0,
-          "buys_1h": 2050,
-          "dex_url": "https://dexscreener.com/solana/gixwuocyw9qfb6sx9guoake6bm4rtltpplmtaqxhddbs",
-          "ts": 1792136634
+          "mint": "EkFhh66qoKydSLwWp7XUSuN6rDp7CpEXKmAzR1Yufy9u",
+          "liq_usd": 26220.79,
+          "mcap": 90748.0,
+          "buys_1h": 232,
+          "dex_url": "https://dexscreener.com/solana/3kcad1vbiwaxixdqadhieddvm2z8trjaurv3x9x7ddbd",
+          "ts": 1792140112
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/xvBjHTK_l9_ZDEeJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
-          "liq_usd": 16532.58,
-          "mcap": 43308.0,
-          "buys_1h": 14,
+          "liq_usd": 18219.65,
+          "mcap": 51434.0,
+          "buys_1h": 10,
           "dex_url": "https://dexscreener.com/solana/3tbk2lzd2nnzbwrv6ow7kd86zer1pdus3ueee81py2tt",
-          "ts": 1792136634
+          "ts": 1792140112
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CG9g68dJVE6Bo7JQ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+          "liq_usd": 16288.29,
+          "mcap": 39319.0,
+          "buys_1h": 4658,
+          "dex_url": "https://dexscreener.com/solana/2ptbig9s9xr4dwhtbzj21nxbxlu4gaa16mzg3peihhxm",
+          "ts": 1792140112
         }
       ],
-      "updated_at": 1792136721
+      "updated_at": 1792140193
     }
   ],
   "history": [
-    {
-      "ts": 1791967404,
-      "narratives": [
-        {
-          "narrative": "novel:with",
-          "score": 77.6,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 5
-        },
-        {
-          "narrative": "novel:that",
-          "score": 69.3,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:people",
-          "score": 66.1,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "meme",
-          "score": 64.7,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:every",
-          "score": 62.4,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:official",
-          "score": 61.8,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:marketplace",
-          "score": 59.0,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:movement",
-          "score": 57.1,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 2
-        },
-        {
-          "narrative": "animal",
-          "score": 54.2,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 4
-        },
-        {
-          "narrative": "ai",
-          "score": 53.2,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 10
-        }
-      ]
-    },
     {
       "ts": 1791970896,
       "narratives": [
@@ -5402,6 +5277,71 @@
           "score": 58.9,
           "stage": "\ud83d\udcc8 Expanding",
           "token_count": 2
+        }
+      ]
+    },
+    {
+      "ts": 1792140193,
+      "narratives": [
+        {
+          "narrative": "gaming",
+          "score": 73.4,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 6
+        },
+        {
+          "narrative": "animal",
+          "score": 70.9,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:this",
+          "score": 70.2,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:world",
+          "score": 64.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:community",
+          "score": 64.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:launch",
+          "score": 60.7,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:tesla",
+          "score": 60.5,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "meme",
+          "score": 59.5,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 7
+        },
+        {
+          "narrative": "political",
+          "score": 58.9,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:first",
+          "score": 57.7,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
         }
       ]
     }
