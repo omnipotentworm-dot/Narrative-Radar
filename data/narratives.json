@@ -1,80 +1,150 @@
 {
-  "generated_at": "2026-10-16T12:50:53.763623+00:00",
-  "generated_ts": 1792155053,
-  "tokens_scanned": 42,
+  "generated_at": "2026-10-16T13:48:35.669625+00:00",
+  "generated_ts": 1792158515,
+  "tokens_scanned": 46,
   "narratives": [
     {
-      "narrative": "meme",
-      "score": 76.9,
+      "narrative": "novel:holders",
+      "score": 69.6,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 5,
-      "total_liq_usd": 92450.11,
-      "total_buys_1h": 13234,
+      "token_count": 3,
+      "total_liq_usd": 147817.59,
+      "total_buys_1h": 373,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.1,
+      "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
+          "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
-          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-          "liq_usd": 50281.98,
-          "mcap": 213158.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
-          "ts": 1792154960
+          "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
+          "ts": 1792158428
+        },
+        {
+          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
+          "symbol": "",
+          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
+          "ts": 1792158428
+        },
+        {
+          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
+          "symbol": "",
+          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
+          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:community",
+      "score": 69.5,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 95901.19,
+      "total_buys_1h": 505,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
+          "symbol": "",
+          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/PqvceVnlc4nMRsHB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
-          "mint": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
-          "liq_usd": 2162.42,
-          "mcap": 2036.0,
-          "buys_1h": 4875,
-          "dex_url": "https://dexscreener.com/solana/5cij3qxfjsv1rrxee9g1ppgavm28sgf5kpgevuzge9mc",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/2Ek1Ho3bm1fVWany?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7Ka1RmfBGE1V1ehpjWfn9K8UrfQV6K98NnRW4WHPpump",
-          "liq_usd": 2123.26,
-          "mcap": 1997.0,
-          "buys_1h": 8173,
-          "dex_url": "https://dexscreener.com/solana/acw2slcbqsrwilrbnmzvuswsm6z6e3rljvs9xz9kldqq",
-          "ts": 1792154960
-        },
-        {
-          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
-          "symbol": "",
-          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
-          "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
+          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
+          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "celebrity",
+      "score": 69.3,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 85850.36,
+      "total_buys_1h": 1171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
+          "symbol": "",
+          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
+          "liq_usd": 48092.71,
+          "mcap": 273377.0,
+          "buys_1h": 180,
+          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
+          "ts": 1792158428
+        },
+        {
+          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
+          "symbol": "",
+          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
+          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/XbNb0EC9ttRmOXTD?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "93RFugk8jVwxBjAL3WY1uiGgA2UNqE9oRuHNrGMipump",
+          "liq_usd": 0.0,
+          "mcap": 20169.98,
+          "buys_1h": 850,
+          "dex_url": "https://dexscreener.com/solana/acyrwjeff43lpcb9kk1x8ehaghpnfipgnptxajqcckju",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "animal",
-      "score": 74.9,
+      "score": 69.3,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 6,
-      "total_liq_usd": 118605.47,
-      "total_buys_1h": 12431,
+      "total_liq_usd": 80857.58,
+      "total_buys_1h": 146,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -84,41 +154,31 @@
           "name": "The World Famous Pikachu Dog",
           "symbol": "",
           "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
-          "liq_usd": 58762.86,
-          "mcap": 149304.0,
-          "buys_1h": 5,
+          "liq_usd": 56755.99,
+          "mcap": 143391.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/akmxsy6blnkt3dqkkmrfa4u5rnl8hxcb48jgcpwftzxd",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Catch real graded Pok\u00e9mon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
           "symbol": "",
           "mint": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-          "liq_usd": 27317.09,
-          "mcap": 92974.0,
-          "buys_1h": 148,
+          "liq_usd": 21994.14,
+          "mcap": 63702.0,
+          "buys_1h": 68,
           "dex_url": "https://dexscreener.com/solana/5uvstfpqpsf9udazaikw87i4tawnihk81m5esx8zkguj",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/PqvceVnlc4nMRsHB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. \ud83d\udc15\u26a1\ufe0f\ud83d\ude80",
           "symbol": "",
           "mint": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
-          "liq_usd": 2162.42,
-          "mcap": 2036.0,
-          "buys_1h": 4875,
+          "liq_usd": 2107.08,
+          "mcap": 1981.0,
+          "buys_1h": 4,
           "dex_url": "https://dexscreener.com/solana/5cij3qxfjsv1rrxee9g1ppgavm28sgf5kpgevuzge9mc",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/8IZs9GT-jJfV-n1T?width=600&height=200&fit=crop&quality=95&format=auto",
@@ -128,108 +188,28 @@
           "mcap": 9721.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/6bhagr5zwxagsmqrnkuebdhxzbr3fecljw2cpggla6uy",
-          "ts": 1792154960
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/D_JPmhD0G_R-RsHr?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "DZP4mo7zocshZfMoFSqxzbVdgRbJHdBrfsjUUWVepump",
+          "liq_usd": 0.0,
+          "mcap": 3517.46,
+          "buys_1h": 60,
+          "dex_url": "https://dexscreener.com/solana/e26o2bxcgzeqs5pri1b8tptd2vdndazkjs1iotby1dyt",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:community",
-      "score": 69.4,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 97600.58,
-      "total_buys_1h": 483,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
-          "symbol": "",
-          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
-          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
-          "symbol": "",
-          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
-          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
-        },
-        {
-          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
-          "symbol": "",
-          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
-          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:holders",
-      "score": 69.2,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 148890.18,
-      "total_buys_1h": 338,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
-          "symbol": "",
-          "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
-          "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
-        },
-        {
-          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
-          "symbol": "",
-          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
-          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
-          "symbol": "",
-          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
-          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:real",
-      "score": 69.1,
+      "score": 68.8,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 107121.87,
-      "total_buys_1h": 421,
+      "total_liq_usd": 107844.5,
+      "total_buys_1h": 389,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -239,42 +219,87 @@
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 41922.33,
-          "mcap": 209653.0,
-          "buys_1h": 120,
+          "liq_usd": 48092.71,
+          "mcap": 273377.0,
+          "buys_1h": 180,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Catch real graded Pok\u00e9mon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
           "symbol": "",
           "mint": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-          "liq_usd": 27317.09,
-          "mcap": 92974.0,
-          "buys_1h": 148,
+          "liq_usd": 21994.14,
+          "mcap": 63702.0,
+          "buys_1h": 68,
           "dex_url": "https://dexscreener.com/solana/5uvstfpqpsf9udazaikw87i4tawnihk81m5esx8zkguj",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "political",
+      "score": 68.3,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 62871.19,
+      "total_buys_1h": 3738,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/V_I-cbyMXccYDW4H?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "9c2keutAzxJyRmChCpguE7DjHb1XMRcBnBuW1JiUpump",
+          "liq_usd": 0.0,
+          "mcap": 4001.09,
+          "buys_1h": 411,
+          "dex_url": "https://dexscreener.com/solana/giahb7d5rqvg5cekvrmeswnzcgfgbpoidmtioqinot3u",
+          "ts": 1792158428
+        },
+        {
+          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
+          "symbol": "",
+          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+          "liq_usd": 0.0,
+          "mcap": 4623.12,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:built",
-      "score": 67.5,
+      "score": 67.9,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 69738.21,
-      "total_buys_1h": 385,
+      "total_liq_usd": 69071.23,
+      "total_buys_1h": 434,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -284,42 +309,42 @@
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
           "symbol": "",
           "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 10020.08,
-          "mcap": 14533.0,
-          "buys_1h": 55,
+          "liq_usd": 10927.69,
+          "mcap": 16895.0,
+          "buys_1h": 70,
           "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:powered",
-      "score": 67.2,
+      "score": 66.2,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 50605.52,
-      "total_buys_1h": 456,
+      "total_liq_usd": 43920.82,
+      "total_buys_1h": 398,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -329,21 +354,21 @@
           "name": "Catch real graded Pok\u00e9mon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
           "symbol": "",
           "mint": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-          "liq_usd": 27317.09,
-          "mcap": 92974.0,
-          "buys_1h": 148,
+          "liq_usd": 21994.14,
+          "mcap": 63702.0,
+          "buys_1h": 68,
           "dex_url": "https://dexscreener.com/solana/5uvstfpqpsf9udazaikw87i4tawnihk81m5esx8zkguj",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -353,18 +378,18 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:own",
-      "score": 61.8,
+      "score": 63.6,
       "stage": "\ud83d\udd25 Forming",
       "token_count": 3,
-      "total_liq_usd": 41922.71,
-      "total_buys_1h": 137,
+      "total_liq_usd": 48093.09,
+      "total_buys_1h": 192,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -374,11 +399,11 @@
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 41922.33,
-          "mcap": 209653.0,
-          "buys_1h": 120,
+          "liq_usd": 48092.71,
+          "mcap": 273377.0,
+          "buys_1h": 180,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
@@ -388,63 +413,173 @@
           "mcap": 8337.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/2nrpm714yrjhmteszb9j8wqhtpztgidfcu7nksexszxt",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
           "symbol": "",
           "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
           "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
+          "mcap": 15940.63,
+          "buys_1h": 12,
           "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "celebrity",
-      "score": 58.5,
+      "narrative": "meme",
+      "score": 60.8,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 79804.78,
-      "total_buys_1h": 273,
+      "token_count": 7,
+      "total_liq_usd": 159726.85,
+      "total_buys_1h": 3525,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.0,
+      "crowding": 0.25,
       "top_tokens": [
         {
-          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 41922.33,
-          "mcap": 209653.0,
-          "buys_1h": 120,
-          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792154960
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
+          "symbol": "",
+          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+          "liq_usd": 49819.09,
+          "mcap": 211256.0,
+          "buys_1h": 16,
+          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/wuPrdKS7KUAY5RZg?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8xDiE7TYxmmS3ZTeR8y7L6xSrG5WTGTnrDUvSkQ2pump",
+          "liq_usd": 5063.5,
+          "mcap": 11489.0,
+          "buys_1h": 22,
+          "dex_url": "https://dexscreener.com/solana/esbt4cweu9uzfenmzk8l3khitifnmlccyruvzyccozfs",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/2Ek1Ho3bm1fVWany?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7Ka1RmfBGE1V1ehpjWfn9K8UrfQV6K98NnRW4WHPpump",
+          "liq_usd": 2108.34,
+          "mcap": 1975.0,
+          "buys_1h": 3,
+          "dex_url": "https://dexscreener.com/solana/acw2slcbqsrwilrbnmzvuswsm6z6e3rljvs9xz9kldqq",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:new",
+      "score": 60.8,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 3,
+      "total_liq_usd": 51926.17,
+      "total_buys_1h": 90,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
+          "symbol": "",
+          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+          "liq_usd": 49819.09,
+          "mcap": 211256.0,
+          "buys_1h": 16,
+          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
+          "ts": 1792158428
+        },
+        {
+          "name": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. \ud83d\udc15\u26a1\ufe0f\ud83d\ude80",
+          "symbol": "",
+          "mint": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
+          "liq_usd": 2107.08,
+          "mcap": 1981.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/5cij3qxfjsv1rrxee9g1ppgavm28sgf5kpgevuzge9mc",
+          "ts": 1792158428
+        },
+        {
+          "name": "A little idea is a new beginning.",
+          "symbol": "",
+          "mint": "PdtREY9H6Fp9jVMpG36aywtCgxTtsQZetmehKqgyern",
+          "liq_usd": 0.0,
+          "mcap": 11993.31,
+          "buys_1h": 70,
+          "dex_url": "https://dexscreener.com/solana/8anmnd6jtpcvxsgenwh4wgtwyluuyrwtatevxkydac5d",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "gaming",
+      "score": 59.2,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 42917.29,
+      "total_buys_1h": 558,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Where every token becomes playable.",
+          "symbol": "",
+          "mint": "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump",
+          "liq_usd": 30988.24,
+          "mcap": 80376.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/qiks6tvxgnocaduhrb3b94cyeaujevp1c7xeymfyt7z",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/nFbxNR70viOKzjBC?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "6KodYiP8E1ixDgkqW6ET9uto3hc8Der7n3vS6MNwpump",
+          "liq_usd": 11929.05,
+          "mcap": 25557.0,
+          "buys_1h": 554,
+          "dex_url": "https://dexscreener.com/solana/a61fyzmpgzpovuq19pl7ebwvynqdk1ehcyy2qgarlkcx",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:ecosystem",
-      "score": 58.4,
+      "score": 58.7,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 59718.13,
-      "total_buys_1h": 330,
+      "total_liq_usd": 58143.54,
+      "total_buys_1h": 364,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -454,32 +589,32 @@
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:through",
-      "score": 58.4,
+      "score": 58.7,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 59718.13,
-      "total_buys_1h": 330,
+      "total_liq_usd": 58143.54,
+      "total_buys_1h": 364,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -489,32 +624,32 @@
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:with",
-      "score": 58.0,
+      "score": 58.4,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 8,
-      "total_liq_usd": 210096.83,
-      "total_buys_1h": 345,
+      "total_liq_usd": 216431.57,
+      "total_buys_1h": 379,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -524,41 +659,41 @@
           "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
           "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
           "symbol": "",
           "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 41922.33,
-          "mcap": 209653.0,
-          "buys_1h": 120,
+          "liq_usd": 48092.71,
+          "mcap": 273377.0,
+          "buys_1h": 180,
           "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -568,18 +703,73 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:tesla",
+      "score": 58.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 4,
+      "total_liq_usd": 15379.92,
+      "total_buys_1h": 74,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.1,
+      "top_tokens": [
+        {
+          "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
+          "symbol": "",
+          "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
+          "liq_usd": 10927.69,
+          "mcap": 16895.0,
+          "buys_1h": 70,
+          "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
+          "ts": 1792158428
+        },
+        {
+          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+          "symbol": "",
+          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
+          "liq_usd": 2345.15,
+          "mcap": 2146.0,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
+          "ts": 1792158428
+        },
+        {
+          "name": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. \ud83d\udc15\u26a1\ufe0f\ud83d\ude80",
+          "symbol": "",
+          "mint": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
+          "liq_usd": 2107.08,
+          "mcap": 1981.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/5cij3qxfjsv1rrxee9g1ppgavm28sgf5kpgevuzge9mc",
+          "ts": 1792158428
+        },
+        {
+          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
+          "symbol": "",
+          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+          "liq_usd": 0.0,
+          "mcap": 4623.12,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:that",
-      "score": 57.8,
+      "score": 57.5,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 127054.5,
-      "total_buys_1h": 161,
+      "total_liq_usd": 127431.7,
+      "total_buys_1h": 150,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -589,97 +779,102 @@
           "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
           "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "ai",
-      "score": 56.9,
+      "narrative": "novel:long",
+      "score": 56.6,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 8,
-      "total_liq_usd": 258630.1,
-      "total_buys_1h": 203,
+      "token_count": 2,
+      "total_liq_usd": 76319.66,
+      "total_buys_1h": 175,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.25,
+      "crowding": 0.0,
       "top_tokens": [
-        {
-          "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
-          "symbol": "",
-          "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
-          "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
-        },
-        {
-          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
-          "symbol": "",
-          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-          "liq_usd": 50281.98,
-          "mcap": 213158.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
-          "ts": 1792154960
-        },
-        {
-          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
-          "symbol": "",
-          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-          "liq_usd": 41922.33,
-          "mcap": 209653.0,
-          "buys_1h": 120,
-          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
-          "ts": 1792154960
-        },
         {
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
-          "name": "This aint no state property",
+          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
-          "mint": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
-          "liq_usd": 38478.89,
-          "mcap": 187464.0,
-          "buys_1h": 12,
-          "dex_url": "https://dexscreener.com/solana/5wbycemmszmxy2cxlttchlgefl3y3kfvaqmasdtlfnv8",
-          "ts": 1792154960
+          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
+          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:term",
+      "score": 56.6,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 76319.66,
+      "total_buys_1h": 175,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
+          "symbol": "",
+          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
+          "ts": 1792158428
+        },
+        {
+          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
+          "symbol": "",
+          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
+          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:world",
-      "score": 56.9,
+      "score": 56.4,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 96645.31,
-      "total_buys_1h": 158,
+      "total_liq_usd": 94513.64,
+      "total_buys_1h": 142,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -689,32 +884,77 @@
           "name": "The World Famous Pikachu Dog",
           "symbol": "",
           "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
-          "liq_usd": 58762.86,
-          "mcap": 149304.0,
-          "buys_1h": 5,
+          "liq_usd": 56755.99,
+          "mcap": 143391.0,
+          "buys_1h": 1,
           "dex_url": "https://dexscreener.com/solana/akmxsy6blnkt3dqkkmrfa4u5rnl8hxcb48jgcpwftzxd",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:paired",
+      "score": 56.3,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 38562.01,
+      "total_buys_1h": 36,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
+          "symbol": "",
+          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
+          "ts": 1792158428
+        },
+        {
+          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
+          "symbol": "",
+          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+          "liq_usd": 0.0,
+          "mcap": 4623.12,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
+          "ts": 1792158428
+        },
+        {
+          "name": "The OG Telsa Roadster paired with TSLA and SPCX",
+          "symbol": "",
+          "mint": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
+          "liq_usd": 0.0,
+          "mcap": 3893.33,
+          "buys_1h": 2,
+          "dex_url": "https://dexscreener.com/solana/h6xxvpo6xdtpjm8gupz9wyw4kitpelozcygdb2edgdue",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:official",
-      "score": 56.7,
+      "score": 56.2,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 85017.61,
-      "total_buys_1h": 167,
+      "total_liq_usd": 84107.91,
+      "total_buys_1h": 148,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -724,102 +964,97 @@
           "name": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
           "symbol": "",
           "mint": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
-          "liq_usd": 47135.16,
-          "mcap": 362666.0,
-          "buys_1h": 14,
+          "liq_usd": 46350.26,
+          "mcap": 351949.0,
+          "buys_1h": 7,
           "dex_url": "https://dexscreener.com/solana/8sacr5tmpmufk8kcggbxhz517yqg1m2xj2jca7bzpcut",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "novel:term",
-      "score": 56.6,
+      "narrative": "ai",
+      "score": 55.4,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 76657.3,
-      "total_buys_1h": 175,
+      "token_count": 10,
+      "total_liq_usd": 283563.36,
+      "total_buys_1h": 2056,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.0,
+      "crowding": 0.25,
       "top_tokens": [
+        {
+          "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
+          "symbol": "",
+          "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
+          "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
+          "ts": 1792158428
+        },
+        {
+          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
+          "symbol": "",
+          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+          "liq_usd": 49819.09,
+          "mcap": 211256.0,
+          "buys_1h": 16,
+          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
+          "ts": 1792158428
+        },
+        {
+          "name": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
+          "symbol": "",
+          "mint": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
+          "liq_usd": 48092.71,
+          "mcap": 273377.0,
+          "buys_1h": 180,
+          "dex_url": "https://dexscreener.com/solana/91tcj2v9wfs11pkvyzkntswc35cb1tujxpkugsgnrjcq",
+          "ts": 1792158428
+        },
+        {
+          "name": "This aint no state property",
+          "symbol": "",
+          "mint": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
+          "liq_usd": 39117.82,
+          "mcap": 195100.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/5wbycemmszmxy2cxlttchlgefl3y3kfvaqmasdtlfnv8",
+          "ts": 1792158428
+        },
         {
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
-          "symbol": "",
-          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
-          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:long",
-      "score": 56.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 76657.3,
-      "total_buys_1h": 175,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
-          "symbol": "",
-          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
-          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
-          "symbol": "",
-          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
-          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:index",
       "score": 55.2,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 20943.28,
-      "total_buys_1h": 325,
+      "total_liq_usd": 19581.53,
+      "total_buys_1h": 342,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -829,191 +1064,31 @@
           "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
           "symbol": "",
           "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
+          "liq_usd": 19581.53,
+          "mcap": 61305.0,
+          "buys_1h": 330,
           "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
           "symbol": "",
           "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
           "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
+          "mcap": 15940.63,
+          "buys_1h": 12,
           "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:paired",
-      "score": 54.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 38774.85,
-      "total_buys_1h": 23,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
-          "symbol": "",
-          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
-          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
-          "symbol": "",
-          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
-          "liq_usd": 0.0,
-          "mcap": 4623.12,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
-          "ts": 1792154960
-        },
-        {
-          "name": "The OG Telsa Roadster paired with TSLA and SPCX",
-          "symbol": "",
-          "mint": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
-          "liq_usd": 0.0,
-          "mcap": 3853.19,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/h6xxvpo6xdtpjm8gupz9wyw4kitpelozcygdb2edgdue",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:new",
-      "score": 54.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 50281.98,
-      "total_buys_1h": 144,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
-          "symbol": "",
-          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-          "liq_usd": 50281.98,
-          "mcap": 213158.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
-          "ts": 1792154960
-        },
-        {
-          "name": "A little idea is a new beginning.",
-          "symbol": "",
-          "mint": "PdtREY9H6Fp9jVMpG36aywtCgxTtsQZetmehKqgyern",
-          "liq_usd": 0.0,
-          "mcap": 12330.49,
-          "buys_1h": 128,
-          "dex_url": "https://dexscreener.com/solana/8anmnd6jtpcvxsgenwh4wgtwyluuyrwtatevxkydac5d",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:tesla",
-      "score": 54.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 12365.23,
-      "total_buys_1h": 55,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
-          "symbol": "",
-          "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 10020.08,
-          "mcap": 14533.0,
-          "buys_1h": 55,
-          "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792154960
-        },
-        {
-          "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
-          "symbol": "",
-          "mint": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-          "liq_usd": 2345.15,
-          "mcap": 2146.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
-        },
-        {
-          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
-          "symbol": "",
-          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
-          "liq_usd": 0.0,
-          "mcap": 4623.12,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:crypto",
-      "score": 54.4,
+      "score": 54.0,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 37882.45,
-      "total_buys_1h": 170,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
-          "symbol": "",
-          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
-          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
-        },
-        {
-          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
-          "symbol": "",
-          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
-          "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:beyond",
-      "score": 54.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 40227.6,
+      "total_liq_usd": 37757.65,
       "total_buys_1h": 153,
       "social_posts": 0,
       "social_authors": 0,
@@ -1024,11 +1099,46 @@
           "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
           "symbol": "",
           "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-          "liq_usd": 37882.45,
-          "mcap": 183169.0,
-          "buys_1h": 153,
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
           "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
-          "ts": 1792154960
+          "ts": 1792158428
+        },
+        {
+          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
+          "symbol": "",
+          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
+          "liq_usd": 0.0,
+          "mcap": 15940.63,
+          "buys_1h": 12,
+          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:beyond",
+      "score": 53.8,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 40102.8,
+      "total_buys_1h": 141,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with his hilarious high-speed spins, quirky personality, and determination to keep going. \ud83e\udd86\ud83e\udde1\n\nWith over 100 million TikTok views (@dawgsandducks), celebrity attention, major brand partnerships, a special feature on the Philadelphia Eagles' official TikTok, and an upcoming television appearance, Dinky's story has reached far beyond social media.\n\n$DINKY is a Solana memecoin created by Dinky's actual owner, bringing his real-world story into the crypto world. What started as a meme has grown into a passionate community united by one very special duck and a long-term vision.\n\nOne flock. One mission. One destination. \ud83d\ude80\ud83c\udf15",
+          "symbol": "",
+          "mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+          "liq_usd": 37757.65,
+          "mcap": 182748.0,
+          "buys_1h": 141,
+          "dex_url": "https://dexscreener.com/solana/cff8nw52ru26pf5uciswzymjtltvqwnledbdvqjytfm7",
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -1038,18 +1148,18 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:launchpad",
-      "score": 50.4,
+      "score": 49.3,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 97417.14,
-      "total_buys_1h": 30,
+      "total_liq_usd": 96169.35,
+      "total_buys_1h": 23,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1059,32 +1169,32 @@
           "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
           "symbol": "",
           "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-          "liq_usd": 50281.98,
-          "mcap": 213158.0,
+          "liq_usd": 49819.09,
+          "mcap": 211256.0,
           "buys_1h": 16,
           "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
           "symbol": "",
           "mint": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
-          "liq_usd": 47135.16,
-          "mcap": 362666.0,
-          "buys_1h": 14,
+          "liq_usd": 46350.26,
+          "mcap": 351949.0,
+          "buys_1h": 7,
           "dex_url": "https://dexscreener.com/solana/8sacr5tmpmufk8kcggbxhz517yqg1m2xj2jca7bzpcut",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:your",
-      "score": 49.4,
+      "score": 48.8,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 89172.05,
-      "total_buys_1h": 25,
+      "total_liq_usd": 89674.05,
+      "total_buys_1h": 21,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1094,67 +1204,32 @@
           "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
           "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
           "symbol": "",
           "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
           "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
+          "mcap": 15940.63,
+          "buys_1h": 12,
           "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:memecoins",
-      "score": 48.8,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 50281.98,
-      "total_buys_1h": 33,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
-          "symbol": "",
-          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-          "liq_usd": 50281.98,
-          "mcap": 213158.0,
-          "buys_1h": 16,
-          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
-          "ts": 1792154960
-        },
-        {
-          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
-          "symbol": "",
-          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
-          "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:affiliated",
-      "score": 46.6,
+      "score": 48.3,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 41120.0,
-      "total_buys_1h": 22,
+      "total_liq_usd": 40907.16,
+      "total_buys_1h": 34,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1164,11 +1239,11 @@
           "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
           "symbol": "",
           "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
           "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -1178,18 +1253,88 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:rewards",
+      "score": 48.1,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 38562.01,
+      "total_buys_1h": 34,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
+          "symbol": "",
+          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+          "liq_usd": 38562.01,
+          "mcap": 202052.0,
+          "buys_1h": 34,
+          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
+          "ts": 1792158428
+        },
+        {
+          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
+          "symbol": "",
+          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+          "liq_usd": 0.0,
+          "mcap": 4623.12,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:memecoins",
+      "score": 48.1,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 49819.09,
+      "total_buys_1h": 28,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as moin, and become a onchain billionaire!",
+          "symbol": "",
+          "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
+          "liq_usd": 49819.09,
+          "mcap": 211256.0,
+          "buys_1h": 16,
+          "dex_url": "https://dexscreener.com/solana/cbr2ul7ktbr8muutj3fycurzerp28ga2p1vpumeky1je",
+          "ts": 1792158428
+        },
+        {
+          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
+          "symbol": "",
+          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
+          "liq_usd": 0.0,
+          "mcap": 15940.63,
+          "buys_1h": 12,
+          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:spacex",
-      "score": 46.6,
+      "score": 47.7,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 12365.23,
-      "total_buys_1h": 55,
+      "total_liq_usd": 13272.84,
+      "total_buys_1h": 70,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1199,11 +1344,11 @@
           "name": "Tesla built the car. SpaceX launched it. Starman became the icon.",
           "symbol": "",
           "mint": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-          "liq_usd": 10020.08,
-          "mcap": 14533.0,
-          "buys_1h": 55,
+          "liq_usd": 10927.69,
+          "mcap": 16895.0,
+          "buys_1h": 70,
           "dex_url": "https://dexscreener.com/solana/awezcf9581k4xkkjwsdnpa8cp8kdgjctvltt5l5mffxt",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -1213,88 +1358,18 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:rewards",
-      "score": 46.4,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 38774.85,
-      "total_buys_1h": 22,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "EGGU is an independent Solana community token paired directly with PENGU.\n\ud83e\udd5a EGGU \u2192 \ud83d\udc27 PENGU\nThrough StonkFun\u2019s built-in reward system, eligible EGGU holders can receive PENGU rewards. The project is focused on building a long-term community around the EGGU/PENGU pairing, transparent on-chain activity, and continued ecosystem growth.\nIndependent community token. Not affiliated with Pudgy Penguins.",
-          "symbol": "",
-          "mint": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-          "liq_usd": 38774.85,
-          "mcap": 202645.0,
-          "buys_1h": 22,
-          "dex_url": "https://dexscreener.com/solana/h8s3xm93y6ufmjhjue7xqhh6saq8szqvjgwwnydrpecq",
-          "ts": 1792154960
-        },
-        {
-          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
-          "symbol": "",
-          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
-          "liq_usd": 0.0,
-          "mcap": 4623.12,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:every",
-      "score": 46.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 32452.76,
-      "total_buys_1h": 23,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Where every token becomes playable.",
-          "symbol": "",
-          "mint": "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump",
-          "liq_usd": 32452.76,
-          "mcap": 87297.0,
-          "buys_1h": 6,
-          "dex_url": "https://dexscreener.com/solana/qiks6tvxgnocaduhrb3b94cyeaujevp1c7xeymfyt7z",
-          "ts": 1792154960
-        },
-        {
-          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
-          "symbol": "",
-          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
-          "liq_usd": 0.0,
-          "mcap": 14785.14,
-          "buys_1h": 17,
-          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:from",
-      "score": 45.2,
+      "score": 45.7,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 91517.2,
-      "total_buys_1h": 8,
+      "total_liq_usd": 92019.2,
+      "total_buys_1h": 9,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1304,11 +1379,11 @@
           "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
           "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "From Earth to Mars. \ud83d\ude80\ud83d\udd34 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
@@ -1318,18 +1393,18 @@
           "mcap": 2146.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/ejzkrczotkvwmt5shxuqpphbj8q6qqbr7gapqefdztzb",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
       "narrative": "novel:earn",
-      "score": 45.2,
+      "score": 45.6,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 89172.43,
-      "total_buys_1h": 8,
+      "total_liq_usd": 89674.43,
+      "total_buys_1h": 9,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1339,11 +1414,11 @@
           "name": "Create tokens that automatically earn creator fees from 1\u201310% of all volume and share them with your holders. Available on all chains.",
           "symbol": "",
           "mint": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-          "liq_usd": 89172.05,
-          "mcap": 345073.0,
-          "buys_1h": 8,
+          "liq_usd": 89674.05,
+          "mcap": 351820.0,
+          "buys_1h": 9,
           "dex_url": "https://dexscreener.com/solana/3iodstfu18uxoggmmjud6tztkvw72uqapddbjes42ppk",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
           "name": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
@@ -1353,1023 +1428,993 @@
           "mcap": 8337.0,
           "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/2nrpm714yrjhmteszb9j8wqhtpztgidfcu7nksexszxt",
-          "ts": 1792154960
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "novel:crop",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:auto",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:quality",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:fit",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:dexscreener",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:cdn",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:height",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:format",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:cms",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:images",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "novel:width",
-      "score": 26.2,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 20,
-      "total_liq_usd": 194564.91,
-      "total_buys_1h": 31449,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/QhxPTBtxn5vIXmhD?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
-          "liq_usd": 4626.76,
-          "mcap": 5305.0,
-          "buys_1h": 923,
-          "dex_url": "https://dexscreener.com/solana/g2fwteztpctfme144luadb5smeyl97bp4tbvfsqh8toz",
-          "ts": 1792154960
-        }
-      ],
-      "updated_at": 1792155053
-    },
-    {
-      "narrative": "political",
-      "score": 25.9,
-      "stage": "\ud83d\udfe1 Early",
+      "narrative": "novel:every",
+      "score": 44.6,
+      "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 0.0,
-      "total_buys_1h": 11,
+      "total_liq_usd": 30988.24,
+      "total_buys_1h": 16,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/qbf0pReJmILNfBJO?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "Where every token becomes playable.",
           "symbol": "",
-          "mint": "7M9evHfYRrJuAqCrjoW7tHrX67Yw34NB7Meu2SoMpump",
-          "liq_usd": 0.0,
-          "mcap": 3708.91,
-          "buys_1h": 11,
-          "dex_url": "https://dexscreener.com/solana/ysvknnerzrua8hk8yw5dktff9iydabptqys8tsjvdkt",
-          "ts": 1792154960
+          "mint": "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump",
+          "liq_usd": 30988.24,
+          "mcap": 80376.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/qiks6tvxgnocaduhrb3b94cyeaujevp1c7xeymfyt7z",
+          "ts": 1792158428
         },
         {
-          "name": "he might be sit, but he still pretty fly. \nFueled with the intelligence of Nikola Tesla, paired holder rewards Elon's TSLAx",
+          "name": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint and redeem pays a 0.40% protocol fee, and half of it buys GRAVI on the market and burns it.",
           "symbol": "",
-          "mint": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+          "mint": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
           "liq_usd": 0.0,
-          "mcap": 4623.12,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/a6cjqu6qapyyjpjretxyz34rxqzs3rgavlpqjqk9ukpe",
-          "ts": 1792154960
+          "mcap": 15940.63,
+          "buys_1h": 12,
+          "dex_url": "https://dexscreener.com/solana/gep89dxf9dhmx23cq2lwwimenhub7rwjaruwqnipcj5r",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "novel",
-      "score": 14.5,
+      "narrative": "novel:roadster",
+      "score": 33.1,
+      "stage": "\ud83d\udfe1 Early",
+      "token_count": 2,
+      "total_liq_usd": 2107.08,
+      "total_buys_1h": 6,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. \ud83d\udc15\u26a1\ufe0f\ud83d\ude80",
+          "symbol": "",
+          "mint": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
+          "liq_usd": 2107.08,
+          "mcap": 1981.0,
+          "buys_1h": 4,
+          "dex_url": "https://dexscreener.com/solana/5cij3qxfjsv1rrxee9g1ppgavm28sgf5kpgevuzge9mc",
+          "ts": 1792158428
+        },
+        {
+          "name": "The OG Telsa Roadster paired with TSLA and SPCX",
+          "symbol": "",
+          "mint": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
+          "liq_usd": 0.0,
+          "mcap": 3893.33,
+          "buys_1h": 2,
+          "dex_url": "https://dexscreener.com/solana/h6xxvpo6xdtpjm8gupz9wyw4kitpelozcygdb2edgdue",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:https",
+      "score": 14.9,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 22,
-      "total_liq_usd": 244010.98,
-      "total_buys_1h": 10101,
+      "token_count": 24,
+      "total_liq_usd": 353528.4,
+      "total_buys_1h": 40239,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.7,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:com",
+      "score": 14.9,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 24,
+      "total_liq_usd": 353528.4,
+      "total_buys_1h": 40239,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 320740.06,
+      "total_buys_1h": 34722,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
         },
         {
           "name": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
           "symbol": "",
           "mint": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
-          "liq_usd": 47135.16,
-          "mcap": 362666.0,
-          "buys_1h": 14,
+          "liq_usd": 46350.26,
+          "mcap": 351949.0,
+          "buys_1h": 7,
           "dex_url": "https://dexscreener.com/solana/8sacr5tmpmufk8kcggbxhz517yqg1m2xj2jca7bzpcut",
-          "ts": 1792154960
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
         },
         {
-          "name": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by the ecosystem.",
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-          "liq_usd": 20943.28,
-          "mcap": 67751.0,
-          "buys_1h": 308,
-          "dex_url": "https://dexscreener.com/solana/espeqy84fzxyapahwx476q1fswuesrueezsyckuuxon9",
-          "ts": 1792154960
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "novel:https",
-      "score": 14.4,
+      "narrative": "novel:auto",
+      "score": 14.8,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 221882.0,
-      "total_buys_1h": 31597,
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.7,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
         },
         {
-          "name": "Catch real graded Pok\u00e9mon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-          "liq_usd": 27317.09,
-          "mcap": 92974.0,
-          "buys_1h": 148,
-          "dex_url": "https://dexscreener.com/solana/5uvstfpqpsf9udazaikw87i4tawnihk81m5esx8zkguj",
-          "ts": 1792154960
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
     },
     {
-      "narrative": "novel:com",
-      "score": 14.4,
+      "narrative": "novel:fit",
+      "score": 14.8,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 21,
-      "total_liq_usd": 221882.0,
-      "total_buys_1h": 31597,
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.7,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/LqeQQ_7F-gqjK3gn?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-          "liq_usd": 72786.04,
-          "mcap": 3009862.0,
-          "buys_1h": 0,
-          "dex_url": "https://dexscreener.com/solana/cb2wq23xvechrzqcbrnywd57gqan5csj6b8dmqpfpuh7",
-          "ts": 1792154960
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/ORwYcDYWD0Cl85um?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-          "liq_usd": 40260.88,
-          "mcap": 140821.0,
-          "buys_1h": 541,
-          "dex_url": "https://dexscreener.com/solana/hnhdpmdhh7eq7ngj4szcnbxwguks6jhs1t6nytkebxcy",
-          "ts": 1792154960
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/zqBKmuzadnI5KV5z?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-          "liq_usd": 32168.76,
-          "mcap": 142492.0,
-          "buys_1h": 1658,
-          "dex_url": "https://dexscreener.com/solana/fc7tguyshk8gyhbnggcz26bgsptsuevczhqpynv7truh",
-          "ts": 1792154960
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/seLQOwFeR2ZRUJTm?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
-          "liq_usd": 30362.73,
-          "mcap": 120729.0,
-          "buys_1h": 7362,
-          "dex_url": "https://dexscreener.com/solana/cs7yf5jbxdn3z5zmwyrswsj3qqntbufqlbp4tgmzf8xk",
-          "ts": 1792154960
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
         },
         {
-          "name": "Catch real graded Pok\u00e9mon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-          "liq_usd": 27317.09,
-          "mcap": 92974.0,
-          "buys_1h": 148,
-          "dex_url": "https://dexscreener.com/solana/5uvstfpqpsf9udazaikw87i4tawnihk81m5esx8zkguj",
-          "ts": 1792154960
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
         }
       ],
-      "updated_at": 1792155053
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:height",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:quality",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:images",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:width",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:cdn",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:crop",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:format",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:cms",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
+    },
+    {
+      "narrative": "novel:dexscreener",
+      "score": 14.8,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 23,
+      "total_liq_usd": 331534.26,
+      "total_buys_1h": 40171,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.7,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/SG00LO8Phvb3C5GJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
+          "liq_usd": 79388.17,
+          "mcap": 842121.0,
+          "buys_1h": 6684,
+          "dex_url": "https://dexscreener.com/solana/3qng1rkg3xh4d4snkmdc5vf6ccp8sbbefy3nwpt8gr4f",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/3Bzrac2C02rxFK-h?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+          "liq_usd": 62871.19,
+          "mcap": 548187.0,
+          "buys_1h": 3327,
+          "dex_url": "https://dexscreener.com/solana/fxbuwzwnzugzrtargwfttggsctwomnbnzeqyesbadw6o",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/Pcpxug-y0TcSFgA3?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
+          "liq_usd": 40276.37,
+          "mcap": 92652.0,
+          "buys_1h": 17,
+          "dex_url": "https://dexscreener.com/solana/7sqabjw6pqqluwsuwtwxfjk9cpd3yxyzercckzyhafmw",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GrAyYR0iIAvZ8onS?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+          "liq_usd": 25216.09,
+          "mcap": 90299.0,
+          "buys_1h": 58,
+          "dex_url": "https://dexscreener.com/solana/eqjmaageyqpnpojgirsw7jrsr5hkta2ao5wrambzp8i4",
+          "ts": 1792158428
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/lSF0m4OlynZpA9CB?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "78ZBbCJkwQjXxRJJ2xv4gXU1BZvAayrvysqF4bmZpump",
+          "liq_usd": 24502.35,
+          "mcap": 82220.0,
+          "buys_1h": 8696,
+          "dex_url": "https://dexscreener.com/solana/2cpgnxqduq1t1zfcw5a8c9qfkzvqxnc7f9dk3guqgrbg",
+          "ts": 1792158428
+        }
+      ],
+      "updated_at": 1792158515
     }
   ],
   "history": [
-    {
-      "ts": 1791985546,
-      "narratives": [
-        {
-          "narrative": "meme",
-          "score": 77.7,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 5
-        },
-        {
-          "narrative": "animal",
-          "score": 76.4,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 5
-        },
-        {
-          "narrative": "novel:that",
-          "score": 73.5,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:official",
-          "score": 72.3,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:with",
-          "score": 71.6,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "novel:fund",
-          "score": 64.8,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:world",
-          "score": 63.0,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "celebrity",
-          "score": 61.0,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:halloween",
-          "score": 56.6,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:people",
-          "score": 55.5,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 2
-        }
-      ]
-    },
     {
       "ts": 1791988898,
       "narratives": [
@@ -5422,6 +5467,71 @@
           "score": 58.4,
           "stage": "\ud83d\udcc8 Expanding",
           "token_count": 2
+        }
+      ]
+    },
+    {
+      "ts": 1792158515,
+      "narratives": [
+        {
+          "narrative": "novel:holders",
+          "score": 69.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:community",
+          "score": 69.5,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "celebrity",
+          "score": 69.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "animal",
+          "score": 69.3,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 6
+        },
+        {
+          "narrative": "novel:real",
+          "score": 68.8,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "political",
+          "score": 68.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:built",
+          "score": 67.9,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:powered",
+          "score": 66.2,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:own",
+          "score": 63.6,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "meme",
+          "score": 60.8,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 7
         }
       ]
     }
