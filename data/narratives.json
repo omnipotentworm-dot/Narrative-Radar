@@ -1,225 +1,170 @@
 {
-  "generated_at": "2026-10-17T14:36:20.449593+00:00",
-  "generated_ts": 1792247780,
-  "tokens_scanned": 46,
+  "generated_at": "2026-10-17T15:36:19.602073+00:00",
+  "generated_ts": 1792251379,
+  "tokens_scanned": 42,
   "narratives": [
     {
-      "narrative": "novel:with",
-      "score": 77.9,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 5,
-      "total_liq_usd": 133571.28,
-      "total_buys_1h": 1120,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.1,
-      "top_tokens": [
-        {
-          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-          "symbol": "",
-          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 91523.86,
-          "mcap": 808349.0,
-          "buys_1h": 1041,
-          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792247714
-        },
-        {
-          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
-          "symbol": "",
-          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
-          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
-          "symbol": "",
-          "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
-          "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
-        },
-        {
-          "name": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own a slice of a slab or the whole thing. $PLAYSET is paired with $CARDS, the Collector Crypt token.",
-          "symbol": "",
-          "mint": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-          "liq_usd": 7496.91,
-          "mcap": 9266.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/7q6dkvuptwepxumgbumj5reugtabqwb4jxhzgzy88jzn",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
       "narrative": "novel:official",
-      "score": 71.5,
+      "score": 71.3,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 4,
-      "total_liq_usd": 176860.41,
-      "total_buys_1h": 1077,
+      "token_count": 3,
+      "total_liq_usd": 166792.58,
+      "total_buys_1h": 1100,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.1,
+      "crowding": 0.0,
       "top_tokens": [
         {
           "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
           "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 91523.86,
-          "mcap": 808349.0,
-          "buys_1h": 1041,
+          "liq_usd": 86443.68,
+          "mcap": 723651.0,
+          "buys_1h": 1071,
           "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "Official Derek Mercer token",
           "symbol": "",
           "mint": "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump",
-          "liq_usd": 77839.64,
-          "mcap": 517374.0,
-          "buys_1h": 21,
+          "liq_usd": 80348.9,
+          "mcap": 551726.0,
+          "buys_1h": 29,
           "dex_url": "https://dexscreener.com/solana/4wbt5gf46kct9dhznfvtaen5pnfr56u5htpw27tvytvv",
-          "ts": 1792247714
-        },
-        {
-          "name": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own a slice of a slab or the whole thing. $PLAYSET is paired with $CARDS, the Collector Crypt token.",
-          "symbol": "",
-          "mint": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-          "liq_usd": 7496.91,
-          "mcap": 9266.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/7q6dkvuptwepxumgbumj5reugtabqwb4jxhzgzy88jzn",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
           "symbol": "",
           "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
           "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
+          "mcap": 12431.61,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
-      "narrative": "gaming",
-      "score": 66.5,
+      "narrative": "novel:with",
+      "score": 70.5,
       "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 34016.91,
-      "total_buys_1h": 2060,
+      "token_count": 4,
+      "total_liq_usd": 120979.09,
+      "total_buys_1h": 1132,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
-      "crowding": 0.0,
+      "crowding": 0.1,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+          "liq_usd": 86443.68,
+          "mcap": 723651.0,
+          "buys_1h": 1071,
+          "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+          "ts": 1792251323
         },
         {
-          "name": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own a slice of a slab or the whole thing. $PLAYSET is paired with $CARDS, the Collector Crypt token.",
+          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
           "symbol": "",
-          "mint": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-          "liq_usd": 7496.91,
-          "mcap": 9266.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/7q6dkvuptwepxumgbumj5reugtabqwb4jxhzgzy88jzn",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "animal",
-      "score": 60.8,
-      "stage": "\ud83d\udd25 Forming",
-      "token_count": 3,
-      "total_liq_usd": 40730.34,
-      "total_buys_1h": 108,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Momo is a catwifmotion",
-          "symbol": "",
-          "mint": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
-          "liq_usd": 28416.66,
-          "mcap": 112910.0,
-          "buys_1h": 18,
-          "dex_url": "https://dexscreener.com/solana/psevxbyorpslz55vnjsbaw7a1yanpdsymyjijp1cujz",
-          "ts": 1792247714
+          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
+          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
+          "ts": 1792251323
         },
         {
           "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
           "symbol": "",
           "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
+          "liq_usd": 10602.44,
+          "mcap": 15116.0,
+          "buys_1h": 46,
           "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
+          "ts": 1792251323
+        },
+        {
+          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
+          "symbol": "",
+          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+          "liq_usd": 0.0,
+          "mcap": 12431.61,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "animal",
+      "score": 67.5,
+      "stage": "\ud83d\udd25 Forming",
+      "token_count": 4,
+      "total_liq_usd": 40562.24,
+      "total_buys_1h": 1385,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.1,
+      "top_tokens": [
+        {
+          "name": "Momo is a catwifmotion",
+          "symbol": "",
+          "mint": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
+          "liq_usd": 26865.7,
+          "mcap": 101772.0,
+          "buys_1h": 14,
+          "dex_url": "https://dexscreener.com/solana/psevxbyorpslz55vnjsbaw7a1yanpdsymyjijp1cujz",
+          "ts": 1792251323
+        },
+        {
+          "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
+          "symbol": "",
+          "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
+          "liq_usd": 10602.44,
+          "mcap": 15116.0,
+          "buys_1h": 46,
+          "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/MG_7beBubQ4S10-d?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "5BgmzQT3nBF1tPoP69aqygaNYzAVRUkYSHDz4q1Gpump",
+          "liq_usd": 3094.1,
+          "mcap": 3008.0,
+          "buys_1h": 1267,
+          "dex_url": "https://dexscreener.com/solana/goxet6itzeimv56gdydlbrjho34zbgl5hncwvb8nyzga",
+          "ts": 1792251323
         },
         {
           "name": "PLUTO AI \u2014 The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unlike traditional AI chatbots, Pluto can see your screen, control your mouse and keyboard, open applications, browse the internet, write code, and execute complex tasks.",
           "symbol": "",
           "mint": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
           "liq_usd": 0.0,
-          "mcap": 25635.49,
-          "buys_1h": 64,
+          "mcap": 21797.51,
+          "buys_1h": 58,
           "dex_url": "https://dexscreener.com/solana/bp7ndyyafqkzhwzust2iigfzgbwgsrgucxcyrdaw8spc",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:every",
-      "score": 60.5,
-      "stage": "\ud83d\udd25 Forming",
+      "score": 57.6,
+      "stage": "\ud83d\udcc8 Expanding",
       "token_count": 3,
-      "total_liq_usd": 35064.26,
-      "total_buys_1h": 113,
+      "total_liq_usd": 37945.98,
+      "total_buys_1h": 50,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -229,157 +174,42 @@
           "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
           "symbol": "",
           "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
           "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys back and burns $CUTS.",
           "symbol": "",
           "mint": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-          "liq_usd": 12827.43,
-          "mcap": 21793.0,
-          "buys_1h": 74,
+          "liq_usd": 14013.01,
+          "mcap": 25466.0,
+          "buys_1h": 35,
           "dex_url": "https://dexscreener.com/solana/13leuonjw9zcaygmswuzq1vsysnva4hrr8f84iep6vvb",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
           "symbol": "",
           "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
           "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
+          "mcap": 12431.61,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "meme",
-      "score": 59.6,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 49619.4,
-      "total_buys_1h": 3568,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:holders",
-      "score": 56.2,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 3,
-      "total_liq_usd": 22236.83,
-      "total_buys_1h": 53,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
-          "symbol": "",
-          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
-          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        },
-        {
-          "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
-          "symbol": "",
-          "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
-          "liq_usd": 0.0,
-          "mcap": 29762.58,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "political",
-      "score": 55.8,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 28014.3,
-      "total_buys_1h": 307,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Optimus Prime. by Elon's kid.",
-          "symbol": "",
-          "mint": "DKfHUe6apudnNCzvLQenNJWsy9FEviLWk5thif25pump",
-          "liq_usd": 16677.85,
-          "mcap": 41601.0,
-          "buys_1h": 37,
-          "dex_url": "https://dexscreener.com/solana/heryh7bfynttkxfkpv7gkghrytpw57x6spsbui7pepkl",
-          "ts": 1792247714
-        },
-        {
-          "name": "Elon has turned Artificial \n\nThe ticker is $AE",
-          "symbol": "",
-          "mint": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
-          "liq_usd": 11336.45,
-          "mcap": 20027.0,
-          "buys_1h": 270,
-          "dex_url": "https://dexscreener.com/solana/8tvm7ujxk3pznuj1tpzxyynbqhseykeqpyhvbp5gy3aq",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "ai",
-      "score": 55.5,
+      "score": 57.3,
       "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 9,
-      "total_liq_usd": 108347.09,
-      "total_buys_1h": 9107,
+      "token_count": 8,
+      "total_liq_usd": 88911.79,
+      "total_buys_1h": 1639,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -389,62 +219,142 @@
           "name": "This aint no state property",
           "symbol": "",
           "mint": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
-          "liq_usd": 32462.94,
-          "mcap": 136702.0,
-          "buys_1h": 79,
+          "liq_usd": 34083.82,
+          "mcap": 150104.0,
+          "buys_1h": 37,
           "dex_url": "https://dexscreener.com/solana/5wbycemmszmxy2cxlttchlgefl3y3kfvaqmasdtlfnv8",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
           "symbol": "",
           "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
           "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/7hGaU6CcnptfNVEU?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GxCEZaNR7FPUJq37Zov8tdFWWuwAiEeVqxGykbqNpump",
-          "liq_usd": 15942.85,
-          "mcap": 39071.0,
-          "buys_1h": 6222,
-          "dex_url": "https://dexscreener.com/solana/fvvvfwekn9rn3edkezuj25antj5zaa4gs1jaqlotyhre",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys back and burns $CUTS.",
           "symbol": "",
           "mint": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-          "liq_usd": 12827.43,
-          "mcap": 21793.0,
-          "buys_1h": 74,
+          "liq_usd": 14013.01,
+          "mcap": 25466.0,
+          "buys_1h": 35,
           "dex_url": "https://dexscreener.com/solana/13leuonjw9zcaygmswuzq1vsysnva4hrr8f84iep6vvb",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
           "symbol": "",
           "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
+          "liq_usd": 10602.44,
+          "mcap": 15116.0,
+          "buys_1h": 46,
           "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CQ5I0CgVOs6zYnFN?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "HVC1bzmjiQkaMcyD3RcU2UwVgE6wz63bxXtyfoZ5pump",
+          "liq_usd": 3185.45,
+          "mcap": 3252.0,
+          "buys_1h": 181,
+          "dex_url": "https://dexscreener.com/solana/cg28xrkwt32ttgbmmzxnkpak1mokafa8ngz63mhmyjvz",
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "political",
+      "score": 55.8,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 29626.77,
+      "total_buys_1h": 292,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Optimus Prime. by Elon's kid.",
+          "symbol": "",
+          "mint": "DKfHUe6apudnNCzvLQenNJWsy9FEviLWk5thif25pump",
+          "liq_usd": 18745.91,
+          "mcap": 51186.0,
+          "buys_1h": 63,
+          "dex_url": "https://dexscreener.com/solana/heryh7bfynttkxfkpv7gkghrytpw57x6spsbui7pepkl",
+          "ts": 1792251323
+        },
+        {
+          "name": "Elon has turned Artificial \n\nThe ticker is $AE",
+          "symbol": "",
+          "mint": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
+          "liq_usd": 10880.86,
+          "mcap": 18687.0,
+          "buys_1h": 229,
+          "dex_url": "https://dexscreener.com/solana/8tvm7ujxk3pznuj1tpzxyynbqhseykeqpyhvbp5gy3aq",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:holders",
+      "score": 55.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 3,
+      "total_liq_usd": 23932.97,
+      "total_buys_1h": 37,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
+          "symbol": "",
+          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
+          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
+          "ts": 1792251323
+        },
+        {
+          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
+          "symbol": "",
+          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+          "liq_usd": 0.0,
+          "mcap": 12431.61,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
+          "ts": 1792251323
+        },
+        {
+          "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
+          "symbol": "",
+          "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
+          "liq_usd": 0.0,
+          "mcap": 35927.8,
+          "buys_1h": 22,
+          "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:holding",
-      "score": 48.5,
+      "score": 47.1,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 12827.43,
-      "total_buys_1h": 88,
+      "total_liq_usd": 14013.01,
+      "total_buys_1h": 57,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -454,207 +364,32 @@
           "name": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys back and burns $CUTS.",
           "symbol": "",
           "mint": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-          "liq_usd": 12827.43,
-          "mcap": 21793.0,
-          "buys_1h": 74,
+          "liq_usd": 14013.01,
+          "mcap": 25466.0,
+          "buys_1h": 35,
           "dex_url": "https://dexscreener.com/solana/13leuonjw9zcaygmswuzq1vsysnva4hrr8f84iep6vvb",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
           "symbol": "",
           "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
           "liq_usd": 0.0,
-          "mcap": 29762.58,
-          "buys_1h": 14,
+          "mcap": 35927.8,
+          "buys_1h": 22,
           "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:rewards",
-      "score": 48.1,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22236.83,
-      "total_buys_1h": 52,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
-          "symbol": "",
-          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
-          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
-          "symbol": "",
-          "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
-          "liq_usd": 0.0,
-          "mcap": 29762.58,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:what",
-      "score": 47.9,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 12827.43,
-      "total_buys_1h": 75,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys back and burns $CUTS.",
-          "symbol": "",
-          "mint": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-          "liq_usd": 12827.43,
-          "mcap": 21793.0,
-          "buys_1h": 74,
-          "dex_url": "https://dexscreener.com/solana/13leuonjw9zcaygmswuzq1vsysnva4hrr8f84iep6vvb",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:also",
-      "score": 47.0,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22236.83,
-      "total_buys_1h": 39,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
-          "symbol": "",
-          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
-          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:hours",
-      "score": 47.0,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 22236.83,
-      "total_buys_1h": 39,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
-          "symbol": "",
-          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-          "liq_usd": 22236.83,
-          "mcap": 66041.0,
-          "buys_1h": 38,
-          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
-          "ts": 1792247714
-        },
-        {
-          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
-          "symbol": "",
-          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
-          "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
-          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:paired",
-      "score": 46.7,
-      "stage": "\ud83d\udcc8 Expanding",
-      "token_count": 2,
-      "total_liq_usd": 19810.59,
-      "total_buys_1h": 40,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.0,
-      "top_tokens": [
-        {
-          "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
-          "symbol": "",
-          "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
-          "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
-        },
-        {
-          "name": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own a slice of a slab or the whole thing. $PLAYSET is paired with $CARDS, the Collector Crypt token.",
-          "symbol": "",
-          "mint": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-          "liq_usd": 7496.91,
-          "mcap": 9266.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/7q6dkvuptwepxumgbumj5reugtabqwb4jxhzgzy88jzn",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:who",
-      "score": 45.3,
+      "score": 47.0,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 12313.68,
-      "total_buys_1h": 40,
+      "total_liq_usd": 10602.44,
+      "total_buys_1h": 68,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -664,32 +399,67 @@
           "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
           "symbol": "",
           "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
+          "liq_usd": 10602.44,
+          "mcap": 15116.0,
+          "buys_1h": 46,
           "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
           "symbol": "",
           "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
           "liq_usd": 0.0,
-          "mcap": 29762.58,
-          "buys_1h": 14,
+          "mcap": 35927.8,
+          "buys_1h": 22,
           "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:rewards",
+      "score": 47.0,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 23932.97,
+      "total_buys_1h": 37,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
+          "symbol": "",
+          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
+          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
+          "ts": 1792251323
+        },
+        {
+          "name": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
+          "symbol": "",
+          "mint": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
+          "liq_usd": 0.0,
+          "mcap": 35927.8,
+          "buys_1h": 22,
+          "dex_url": "https://dexscreener.com/solana/ajns1xgxhcu8owxaefqcv4r2nknyc6g6kctcbz6g9qd8",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:launched",
-      "score": 43.8,
+      "score": 45.4,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 12313.68,
-      "total_buys_1h": 27,
+      "total_liq_usd": 10602.44,
+      "total_buys_1h": 46,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -699,31 +469,66 @@
           "name": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart a thumbs up. Launched on stonkfun and paired with the MUSK Index ($MUSK4), Strap in, helmets on, we're going to Mars.",
           "symbol": "",
           "mint": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-          "liq_usd": 12313.68,
-          "mcap": 20581.0,
-          "buys_1h": 26,
+          "liq_usd": 10602.44,
+          "mcap": 15116.0,
+          "buys_1h": 46,
           "dex_url": "https://dexscreener.com/solana/fqjvu1jkbbzwwh8wl3nyfgwtbw4gwuhutbjuxgdphbn6",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
           "symbol": "",
           "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
           "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
+          "mcap": 12431.61,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
-      "narrative": "novel:own",
-      "score": 40.1,
+      "narrative": "novel:what",
+      "score": 45.2,
       "stage": "\ud83d\udcc8 Expanding",
       "token_count": 2,
-      "total_liq_usd": 7496.91,
+      "total_liq_usd": 14013.01,
+      "total_buys_1h": 35,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys back and burns $CUTS.",
+          "symbol": "",
+          "mint": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
+          "liq_usd": 14013.01,
+          "mcap": 25466.0,
+          "buys_1h": 35,
+          "dex_url": "https://dexscreener.com/solana/13leuonjw9zcaygmswuzq1vsysnva4hrr8f84iep6vvb",
+          "ts": 1792251323
+        },
+        {
+          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
+          "symbol": "",
+          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+          "liq_usd": 0.0,
+          "mcap": 12431.61,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:hours",
+      "score": 43.5,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 23932.97,
       "total_buys_1h": 15,
       "social_posts": 0,
       "social_authors": 0,
@@ -731,35 +536,70 @@
       "crowding": 0.0,
       "top_tokens": [
         {
-          "name": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own a slice of a slab or the whole thing. $PLAYSET is paired with $CARDS, the Collector Crypt token.",
+          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
           "symbol": "",
-          "mint": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-          "liq_usd": 7496.91,
-          "mcap": 9266.0,
-          "buys_1h": 14,
-          "dex_url": "https://dexscreener.com/solana/7q6dkvuptwepxumgbumj5reugtabqwb4jxhzgzy88jzn",
-          "ts": 1792247714
+          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
+          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
+          "ts": 1792251323
         },
         {
           "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
           "symbol": "",
           "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
           "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
+          "mcap": 12431.61,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:also",
+      "score": 43.5,
+      "stage": "\ud83d\udcc8 Expanding",
+      "token_count": 2,
+      "total_liq_usd": 23932.97,
+      "total_buys_1h": 15,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.0,
+      "top_tokens": [
+        {
+          "name": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get rewards too!",
+          "symbol": "",
+          "mint": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
+          "liq_usd": 23932.97,
+          "mcap": 76868.0,
+          "buys_1h": 15,
+          "dex_url": "https://dexscreener.com/solana/5jrozrgtve7tx2eg85tggtjyf9ryqcf2nl1eiketnhe3",
+          "ts": 1792251323
+        },
+        {
+          "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
+          "symbol": "",
+          "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+          "liq_usd": 0.0,
+          "mcap": 12431.61,
+          "buys_1h": 0,
+          "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:that",
-      "score": 32.8,
+      "score": 32.3,
       "stage": "\ud83d\udfe1 Early",
       "token_count": 2,
       "total_liq_usd": 0.0,
-      "total_buys_1h": 65,
+      "total_buys_1h": 58,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -770,876 +610,876 @@
           "symbol": "",
           "mint": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
           "liq_usd": 0.0,
-          "mcap": 25635.49,
-          "buys_1h": 64,
+          "mcap": 21797.51,
+          "buys_1h": 58,
           "dex_url": "https://dexscreener.com/solana/bp7ndyyafqkzhwzust2iigfzgbwgsrgucxcyrdaw8spc",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun went dark for 24 hours, what if gravity stopped for 5 seconds, what if the Moon vanished.\n\nHolders are called explorers \ud83e\udded The community lives on Telegram, with a new what-if question every hour.\n\n$WhatIf also has its own AI mind on AGENCY that researches, reasons through scenarios and makes its treasury moves on-chain, in public.\n\nMint and freeze authority revoked. Launched on pumpfun.",
           "symbol": "",
           "mint": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
           "liq_usd": 0.0,
-          "mcap": 12531.44,
-          "buys_1h": 1,
+          "mcap": 12431.61,
+          "buys_1h": 0,
           "dex_url": "https://dexscreener.com/solana/a7dpgupsoeeg56zopxsfyqvvmj3tdaxm1ub86weefujm",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:auto",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:cms",
-      "score": 26.6,
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:cdn",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:https",
-      "score": 26.6,
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
-      "narrative": "novel:fit",
-      "score": 26.6,
+      "narrative": "novel:cdn",
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:format",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:quality",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:images",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:crop",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
-    },
-    {
-      "narrative": "novel:dexscreener",
-      "score": 26.6,
-      "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
-      "social_posts": 0,
-      "social_authors": 0,
-      "social_samples": [],
-      "crowding": 0.45,
-      "top_tokens": [
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
-        },
-        {
-          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
-          "symbol": "",
-          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
-          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
-        }
-      ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:width",
-      "score": 26.6,
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:images",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:dexscreener",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:auto",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:quality",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:com",
-      "score": 26.6,
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel:height",
-      "score": 26.6,
+      "score": 30.6,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 18,
-      "total_liq_usd": 172561.24,
-      "total_buys_1h": 37770,
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
       "crowding": 0.45,
       "top_tokens": [
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/AgmF1vk9Ovw2X_p-?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-          "liq_usd": 26520.0,
-          "mcap": 101147.0,
-          "buys_1h": 2045,
-          "dex_url": "https://dexscreener.com/solana/4ad5j6gapxxck2ftfws1vvmpdyd8l8p4u5k3jashf1xn",
-          "ts": 1792247714
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/xUCq-wlzpCoX2BiX?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-          "liq_usd": 23099.4,
-          "mcap": 77789.0,
-          "buys_1h": 1523,
-          "dex_url": "https://dexscreener.com/solana/3p3ik27zvvfdvl3ciryfd69ioo7xtvtb1i5p12mafjq6",
-          "ts": 1792247714
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/v-UtJQNIS6v-Fu0f?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-          "liq_usd": 19055.86,
-          "mcap": 51779.0,
-          "buys_1h": 1928,
-          "dex_url": "https://dexscreener.com/solana/d33wvfvqkax4udrflf5zyrg2vmyajzdwkabyhrxhfy1u",
-          "ts": 1792247714
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
         },
         {
           "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
           "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
-          "liq_usd": 16726.62,
-          "mcap": 40519.0,
-          "buys_1h": 8122,
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
           "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
-          "ts": 1792247714
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:fit",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:crop",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
+    },
+    {
+      "narrative": "novel:format",
+      "score": 30.6,
+      "stage": "\ud83c\udf0a Crowded",
+      "token_count": 15,
+      "total_liq_usd": 94660.45,
+      "total_buys_1h": 28594,
+      "social_posts": 0,
+      "social_authors": 0,
+      "social_samples": [],
+      "crowding": 0.45,
+      "top_tokens": [
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/0_68o5QvF37EQlIM?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+          "liq_usd": 20762.48,
+          "mcap": 69309.0,
+          "buys_1h": 399,
+          "dex_url": "https://dexscreener.com/solana/8kpjmnbnytsqlazj79utfyh5fquwwwwvajrdisbzqn4",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/GWR7bwCibXPvRTUJ?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
+          "liq_usd": 13693.98,
+          "mcap": 30600.0,
+          "buys_1h": 2690,
+          "dex_url": "https://dexscreener.com/solana/9h223y63neybb7sygbv64slmeau8mwbo4gfpdmba3ntn",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/CceIGSf64AVfc2Oq?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
+          "liq_usd": 11340.68,
+          "mcap": 22558.0,
+          "buys_1h": 1931,
+          "dex_url": "https://dexscreener.com/solana/lucnkytxdexwzek4njr6hzqll5z3jxq579ep8qlmp9d",
+          "ts": 1792251323
+        },
+        {
+          "name": "https://cdn.dexscreener.com/cms/images/foXBDF4vGbe-jMHt?width=600&height=200&fit=crop&quality=95&format=auto",
+          "symbol": "",
+          "mint": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+          "liq_usd": 8125.03,
+          "mcap": 11864.0,
+          "buys_1h": 1747,
+          "dex_url": "https://dexscreener.com/solana/65pk1yhwdzhvkt1jxci15wfsqyju29hq1mmv2pe6kvjw",
+          "ts": 1792251323
+        }
+      ],
+      "updated_at": 1792251379
     },
     {
       "narrative": "novel",
       "score": 15.0,
       "stage": "\ud83c\udf0a Crowded",
-      "token_count": 32,
-      "total_liq_usd": 409541.0,
-      "total_buys_1h": 35022,
+      "token_count": 31,
+      "total_liq_usd": 443423.71,
+      "total_buys_1h": 35443,
       "social_posts": 0,
       "social_authors": 0,
       "social_samples": [],
@@ -1649,9 +1489,9 @@
           "name": "",
           "symbol": "",
           "mint": "",
-          "liq_usd": 93969.64,
-          "mcap": 933513.0,
-          "buys_1h": 359,
+          "liq_usd": 143346.57,
+          "mcap": 2099024.0,
+          "buys_1h": 3275,
           "dex_url": "https://dexscreener.com/solana/cnhqem7jpbja5p2xhbgphqg7e9nkzwcqr9q6r9ywb7zf",
           "ts": 0
         },
@@ -1659,112 +1499,47 @@
           "name": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
           "symbol": "",
           "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-          "liq_usd": 91523.86,
-          "mcap": 808349.0,
-          "buys_1h": 1041,
+          "liq_usd": 86443.68,
+          "mcap": 723651.0,
+          "buys_1h": 1071,
           "dex_url": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "Official Derek Mercer token",
           "symbol": "",
           "mint": "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump",
-          "liq_usd": 77839.64,
-          "mcap": 517374.0,
-          "buys_1h": 21,
+          "liq_usd": 80348.9,
+          "mcap": 551726.0,
+          "buys_1h": 29,
           "dex_url": "https://dexscreener.com/solana/4wbt5gf46kct9dhznfvtaen5pnfr56u5htpw27tvytvv",
-          "ts": 1792247714
+          "ts": 1792251323
         },
         {
           "name": "",
           "symbol": "",
           "mint": "",
-          "liq_usd": 29352.91,
-          "mcap": 122136.0,
-          "buys_1h": 18,
+          "liq_usd": 29668.71,
+          "mcap": 124817.0,
+          "buys_1h": 20,
           "dex_url": "https://dexscreener.com/solana/fvwfaeanvt2vzcshusfrfnku3negblgaj8gky6tporne",
           "ts": 0
         },
         {
-          "name": "https://cdn.dexscreener.com/cms/images/aOIzMTqmWGE1Q9X2?width=600&height=200&fit=crop&quality=95&format=auto",
+          "name": "https://cdn.dexscreener.com/cms/images/_o5Yv6XABW9pGBBV?width=600&height=200&fit=crop&quality=95&format=auto",
           "symbol": "",
-          "mint": "4hitw2qrw8vZa7Z9j1H4oDBPyvzD2XK1LZKHnLtJpump",
-          "liq_usd": 28528.74,
-          "mcap": 118826.0,
-          "buys_1h": 1816,
-          "dex_url": "https://dexscreener.com/solana/7jglnzzdj22sbzx6gweb7mndu4e3uhual1rnuravfvwa",
-          "ts": 1792247714
+          "mint": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
+          "liq_usd": 21719.64,
+          "mcap": 63938.0,
+          "buys_1h": 15255,
+          "dex_url": "https://dexscreener.com/solana/ffh2wcsheercddscpxbpgaib9k87ubjqgqmyfyqxqc7w",
+          "ts": 1792251323
         }
       ],
-      "updated_at": 1792247780
+      "updated_at": 1792251379
     }
   ],
   "history": [
-    {
-      "ts": 1792079082,
-      "narratives": [
-        {
-          "narrative": "meme",
-          "score": 77.8,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 5
-        },
-        {
-          "narrative": "novel:with",
-          "score": 76.4,
-          "stage": "\ud83d\udcc8 Expanding",
-          "token_count": 6
-        },
-        {
-          "narrative": "novel:official",
-          "score": 72.1,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:crypto",
-          "score": 71.4,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:that",
-          "score": 70.7,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 4
-        },
-        {
-          "narrative": "political",
-          "score": 70.2,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "gaming",
-          "score": 69.1,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 3
-        },
-        {
-          "narrative": "novel:together",
-          "score": 63.7,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:meets",
-          "score": 62.5,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        },
-        {
-          "narrative": "novel:memory",
-          "score": 62.4,
-          "stage": "\ud83d\udd25 Forming",
-          "token_count": 2
-        }
-      ]
-    },
     {
       "ts": 1792082588,
       "narratives": [
@@ -4815,6 +4590,71 @@
         {
           "narrative": "novel:holding",
           "score": 48.5,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        }
+      ]
+    },
+    {
+      "ts": 1792251379,
+      "narratives": [
+        {
+          "narrative": "novel:official",
+          "score": 71.3,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:with",
+          "score": 70.5,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "animal",
+          "score": 67.5,
+          "stage": "\ud83d\udd25 Forming",
+          "token_count": 4
+        },
+        {
+          "narrative": "novel:every",
+          "score": 57.6,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "ai",
+          "score": 57.3,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 8
+        },
+        {
+          "narrative": "political",
+          "score": 55.8,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        },
+        {
+          "narrative": "novel:holders",
+          "score": 55.0,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 3
+        },
+        {
+          "narrative": "novel:holding",
+          "score": 47.1,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        },
+        {
+          "narrative": "novel:who",
+          "score": 47.0,
+          "stage": "\ud83d\udcc8 Expanding",
+          "token_count": 2
+        },
+        {
+          "narrative": "novel:rewards",
+          "score": 47.0,
           "stage": "\ud83d\udcc8 Expanding",
           "token_count": 2
         }
