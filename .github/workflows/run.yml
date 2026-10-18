@@ -1,8 +1,7 @@
 name: narrative-detector
 
 on:
-  schedule:
-    - cron: '17 * * * *'   # every hour at :17
+  # schedule paused (Oct 2026) — only Grok Radar runs on a timer now. Run manually from the Actions tab.
   workflow_dispatch:         # manual trigger
 
 permissions:
